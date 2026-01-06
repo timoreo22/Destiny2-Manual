@@ -1,18 +1,347 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
-    "ExampleRegion":{
-        "connects_to": ["Second Region"],
-        "requires": "|Ryu| or {YamlCompare(Example_Range >= example )}",
+    "EDZ": {
+        "requires": "|EDZ Key|",
         "starting": true
     },
-    "Second Region": {
-        "requires": "|@Characters:1|",
-        "connects_to": ["Third Region"],
-        "exit_requires": {
-            "Third Region": "|@Characters:5|"
-        }
+    "Dreaming City": {
+        "requires": "|Dreaming City Key|",
+        "starting": true
     },
-    "Third Region": {
-        "connects_to": []
+    "Nessus": {
+        "requires": "|Nessus Key|",
+        "starting": true
+    },
+    "Moon": {
+        "requires": "|Moon Key|",
+        "starting": true
+    },
+    "Cosmodrome": {
+        "requires": "|Cosmodrome Key|",
+        "starting": true
+    },
+    "Europa": {
+        "requires": "|Europa Key|",
+        "starting": true
+    },
+    "Throne World": {
+        "requires": "|Throne World Key|",
+        "starting": true
+    },
+    "Pale Heart": {
+        "requires": "|Pale Heart Key|",
+        "starting": true
+    },
+    "Neomuna": {
+        "requires": "|Neomuna Key|",
+        "starting": true
+    },
+    "Kepler": {
+        "requires": "|Kepler Key|",
+        "starting": true
+    },
+    "Dungeon": {
+        "connects_to": [
+            "Shattered Throne",
+            "Pit of Heresy",
+            "Prophecy",
+            "Grasp of Avarice",
+            "Duality",
+            "Spire of the Watcher",
+            "Ghosts of the Deep",
+            "Warlord's Ruin",
+            "Vesper's Host",
+            "Sundered Doctrine",
+            "Equilibrium"
+        ],
+        "starting": true
+    },
+    "Shattered Throne": {
+        "requires": "|Shattered Throne Key|",
+        "connects_to": [
+            "Shattered Throne - Entrance"
+        ]
+    },
+    "Shattered Throne - Entrance": {
+        "connects_to": [
+            "Shattered Throne - Encounter 1"
+        ]
+    },
+    "Shattered Throne - Encounter 1": {
+        "requires": "|@Roam Weapons|",
+        "connects_to": [
+            "Shattered Throne - Encounter 2"
+        ]
+    },
+    "Shattered Throne - Encounter 2": {
+        "requires": "{requiresDpsAndRoam()}",
+        "connects_to": [
+            "Shattered Throne - Encounter 3"
+        ]
+    },
+    "Shattered Throne - Encounter 3": {
+        "requires": "|@DPS Weapons|"
+    },
+    "Pit of Heresy": {
+        "requires": "|Pit of Heresy Key|",
+        "connects_to": [
+            "Pit of Heresy - Entrance"
+        ]
+    },
+    "Pit of Heresy - Entrance": {
+        "connects_to": [
+            "Pit of Heresy - Encounter 1"
+        ]
+    },
+    "Pit of Heresy - Encounter 1": {
+        "requires": "|@Roam Weapons|",
+        "connects_to": [
+            "Pit of Heresy - Encounter 2"
+        ]
+    },
+    "Pit of Heresy - Encounter 2": {
+        "requires": "|@Roam Weapons|",
+        "connects_to": [
+            "Pit of Heresy - Encounter 3"
+        ]
+    },
+    "Pit of Heresy - Encounter 3": {
+        "requires": "|@DPS Weapons|"
+    },
+    "Prophecy": {
+        "requires": "|Prophecy Key|",
+        "connects_to": [
+            "Prophecy - Entrance"
+        ]
+    },
+    "Prophecy - Entrance": {
+        "connects_to": [
+            "Prophecy - Encounter 1"
+        ]
+    },
+    "Prophecy - Encounter 1": {
+        "requires": "|@DPS Weapons|",
+        "connects_to": [
+            "Prophecy - Encounter 2"
+        ]
+    },
+    "Prophecy - Encounter 2": {
+        "requires": "|@Roam Weapons|",
+        "connects_to": [
+            "Prophecy - Encounter 3"
+        ]
+    },
+    "Prophecy - Encounter 3": {
+        "requires": "|@DPS Weapons|"
+    },
+    "Grasp of Avarice": {
+        "requires": "|Grasp of Avarice Key|",
+        "connects_to": [
+            "Grasp of Avarice - Entrance"
+        ]
+    },
+    "Grasp of Avarice - Entrance": {
+        "connects_to": [
+            "Grasp of Avarice - Encounter 1"
+        ]
+    },
+    "Grasp of Avarice - Encounter 1": {
+        "requires": "|@DPS Weapons|",
+        "connects_to": [
+            "Grasp of Avarice - Encounter 2"
+        ]
+    },
+    "Grasp of Avarice - Encounter 2": {
+        "requires": "|@Roam Weapons|",
+        "connects_to": [
+            "Grasp of Avarice - Encounter 3"
+        ]
+    },
+    "Grasp of Avarice - Encounter 3": {
+        "requires": "{requiresDpsAndRoam()}"
+    },
+    "Duality": {
+        "requires": "|Duality Key|",
+        "connects_to": [
+            "Duality - Entrance"
+        ]
+    },
+    "Duality - Entrance": {
+        "connects_to": [
+            "Duality - Encounter 1"
+        ]
+    },
+    "Duality - Encounter 1": {
+        "requires": "|@DPS Weapons|",
+        "connects_to": [
+            "Duality - Encounter 2"
+        ]
+    },
+    "Duality - Encounter 2": {
+        "requires": "|@Roam Weapons|",
+        "connects_to": [
+            "Duality - Encounter 3"
+        ]
+    },
+    "Duality - Encounter 3": {
+        "requires": "{requiresDpsAndRoam()}"
+    },
+    "Spire of the Watcher": {
+        "requires": "|Spire of the Watcher Key|",
+        "connects_to": [
+            "Spire of the Watcher - Entrance"
+        ]
+    },
+    "Spire of the Watcher - Entrance": {
+        "connects_to": [
+            "Spire of the Watcher - Encounter 1"
+        ]
+    },
+    "Spire of the Watcher - Encounter 1": {
+        "_comment": "TODO : only requires ANY ranged weapon...",
+        "requires": "|@Roam Weapons|",
+        "connects_to": [
+            "Spire of the Watcher - Encounter 2"
+        ]
+    },
+    "Spire of the Watcher - Encounter 2": {
+        "requires": "|@DPS Weapons|",
+        "connects_to": [
+            "Spire of the Watcher - Encounter 3"
+        ]
+    },
+    "Spire of the Watcher - Encounter 3": {
+        "requires": "{requiresDpsAndRoam()}"
+    },
+    "Ghosts of the Deep": {
+        "requires": "|Ghosts of the Deep Key|",
+        "connects_to": [
+            "Ghosts of the Deep - Entrance"
+        ]
+    },
+    "Ghosts of the Deep - Entrance": {
+        "connects_to": [
+            "Ghosts of the Deep - Encounter 1"
+        ]
+    },
+    "Ghosts of the Deep - Encounter 1": {
+        "requires": "|@Roam Weapons|",
+        "connects_to": [
+            "Ghosts of the Deep - Encounter 2"
+        ]
+    },
+    "Ghosts of the Deep - Encounter 2": {
+        "requires": "{requiresDpsAndRoam()}",
+        "connects_to": [
+            "Ghosts of the Deep - Encounter 3"
+        ]
+    },
+    "Ghosts of the Deep - Encounter 3": {
+        "requires": "{requiresDpsAndRoam()}"
+    },
+    "Warlord's Ruin": {
+        "requires": "|Warlord's Ruin Key|",
+        "connects_to": [
+            "Warlord's Ruin - Entrance"
+        ]
+    },
+    "Warlord's Ruin - Entrance": {
+        "connects_to": [
+            "Warlord's Ruin - Encounter 1"
+        ]
+    },
+    "Warlord's Ruin - Encounter 1": {
+        "_comment": "TODO : + requires ANY ranged weapon...",
+        "requires": "|@DPS Weapons|",
+        "connects_to": [
+            "Warlord's Ruin - Encounter 2"
+        ]
+    },
+    "Warlord's Ruin - Encounter 2": {
+        "requires": "{requiresDpsAndRoam()}",
+        "connects_to": [
+            "Warlord's Ruin - Encounter 3"
+        ]
+    },
+    "Warlord's Ruin - Encounter 3": {
+        "requires": "|@DPS Weapons|"
+    },
+    "Vesper's Host": {
+        "requires": "|Vesper's Host Key|",
+        "connects_to": [
+            "Vesper's Host - Entrance"
+        ]
+    },
+    "Vesper's Host - Entrance": {
+        "connects_to": [
+            "Vesper's Host - Encounter 1"
+        ]
+    },
+    "Vesper's Host - Encounter 1": {
+        "requires": "|@Roam Weapons|",
+        "connects_to": [
+            "Vesper's Host - Encounter 2"
+        ]
+    },
+    "Vesper's Host - Encounter 2": {
+        "requires": "{requiresDpsAndRoam()}",
+        "connects_to": [
+            "Vesper's Host - Encounter 3"
+        ]
+    },
+    "Vesper's Host - Encounter 3": {
+        "requires": "{requiresDpsAndRoam()}"
+    },
+    "Sundered Doctrine": {
+        "requires": "|Sundered Doctrine Key|",
+        "connects_to": [
+            "Sundered Doctrine - Entrance"
+        ]
+    },
+    "Sundered Doctrine - Entrance": {
+        "connects_to": [
+            "Sundered Doctrine - Encounter 1"
+        ]
+    },
+    "Sundered Doctrine - Encounter 1": {
+        "requires": "|@Roam Weapons|",
+        "connects_to": [
+            "Sundered Doctrine - Encounter 2"
+        ]
+    },
+    "Sundered Doctrine - Encounter 2": {
+        "requires": "{requiresDpsAndRoam()}",
+        "connects_to": [
+            "Sundered Doctrine - Encounter 3"
+        ]
+    },
+    "Sundered Doctrine - Encounter 3": {
+        "requires": "{requiresDpsAndRoam()}"
+    },
+    "Equilibrium": {
+        "requires": "|Equilibrium Key|",
+        "connects_to": [
+            "Equilibrium - Entrance"
+        ]
+    },
+    "Equilibrium - Entrance": {
+        "connects_to": [
+            "Equilibrium - Encounter 1"
+        ]
+    },
+    "Equilibrium - Encounter 1": {
+        "requires": "|@Roam Weapons|",
+        "connects_to": [
+            "Equilibrium - Encounter 2"
+        ]
+    },
+    "Equilibrium - Encounter 2": {
+        "requires": "|@DPS Weapons|",
+        "connects_to": [
+            "Equilibrium - Encounter 3"
+        ]
+    },
+    "Equilibrium - Encounter 3": {
+        "requires": "|@DPS Weapons|"
     }
 }

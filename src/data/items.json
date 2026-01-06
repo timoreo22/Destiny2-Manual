@@ -2,408 +2,1229 @@
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
     "data": [
         {
-            "name": "Jill",
+            "name": "EDZ Key",
             "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "value": {"star": 5, "coins": 3},
-            "progression": true
-        },
-        {
-            "name": "Shuma-Gorath",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "value": {"star": 5},
-            "progression": true
-        },
-        {
-            "name": "Nemesis T-Type",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "value": {"coins": 7},
-        "progression": true
-        },
-        {
-            "name": "Firebrand",
-            "category": [
-                "Characters",
-                "Left Side"
+                "Destinations"
             ],
             "progression": true
         },
         {
-            "name": "Strider Hiryu",
+            "name": "Dreaming City Key",
             "category": [
-                "Characters",
-                "Left Side"
+                "Destinations"
             ],
             "progression": true
         },
         {
-            "name": "Phoenix Wright",
+            "name": "Nessus Key",
             "category": [
-                "Characters",
-                "Left Side"
+                "Destinations"
             ],
             "progression": true
         },
         {
-            "name": "Nova",
+            "name": "Moon Key",
             "category": [
-                "Characters",
-                "Right Side"
+                "Destinations"
             ],
             "progression": true
         },
         {
-            "name": "Ghost Rider",
+            "name": "Cosmodrome Key",
             "category": [
-                "Characters",
-                "Right Side"
+                "Destinations"
             ],
             "progression": true
         },
         {
-            "name": "Hawkeye",
+            "name": "Europa Key",
             "category": [
-                "Characters",
-                "Right Side"
+                "Destinations"
             ],
             "progression": true
         },
         {
-            "name": "Doctor Strange",
+            "name": "Throne World Key",
             "category": [
-                "Characters",
-                "Right Side"
+                "Destinations"
             ],
             "progression": true
         },
         {
-            "name": "Chris",
+            "name": "Pale Heart Key",
             "category": [
-                "Characters",
-                "Left Side"
+                "Destinations"
             ],
             "progression": true
         },
         {
-            "name": "Arthur",
+            "name": "Neomuna Key",
             "category": [
-                "Characters",
-                "Left Side"
+                "Destinations"
             ],
             "progression": true
         },
         {
-            "name": "Frank West",
+            "name": "Kepler Key",
             "category": [
-                "Characters",
-                "Left Side"
+                "Destinations"
             ],
             "progression": true
         },
         {
-            "name": "Vergil",
+            "name": "Shattered Throne Key",
             "category": [
-                "Characters",
-                "Left Side"
+                "Dungeon Keys"
             ],
             "progression": true
         },
         {
-            "name": "Iron Fist",
+            "name": "Pit of Heresy Key",
             "category": [
-                "Characters",
-                "Right Side"
+                "Dungeon Keys"
             ],
             "progression": true
         },
         {
-            "name": "Rocket Raccoon",
+            "name": "Prophecy Key",
             "category": [
-                "Characters",
-                "Right Side"
+                "Dungeon Keys"
             ],
             "progression": true
         },
         {
-            "name": "Captain America",
+            "name": "Grasp of Avarice Key",
             "category": [
-                "Characters",
-                "Right Side"
+                "Dungeon Keys"
             ],
             "progression": true
         },
         {
-            "name": "Dormammu",
+            "name": "Duality Key",
             "category": [
-                "Characters",
-                "Right Side"
+                "Dungeon Keys"
             ],
             "progression": true
         },
         {
-            "name": "Wesker",
+            "name": "Spire of the Watcher Key",
             "category": [
-                "Characters",
-                "Left Side"
+                "Dungeon Keys"
             ],
             "progression": true
         },
         {
-            "name": "Zero",
+            "name": "Ghosts of the Deep Key",
             "category": [
-                "Characters",
-                "Left Side"
+                "Dungeon Keys"
             ],
             "progression": true
         },
         {
-            "name": "Ryu",
+            "name": "Warlord's Ruin Key",
             "category": [
-                "Characters",
-                "Left Side"
+                "Dungeon Keys"
             ],
             "progression": true
         },
         {
-            "name": "Dante",
+            "name": "Vesper's Host Key",
             "category": [
-                "Characters",
-                "Left Side"
+                "Dungeon Keys"
             ],
             "progression": true
         },
         {
-            "name": "Deadpool",
+            "name": "Sundered Doctrine Key",
             "category": [
-                "Characters",
-                "Right Side"
+                "Dungeon Keys"
             ],
             "progression": true
         },
         {
-            "name": "Wolverine",
+            "name": "Equilibrium Key",
             "category": [
-                "Characters",
-                "Right Side"
+                "Dungeon Keys"
             ],
             "progression": true
         },
         {
-            "name": "Iron Man",
+            "name": "Cleared Dungeon",
             "category": [
-                "Characters",
-                "Right Side"
+                "Dungeon Clears"
             ],
+            "count": 11,
             "progression": true
         },
         {
-            "name": "Doctor Doom",
+            "name": "Pulse rifle / Micro-Missile",
             "category": [
-                "Characters",
-                "Right Side"
+                "Weapons - Pulse rifle",
+                "DPS Weapons",
+                "Roam Weapons",
+                "Kinetic Weapons",
+                "Energy Weapons",
+                "Weapons - Rank S"
             ],
-            "progression": true
+            "progression": true,
+            "useful": true
         },
         {
-            "name": "Morrigan",
+            "name": "Crossbow / High-Impact",
             "category": [
-                "Characters",
-                "Left Side"
+                "Weapons - Crossbow",
+                "DPS Weapons",
+                "Power Weapons",
+                "Weapons - Rank A"
             ],
-            "progression": true
+            "progression": true,
+            "useful": true
         },
         {
-            "name": "Tron",
+            "name": "Sniper rifle / Disruption",
             "category": [
-                "Characters",
-                "Left Side"
+                "Weapons - Sniper rifle",
+                "DPS Weapons",
+                "Power Weapons",
+                "Weapons - Rank A"
             ],
-            "progression": true
+            "progression": true,
+            "useful": true
         },
         {
-            "name": "Chun-Li",
+            "name": "Sniper rifle / Dynamic (140RPM)",
             "category": [
-                "Characters",
-                "Left Side"
+                "Weapons - Sniper rifle",
+                "DPS Weapons",
+                "Kinetic Weapons",
+                "Weapons - Rank A"
             ],
-            "progression": true
+            "progression": true,
+            "useful": true
         },
         {
-            "name": "Trish",
+            "name": "Hand cannon / Special Dynamic (180RPM)",
             "category": [
-                "Characters",
-                "Left Side"
+                "Weapons - Hand cannon",
+                "DPS Weapons",
+                "Energy Weapons",
+                "Weapons - Rank A"
             ],
-            "progression": true
+            "progression": true,
+            "useful": true
         },
         {
-            "name": "X-23",
+            "name": "Sidearm / Micro-Missile",
             "category": [
-                "Characters",
-                "Right Side"
+                "Weapons - Sidearm",
+                "DPS Weapons",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "Weapons - Rank A"
             ],
-            "progression": true
+            "progression": true,
+            "useful": true
         },
         {
-            "name": "Storm",
+            "name": "Auto rifle / Support",
             "category": [
-                "Characters",
-                "Right Side"
+                "Weapons - Auto rifle",
+                "Roam Weapons",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "Weapons - Rank A"
             ],
-            "progression": true
+            "progression": true,
+            "useful": true
         },
         {
-            "name": "Thor",
+            "name": "Grenade launcher - breech / Area Denial",
             "category": [
-                "Characters",
-                "Right Side"
+                "Weapons - Grenade launcher - breech",
+                "Roam Weapons",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "Weapons - Rank A"
             ],
-            "progression": true
+            "progression": true,
+            "useful": true
         },
         {
-            "name": "M.O.D.O.K.",
+            "name": "Sword / Eager Edge",
             "category": [
-                "Characters",
-                "Right Side"
+                "Weapons - Sword",
+                "Power Weapons",
+                "Weapons - Rank A"
             ],
-            "progression": true
+            "useful": true
         },
         {
-            "name": "Felicia",
+            "name": "Fusion rifle / Aggressive",
             "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
+                "Weapons - Fusion rifle",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "DPS Weapons"
+            ]
         },
         {
-            "name": "Spencer",
+            "name": "Fusion rifle / High-Impact",
             "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
+                "Weapons - Fusion rifle",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "DPS Weapons"
+            ]
         },
         {
-            "name": "Akuma",
+            "name": "Fusion rifle / Rapid-Fire",
             "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
+                "Weapons - Fusion rifle",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "DPS Weapons"
+            ]
         },
         {
-            "name": "Viewtiful Joe",
+            "name": "Glaive / Adaptive",
             "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
+                "Weapons - Glaive",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "DPS Weapons"
+            ]
         },
         {
-            "name": "Spider-Man",
+            "name": "Glaive / Aggressive",
             "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
+                "Weapons - Glaive",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "DPS Weapons"
+            ]
         },
         {
-            "name": "Sentinel",
+            "name": "Grenade launcher - breech / Micro-Missile",
+            "_comment": "Movement option",
             "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
+                "Weapons - Grenade launcher - breech",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "Weapons - Rank B"
+            ]
         },
         {
-            "name": "Hulk",
+            "name": "Shotgun / Aggressive",
             "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
+                "Weapons - Shotgun",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "DPS Weapons"
+            ]
         },
         {
-            "name": "Super-Skrull",
+            "name": "Rocket launcher / Adaptive",
             "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
+                "Weapons - Rocket launcher",
+                "Weapons - Rank B",
+                "Power Weapons",
+                "DPS Weapons"
+            ]
         },
         {
-            "name": "Hsien-Ko",
+            "name": "Rocket launcher / Aggressive",
             "category": [
-                "Characters",
-                "Left Side",
-                "Trash"
-            ],
-            "progression": true
+                "Weapons - Rocket launcher",
+                "Weapons - Rank B",
+                "Power Weapons",
+                "DPS Weapons"
+            ]
         },
         {
-            "name": "Haggar",
+            "name": "Shotgun / Heavy Burst",
             "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
+                "Weapons - Shotgun",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "DPS Weapons"
+            ]
         },
         {
-            "name": "C. Viper",
+            "name": "Shotgun / Rapid",
             "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
+                "Weapons - Shotgun",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "DPS Weapons"
+            ]
         },
         {
-            "name": "Amaterasu",
+            "name": "Sniper rifle / Rapid-Fire",
             "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
+                "Weapons - Sniper rifle",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "DPS Weapons"
+            ]
         },
         {
-            "name": "Phoenix",
+            "name": "Sword / Caster",
             "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
+                "Weapons - Sword",
+                "Weapons - Rank B",
+                "Power Weapons",
+                "DPS Weapons"
+            ]
         },
         {
-            "name": "Magneto",
+            "name": "Sword / Wave",
             "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
+                "Weapons - Sword",
+                "Weapons - Rank B",
+                "Power Weapons",
+                "DPS Weapons"
+            ]
         },
         {
-            "name": "She-Hulk",
+            "name": "Machine gun / Aggressive",
             "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
+                "Weapons - Machine gun",
+                "Weapons - Rank B",
+                "Power Weapons",
+                "Roam Weapons",
+                "DPS Weapons"
+            ]
         },
         {
-            "name": "Taskmaster",
+            "name": "Machine gun / Adaptive",
             "category": [
-                "Characters",
-                "Right Side"
+                "Weapons - Machine gun",
+                "Weapons - Rank B",
+                "Power Weapons",
+                "Roam Weapons",
+                "DPS Weapons"
+            ]
+        },
+        {
+            "name": "Machine gun / High-Impact",
+            "category": [
+                "Weapons - Machine gun",
+                "Weapons - Rank B",
+                "Power Weapons",
+                "Roam Weapons",
+                "DPS Weapons"
+            ]
+        },
+        {
+            "name": "Hand cannon / Spread Shot",
+            "_comment": "I don't think it's that great",
+            "category": [
+                "Weapons - Hand cannon",
+                "Weapons - Rank B"
+            ]
+        },
+        {
+            "name": "Sidearm / Adaptive Burst",
+            "category": [
+                "Weapons - Sidearm",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "Roam Weapons"
+            ]
+        },
+        {
+            "name": "Hand cannon / Primary Dynamic (180RPM)",
+            "category": [
+                "Weapons - Hand cannon",
+                "Roam Weapons",
+                "Kinetic Weapons",
+                "Weapons - Rank B"
+            ]
+        },
+        {
+            "name": "Trace rifle / Adaptive",
+            "category": [
+                "Weapons - Trace rifle",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "Roam Weapons"
+            ]
+        },
+        {
+            "name": "Sidearm / Adaptive",
+            "category": [
+                "Weapons - Sidearm",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "Roam Weapons"
+            ]
+        },
+        {
+            "name": "Sidearm / Rapid-Fire",
+            "category": [
+                "Weapons - Sidearm",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "Roam Weapons"
+            ]
+        },
+        {
+            "name": "Sidearm / Heavy Burst",
+            "category": [
+                "Weapons - Sidearm",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "Roam Weapons"
+            ]
+        },
+        {
+            "name": "Hand cannon / Precision",
+            "category": [
+                "Weapons - Hand cannon",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "Roam Weapons"
+            ]
+        },
+        {
+            "name": "Sidearm / Lightweight",
+            "category": [
+                "Weapons - Sidearm",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "Roam Weapons"
+            ]
+        },
+        {
+            "name": "SMG / Aggressive Burst",
+            "_comment": "Crucible only, new weapon typing",
+            "category": [
+                "Weapons - SMG",
+                "Weapons - Rank B",
+                "Kinetic Weapons",
+                "Roam Weapons"
+            ]
+        },
+        {
+            "name": "Sidearm / Dynamic (360RPM)",
+            "category": [
+                "Weapons - Sidearm",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Roam Weapons"
+            ]
+        },
+        {
+            "name": "SMG / Lightweight",
+            "category": [
+                "Weapons - SMG",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "Roam Weapons"
+            ]
+        },
+        {
+            "name": "SMG / Balanced (900RPM)",
+            "_comment": "TODO : dps option with PKs",
+            "category": [
+                "Weapons - SMG",
+                "Weapons - Rank B",
+                "Kinetic Weapons",
+                "Roam Weapons"
+            ]
+        },
+        {
+            "name": "SMG / Adaptive",
+            "category": [
+                "Weapons - SMG",
+                "Weapons - Rank B",
+                "Energy Weapons",
+                "Kinetic Weapons",
+                "Roam Weapons"
+            ]
+        },
+        {
+            "name": "Fusion rifle / Adaptive",
+            "category": [
+                "Weapons - Fusion rifle",
+                "Weapons - Rank C",
+                "DPS Weapons"
             ],
-            "progression": true
-        }    ]
-
+            "filler": true
+        },
+        {
+            "name": "Glaive / Rapid-Fire",
+            "category": [
+                "Weapons - Glaive",
+                "Weapons - Rank C",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Grenade launcher - drum / Adaptive",
+            "category": [
+                "Weapons - Grenade launcher - drum",
+                "Weapons - Rank C",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Grenade launcher - drum / Compressed Wave",
+            "category": [
+                "Weapons - Grenade launcher - drum",
+                "Weapons - Rank C",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Grenade launcher - drum / Rapid",
+            "category": [
+                "Weapons - Grenade launcher - drum",
+                "Weapons - Rank C",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Rocket launcher / High-Impact",
+            "category": [
+                "Weapons - Rocket launcher",
+                "Weapons - Rank C",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Shotgun / Lightweight",
+            "category": [
+                "Weapons - Shotgun",
+                "Weapons - Rank C",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Shotgun / Pinpoint Slug",
+            "category": [
+                "Weapons - Shotgun",
+                "Weapons - Rank C",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Shotgun / Rapid-Fire Slug",
+            "category": [
+                "Weapons - Shotgun",
+                "Weapons - Rank C",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Sniper rifle / Adaptive",
+            "category": [
+                "Weapons - Sniper rifle",
+                "Weapons - Rank C",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Sniper rifle / Aggressive",
+            "category": [
+                "Weapons - Sniper rifle",
+                "Weapons - Rank C",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Sword / Adaptive",
+            "category": [
+                "Weapons - Sword",
+                "Weapons - Rank C",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Sword / Aggressive",
+            "category": [
+                "Weapons - Sword",
+                "Weapons - Rank C",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Sword / Lightweight",
+            "category": [
+                "Weapons - Sword",
+                "Weapons - Rank C",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Machine gun / Rapid-Fire",
+            "category": [
+                "Weapons - Machine gun",
+                "Weapons - Rank C",
+                "DPS Weapons",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Hand cannon / Heavy Burst",
+            "category": [
+                "Weapons - Hand cannon",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Sidearm / Precision",
+            "category": [
+                "Weapons - Sidearm",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Scout rifle / Balanced (260RPM)",
+            "category": [
+                "Weapons - Scout rifle",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Pulse rifle / Heavy Burst",
+            "category": [
+                "Weapons - Pulse rifle",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Pulse rifle / Rapid-Fire",
+            "category": [
+                "Weapons - Pulse rifle",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Hand cannon / Adaptive",
+            "category": [
+                "Weapons - Hand cannon",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Auto rifle / Rapid-Fire",
+            "category": [
+                "Weapons - Auto rifle",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Pulse rifle / Adaptive",
+            "category": [
+                "Weapons - Pulse rifle",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Pulse rifle / Lightweight",
+            "category": [
+                "Weapons - Pulse rifle",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Auto rifle / Balanced (450RPM)",
+            "category": [
+                "Weapons - Auto rifle",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Pulse rifle / Dynamic (540RPM)",
+            "category": [
+                "Weapons - Pulse rifle",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Scout rifle / Rapid-Fire",
+            "category": [
+                "Weapons - Scout rifle",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Pulse rifle / Balanced (540RPM)",
+            "category": [
+                "Weapons - Pulse rifle",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Pulse rifle / Aggressive Burst",
+            "category": [
+                "Weapons - Pulse rifle",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Auto rifle / Adaptive",
+            "category": [
+                "Weapons - Auto rifle",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Auto rifle / High-Impact",
+            "category": [
+                "Weapons - Auto rifle",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Scout rifle / Lightweight",
+            "category": [
+                "Weapons - Scout rifle",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "SMG / Aggressive",
+            "category": [
+                "Weapons - SMG",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Grenade launcher - breech / Wave",
+            "category": [
+                "Weapons - Grenade launcher - breech",
+                "Weapons - Rank C",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Fusion rifle / Precision",
+            "category": [
+                "Weapons - Fusion rifle",
+                "Weapons - Rank D",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Grenade launcher - breech / Double Fire",
+            "category": [
+                "Weapons - Grenade launcher - breech",
+                "Weapons - Rank D",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Grenade launcher - breech / Lightweight",
+            "category": [
+                "Weapons - Grenade launcher - breech",
+                "Weapons - Rank D",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Linear fusion rifle / Adaptive Burst",
+            "category": [
+                "Weapons - Linear fusion rifle",
+                "Weapons - Rank D",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Linear fusion rifle / Precision",
+            "category": [
+                "Weapons - Linear fusion rifle",
+                "Weapons - Rank D",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Rocket launcher / Precision",
+            "category": [
+                "Weapons - Rocket launcher",
+                "Weapons - Rank D",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Shotgun / Precision",
+            "category": [
+                "Weapons - Shotgun",
+                "Weapons - Rank D",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Sword / Vortex",
+            "category": [
+                "Weapons - Sword",
+                "Weapons - Rank D",
+                "DPS Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Machine gun / Balanced (900RPM)",
+            "category": [
+                "Weapons - Machine gun",
+                "Weapons - Rank D",
+                "DPS Weapons",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Hand cannon / Aggressive",
+            "category": [
+                "Weapons - Hand cannon",
+                "Weapons - Rank D",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Pulse rifle / High-Impact",
+            "category": [
+                "Weapons - Pulse rifle",
+                "Weapons - Rank D",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Scout rifle / High-Impact",
+            "category": [
+                "Weapons - Scout rifle",
+                "Weapons - Rank D",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Scout rifle / Precision",
+            "category": [
+                "Weapons - Scout rifle",
+                "Weapons - Rank D",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Auto rifle / Precision",
+            "category": [
+                "Weapons - Auto rifle",
+                "Weapons - Rank D",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Scout rifle / Aggressive",
+            "category": [
+                "Weapons - Scout rifle",
+                "Weapons - Rank D",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "SMG / Precision",
+            "category": [
+                "Weapons - SMG",
+                "Weapons - Rank D",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Bow / Precision",
+            "category": [
+                "Weapons - Bow",
+                "Weapons - Rank D",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Bow / Lightweight",
+            "category": [
+                "Weapons - Bow",
+                "Weapons - Rank D",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Bow / High-Impact Longbow",
+            "category": [
+                "Weapons - Bow",
+                "Weapons - Rank D",
+                "Roam Weapons"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Solar Grenade",
+            "category": [
+                "Grenades - Solar"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Tripmine Grenade",
+            "category": [
+                "Grenades - Solar"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Thermite Grenade",
+            "category": [
+                "Grenades - Solar"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Incendiary Grenade",
+            "category": [
+                "Grenades - Solar"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Swarm Grenade",
+            "category": [
+                "Grenades - Solar"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Fusion Grenade",
+            "category": [
+                "Grenades - Solar"
+            ]
+        },
+        {
+            "name": "Firebolt Grenade",
+            "category": [
+                "Grenades - Solar"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Healing Grenade",
+            "category": [
+                "Grenades - Solar"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Pulse Grenade",
+            "category": [
+                "Grenades - Arc"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Lightning Grenade",
+            "category": [
+                "Grenades - Arc"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Storm Grenade",
+            "category": [
+                "Grenades - Arc"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Flashbang Grenade",
+            "category": [
+                "Grenades - Arc"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Skip Grenade",
+            "category": [
+                "Grenades - Arc"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Flux Grenade",
+            "category": [
+                "Grenades - Arc"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Suppressor Grenade",
+            "category": [
+                "Grenades - Void"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Void Spike",
+            "category": [
+                "Grenades - Void"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Void Wall",
+            "category": [
+                "Grenades - Void"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Vortex Grenade",
+            "category": [
+                "Grenades - Void"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Scatter Grenade",
+            "category": [
+                "Grenades - Void"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Magnetic Grenade",
+            "category": [
+                "Grenades - Void"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Axion Bolt",
+            "category": [
+                "Grenades - Void"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Glacier Grenade",
+            "category": [
+                "Grenades - Stasis"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Duskfield Grenade",
+            "category": [
+                "Grenades - Stasis"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Coldsnap Grenade",
+            "category": [
+                "Grenades - Stasis"
+            ],
+            "filler": true
+        },
+        {
+            "name": "Grapple Grenade",
+            "category": [
+                "Grenades - Strand"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Shackle Grenade",
+            "category": [
+                "Grenades - Strand"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Threadling Grenade",
+            "category": [
+                "Grenades - Strand"
+            ],
+            "filler": true
+        }
+    ]
 }

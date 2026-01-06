@@ -1,332 +1,1917 @@
 {
-	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
     "data": [
         {
-            "name": "Beat the Game - Ryu",
-            "category": ["Starter Team", "Left Side"],
-            "region": "ExampleRegion"
+            "name": "Public Event",
+            "category": [
+                "Kepler - Public events"
+            ],
+            "region": "Kepler"
         },
         {
-            "name": "Beat the Game - Chun-Li",
-            "category": ["Starter Team", "Left Side"],
-            "requires": "|Chun-Li| or {YamlCompare(Example_Choice == 1)}"
+            "name": "Atrium",
+            "category": [
+                "EDZ - Lost Sectors"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Akuma",
-            "category": ["Starter Team", "Left Side"],
-            "requires": "|Akuma| or {YamlCompare(Example_Toggle != True)}"
-        },
-
-        {
-            "name": "Beat the Game - Jill",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Jill| and {ItemValue(star:5)}"
+            "name": "Terminus East",
+            "category": [
+                "EDZ - Lost Sectors"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Shuma-Gorath",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Shuma-Gorath|",
-            "hint_entrance": "Unlock Shuma-Gorath"
+            "name": "Widow's Walk",
+            "category": [
+                "EDZ - Lost Sectors"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Nemesis T-Type",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Nemesis T-Type|"
+            "name": "Scavenger's Den",
+            "category": [
+                "EDZ - Lost Sectors"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Firebrand",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Firebrand|"
+            "name": "The Drain",
+            "category": [
+                "EDZ - Lost Sectors"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Strider Hiryu",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Strider Hiryu|"
+            "name": "Whispered Falls",
+            "category": [
+                "EDZ - Lost Sectors"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Phoenix Wright",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Phoenix Wright|"
+            "name": "The Weep",
+            "category": [
+                "EDZ - Lost Sectors"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Nova",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Nova|"
+            "name": "Pathfinder's crash",
+            "category": [
+                "EDZ - Lost Sectors"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Ghost Rider",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Ghost Rider|"
+            "name": "The Pit",
+            "category": [
+                "EDZ - Lost Sectors"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Hawkeye",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Hawkeye|"
+            "name": "Excavation Site XII",
+            "category": [
+                "EDZ - Lost Sectors"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Doctor Strange",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Doctor Strange|"
+            "name": "Flooded Chasm",
+            "category": [
+                "EDZ - Lost Sectors"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Chris",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Chris|"
+            "name": "Hallowed Grove",
+            "category": [
+                "EDZ - Lost Sectors"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Arthur",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Arthur|"
+            "name": "Cavern Of Souls",
+            "category": [
+                "EDZ - Lost Sectors"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Frank West",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Frank West|"
+            "name": "Shaft 13",
+            "category": [
+                "EDZ - Lost Sectors"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Vergil",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Vergil|"
+            "name": "Skydock IV",
+            "category": [
+                "EDZ - Lost Sectors"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Iron Fist",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Iron Fist|"
+            "name": "The Quarry",
+            "category": [
+                "EDZ - Lost Sectors"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Rocket Raccoon",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Rocket Raccoon|"
+            "name": "Bay of Drowned Wishes",
+            "category": [
+                "Dreaming City - Lost Sectors"
+            ],
+            "region": "Dreaming City"
         },
         {
-            "name": "Beat the Game - Captain America",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Captain America|"
+            "name": "Chamber of Starlight",
+            "category": [
+                "Dreaming City - Lost Sectors"
+            ],
+            "region": "Dreaming City"
         },
         {
-            "name": "Beat the Game - Dormammu",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Dormammu|"
+            "name": "Aphelion's Rest",
+            "category": [
+                "Dreaming City - Lost Sectors"
+            ],
+            "region": "Dreaming City"
         },
         {
-            "name": "Beat the Game - Wesker",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Wesker|"
+            "name": "Carrion Pit",
+            "category": [
+                "Nessus - Lost Sectors"
+            ],
+            "region": "Nessus"
         },
         {
-            "name": "Beat the Game - Zero",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Zero|"
+            "name": "Rift",
+            "category": [
+                "Nessus - Lost Sectors"
+            ],
+            "region": "Nessus"
         },
         {
-            "name": "Beat the Game - Dante",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Dante|"
+            "name": "Orrery",
+            "category": [
+                "Nessus - Lost Sectors"
+            ],
+            "region": "Nessus"
         },
         {
-            "name": "Beat the Game - Deadpool",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Deadpool| or {YamlEnabled(free_deadpool)}"
+            "name": "Conflux",
+            "category": [
+                "Nessus - Lost Sectors"
+            ],
+            "region": "Nessus"
         },
         {
-            "name": "Beat the Game - Wolverine",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Wolverine|"
+            "name": "Ancient's Haunt",
+            "category": [
+                "Nessus - Lost Sectors"
+            ],
+            "region": "Nessus"
         },
         {
-            "name": "Beat the Game - Iron Man",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Iron Man|"
+            "name": "K1 Logistics",
+            "category": [
+                "Moon - Lost Sectors"
+            ],
+            "region": "Moon"
         },
         {
-            "name": "Beat the Game - Doctor Doom",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Doctor Doom|"
+            "name": "K1 Crew Quarters",
+            "category": [
+                "Moon - Lost Sectors"
+            ],
+            "region": "Moon"
         },
         {
-            "name": "Beat the Game - Morrigan",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Morrigan|"
+            "name": "K1 Communion",
+            "category": [
+                "Moon - Lost Sectors"
+            ],
+            "region": "Moon"
         },
         {
-            "name": "Beat the Game - Tron",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Tron|"
+            "name": "Exodus Garden 2A",
+            "category": [
+                "Cosmodrome - Lost Sectors"
+            ],
+            "region": "Cosmodrome"
         },
         {
-            "name": "Beat the Game - Trish",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Trish|"
+            "name": "Veles Labyrinth",
+            "category": [
+                "Cosmodrome - Lost Sectors"
+            ],
+            "region": "Cosmodrome"
         },
         {
-            "name": "Beat the Game - X-23",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|X-23|"
+            "name": "Perdition",
+            "category": [
+                "Europa - Lost Sectors"
+            ],
+            "region": "Europa"
         },
         {
-            "name": "Beat the Game - Storm",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Storm|"
+            "name": "Bunker E15",
+            "category": [
+                "Europa - Lost Sectors"
+            ],
+            "region": "Europa"
         },
         {
-            "name": "Beat the Game - Thor",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Thor|"
+            "name": "Concealed Void",
+            "category": [
+                "Europa - Lost Sectors"
+            ],
+            "region": "Europa"
         },
         {
-            "name": "Beat the Game - M.O.D.O.K.",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|M.O.D.O.K.|"
+            "name": "Metamorphosis",
+            "category": [
+                "Throne World - Lost Sectors"
+            ],
+            "region": "Throne World"
         },
         {
-            "name": "Beat the Game - Felicia",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Felicia|"
+            "name": "Extraction",
+            "category": [
+                "Throne World - Lost Sectors"
+            ],
+            "region": "Throne World"
         },
         {
-            "name": "Beat the Game - Spencer",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Spencer|"
+            "name": "Sepulcher",
+            "category": [
+                "Throne World - Lost Sectors"
+            ],
+            "region": "Throne World"
         },
         {
-            "name": "Beat the Game - Viewtiful Joe",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Viewtiful Joe|"
+            "name": "Thrilladrome",
+            "category": [
+                "Neomuna - Lost Sectors"
+            ],
+            "region": "Neomuna"
         },
         {
-            "name": "Beat the Game - Spider-Man",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Spider-Man|",
-            "prehint": true
+            "name": "Hydroponics Delta",
+            "category": [
+                "Neomuna - Lost Sectors"
+            ],
+            "region": "Neomuna"
         },
         {
-            "name": "Beat the Game - Sentinel",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Sentinel|"
+            "name": "Gilded Precept",
+            "category": [
+                "Neomuna - Lost Sectors"
+            ],
+            "region": "Neomuna"
         },
         {
-            "name": "Beat the Game - Hulk",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Hulk|"
+            "name": "The Broken Deep",
+            "category": [
+                "Pale Heart - Lost Sectors"
+            ],
+            "region": "Pale Heart"
         },
         {
-            "name": "Beat the Game - Super-Skrull",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Super-Skrull|"
+            "name": "The Forgotten Deep",
+            "category": [
+                "Pale Heart - Lost Sectors"
+            ],
+            "region": "Pale Heart"
         },
         {
-            "name": "Beat the Game - Hsien-Ko",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Hsien-Ko|"
+            "name": "The Blooming Deep",
+            "category": [
+                "Pale Heart - Lost Sectors"
+            ],
+            "region": "Pale Heart"
         },
         {
-            "name": "Beat the Game - Haggar",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Haggar|"
+            "name": "Trostland - Chest",
+            "category": [
+                "EDZ - Chest"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - C. Viper",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|C. Viper|"
+            "name": "Outskirts - Chest",
+            "category": [
+                "EDZ - Chest"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Amaterasu",
-            "category": ["Unlocked Teams", "Left Side"],
-            "requires": "|Amaterasu|"
+            "name": "Winding Cove - Chest",
+            "category": [
+                "EDZ - Chest"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Phoenix",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Phoenix|"
+            "name": "Firebase Hades - Chest",
+            "category": [
+                "EDZ - Chest"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Magneto",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Magneto|"
+            "name": "The Sludge - Chest",
+            "category": [
+                "EDZ - Chest"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - She-Hulk",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|She-Hulk|"
+            "name": "The Gulch - Chest",
+            "category": [
+                "EDZ - Chest"
+            ],
+            "region": "EDZ"
         },
         {
-            "name": "Beat the Game - Taskmaster",
-            "category": ["Unlocked Teams", "Right Side"],
-            "requires": "|Taskmaster|"
+            "name": "Sunken Iles - Chest",
+            "category": [
+                "EDZ - Chest"
+            ],
+            "region": "EDZ"
         },
-
         {
-            "name": "We Saved the World!",
-            "victory": true,
-            "category": ["All Characters Complete!"],
-            "requires": [
-                "Jill",
-                "Shuma-Gorath",
-                "Nemesis T-Type",
-                "Firebrand",
-                "Strider Hiryu",
-                "Phoenix Wright",
-                "Nova",
-                "Ghost Rider",
-                "Hawkeye",
-                "Doctor Strange",
-                "Chris",
-                "Arthur",
-                "Frank West",
-                "Vergil",
-                "Iron Fist",
-                "Rocket Raccoon",
-                "Captain America",
-                "Dormammu",
-                "Wesker",
-                "Zero",
-                "Dante",
-                "Deadpool",
-                "Wolverine",
-                "Iron Man",
-                "Doctor Doom",
-                "Morrigan",
-                "Tron",
-                "Trish",
-                "X-23",
-                "Storm",
-                "Thor",
-                "M.O.D.O.K.",
-                "Felicia",
-                "Spencer",
-                "Viewtiful Joe",
-                "Spider-Man",
-                "Sentinel",
-                "Hulk",
-                "Super-Skrull",
-                "Hsien-Ko",
-                "Haggar",
-                "C. Viper",
-                "Amaterasu",
-                "Phoenix",
-                "Magneto",
-                "She-Hulk",
-                "Taskmaster"
+            "name": "The Divide - Chest",
+            "category": [
+                "Cosmodrome - Chest"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "The Steppes - Chest",
+            "category": [
+                "Cosmodrome - Chest"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Mothyards - Chest",
+            "category": [
+                "Cosmodrome - Chest"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Skywatch - Chest",
+            "category": [
+                "Cosmodrome - Chest"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Forgotten Shore - Chest",
+            "category": [
+                "Cosmodrome - Chest"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Archer's Line - Chest",
+            "category": [
+                "Moon - Chest"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Anchor of Light - Chest",
+            "category": [
+                "Moon - Chest"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Hellmouth - Chest",
+            "category": [
+                "Moon - Chest"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Sorrow's Harbor - Chest",
+            "category": [
+                "Moon - Chest"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Cadmus Ridge - Chest",
+            "category": [
+                "Europa - Chest"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Eventide Ruins - Chest",
+            "category": [
+                "Europa - Chest"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Asterion Abyss - Chest",
+            "category": [
+                "Europa - Chest"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Zephyr Concourse - Chest",
+            "category": [
+                "Neomuna - Chest"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Liming Harbor - Chest",
+            "category": [
+                "Neomuna - Chest"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Ahimsa Park - Chest",
+            "category": [
+                "Neomuna - Chest"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Exodus Black - Chest",
+            "category": [
+                "Nessus - Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Glade of Echoes - Chest",
+            "category": [
+                "Nessus - Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Hallows - Chest",
+            "category": [
+                "Nessus - Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Artifact's Edge - Chest",
+            "category": [
+                "Nessus - Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Watcher's Grave - Chest",
+            "category": [
+                "Nessus - Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "The Tangle - Chest",
+            "category": [
+                "Nessus - Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "The Cistern - Chest",
+            "category": [
+                "Nessus - Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Divalian Mists - Chest",
+            "category": [
+                "Dreaming City - Chest"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "The Strand - Chest",
+            "category": [
+                "Dreaming City - Chest"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "Rheasilvia - Chest",
+            "category": [
+                "Dreaming City - Chest"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "Quagmire - Chest",
+            "category": [
+                "Throne World - Chest"
+            ],
+            "region": "Throne World"
+        },
+        {
+            "name": "Florescent Canal - Chest",
+            "category": [
+                "Throne World - Chest"
+            ],
+            "region": "Throne World"
+        },
+        {
+            "name": "Miasma - Chest",
+            "category": [
+                "Throne World - Chest"
+            ],
+            "region": "Throne World"
+        },
+        {
+            "name": "Trostland - Patrol",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Outskirts - Patrol",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Winding Cove - Patrol",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Firebase Hades - Patrol",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "The Sludge - Patrol",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "The Gulch - Patrol",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Sunken Iles - Patrol",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "The Divide - Patrol",
+            "category": [
+                "Cosmodrome - Patrol"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "The Steppes - Patrol",
+            "category": [
+                "Cosmodrome - Patrol"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Mothyards - Patrol",
+            "category": [
+                "Cosmodrome - Patrol"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Skywatch - Patrol",
+            "category": [
+                "Cosmodrome - Patrol"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Forgotten Shore - Patrol",
+            "category": [
+                "Cosmodrome - Patrol"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Archer's Line - Patrol",
+            "category": [
+                "Moon - Patrol"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Anchor of Light - Patrol",
+            "category": [
+                "Moon - Patrol"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Hellmouth - Patrol",
+            "category": [
+                "Moon - Patrol"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Sorrow's Harbor - Patrol",
+            "category": [
+                "Moon - Patrol"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Cadmus Ridge - Patrol",
+            "category": [
+                "Europa - Patrol"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Eventide Ruins - Patrol",
+            "category": [
+                "Europa - Patrol"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Asterion Abyss - Patrol",
+            "category": [
+                "Europa - Patrol"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Zephyr Concourse - Patrol",
+            "category": [
+                "Neomuna - Patrol"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Liming Harbor - Patrol",
+            "category": [
+                "Neomuna - Patrol"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Ahimsa Park - Patrol",
+            "category": [
+                "Neomuna - Patrol"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Exodus Black - Patrol",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Glade of Echoes - Patrol",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Hallows - Patrol",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Artifact's Edge - Patrol",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Watcher's Grave - Patrol",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "The Tangle - Patrol",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "The Cistern - Patrol",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Divalian Mists - Patrol",
+            "category": [
+                "Dreaming City - Patrol"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "The Strand - Patrol",
+            "category": [
+                "Dreaming City - Patrol"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "Rheasilvia - Patrol",
+            "category": [
+                "Dreaming City - Patrol"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "Quagmire - Patrol",
+            "category": [
+                "Throne World - Patrol"
+            ],
+            "region": "Throne World"
+        },
+        {
+            "name": "Florescent Canal - Patrol",
+            "category": [
+                "Throne World - Patrol"
+            ],
+            "region": "Throne World"
+        },
+        {
+            "name": "Miasma - Patrol",
+            "category": [
+                "Throne World - Patrol"
+            ],
+            "region": "Throne World"
+        },
+        {
+            "name": "Urn 01",
+            "category": [
+                "Prophecy - Collectibles"
+            ],
+            "region": "Prophecy - Entrance"
+        },
+        {
+            "name": "Urn 02",
+            "category": [
+                "Prophecy - Collectibles"
+            ],
+            "region": "Prophecy - Entrance"
+        },
+        {
+            "name": "Urn 03",
+            "category": [
+                "Prophecy - Collectibles"
+            ],
+            "region": "Prophecy - Entrance"
+        },
+        {
+            "name": "Urn 04",
+            "category": [
+                "Prophecy - Collectibles"
+            ],
+            "region": "Prophecy - Entrance"
+        },
+        {
+            "name": "Urn 05",
+            "category": [
+                "Prophecy - Collectibles"
+            ],
+            "region": "Prophecy - Encounter 1"
+        },
+        {
+            "name": "Urn 06",
+            "category": [
+                "Prophecy - Collectibles"
+            ],
+            "region": "Prophecy - Encounter 1"
+        },
+        {
+            "name": "Urn 07",
+            "category": [
+                "Prophecy - Collectibles"
+            ],
+            "region": "Prophecy - Encounter 1"
+        },
+        {
+            "name": "Urn 08",
+            "category": [
+                "Prophecy - Collectibles"
+            ],
+            "region": "Prophecy - Encounter 2"
+        },
+        {
+            "name": "Urn 09",
+            "category": [
+                "Prophecy - Collectibles"
+            ],
+            "region": "Prophecy - Encounter 2"
+        },
+        {
+            "name": "Urn 10",
+            "category": [
+                "Prophecy - Collectibles"
+            ],
+            "region": "Prophecy - Encounter 2"
+        },
+        {
+            "name": "Urn 11",
+            "category": [
+                "Prophecy - Collectibles"
+            ],
+            "region": "Prophecy - Encounter 2"
+        },
+        {
+            "name": "Urn 12",
+            "category": [
+                "Prophecy - Collectibles"
+            ],
+            "region": "Prophecy - Encounter 2"
+        },
+        {
+            "name": "Message 01",
+            "category": [
+                "Grasp Of Avarice - Collectibles"
+            ],
+            "region": "Grasp of Avarice - Entrance"
+        },
+        {
+            "name": "Message 02",
+            "category": [
+                "Grasp Of Avarice - Collectibles"
+            ],
+            "region": "Grasp of Avarice - Entrance"
+        },
+        {
+            "name": "Message 03",
+            "category": [
+                "Grasp Of Avarice - Collectibles"
+            ],
+            "region": "Grasp of Avarice - Entrance"
+        },
+        {
+            "name": "Message 04",
+            "category": [
+                "Grasp Of Avarice - Collectibles"
+            ],
+            "region": "Grasp of Avarice - Entrance"
+        },
+        {
+            "name": "Message 05",
+            "category": [
+                "Grasp Of Avarice - Collectibles"
+            ],
+            "region": "Grasp of Avarice - Entrance"
+        },
+        {
+            "name": "Message 06",
+            "category": [
+                "Grasp Of Avarice - Collectibles"
+            ],
+            "region": "Grasp of Avarice - Entrance"
+        },
+        {
+            "name": "Message 07",
+            "category": [
+                "Grasp Of Avarice - Collectibles"
+            ],
+            "region": "Grasp of Avarice - Encounter 1"
+        },
+        {
+            "name": "Message 08",
+            "category": [
+                "Grasp Of Avarice - Collectibles"
+            ],
+            "region": "Grasp of Avarice - Encounter 1"
+        },
+        {
+            "name": "Message 09",
+            "category": [
+                "Grasp Of Avarice - Collectibles"
+            ],
+            "region": "Grasp of Avarice - Encounter 1"
+        },
+        {
+            "_comment": "Can be grabbed slightly out of logic",
+            "name": "Message 10",
+            "category": [
+                "Grasp Of Avarice - Collectibles"
+            ],
+            "region": "Grasp of Avarice - Encounter 2"
+        },
+        {
+            "_comment": "Can be grabbed slightly out of logic",
+            "name": "Message 11",
+            "category": [
+                "Grasp Of Avarice - Collectibles"
+            ],
+            "region": "Grasp of Avarice - Encounter 2"
+        },
+        {
+            "name": "Message 12",
+            "category": [
+                "Grasp Of Avarice - Collectibles"
+            ],
+            "region": "Grasp of Avarice - Encounter 3"
+        },
+        {
+            "name": "Memory 01",
+            "category": [
+                "Duality - Collectibles"
+            ],
+            "region": "Duality - Entrance"
+        },
+        {
+            "name": "Memory 02",
+            "category": [
+                "Duality - Collectibles"
+            ],
+            "region": "Duality - Entrance"
+        },
+        {
+            "name": "Memory 03",
+            "category": [
+                "Duality - Collectibles"
+            ],
+            "region": "Duality - Entrance"
+        },
+        {
+            "name": "Memory 04",
+            "category": [
+                "Duality - Collectibles"
+            ],
+            "region": "Duality - Entrance"
+        },
+        {
+            "name": "Memory 05",
+            "category": [
+                "Duality - Collectibles"
+            ],
+            "region": "Duality - Encounter 1"
+        },
+        {
+            "name": "Memory 06",
+            "category": [
+                "Duality - Collectibles"
+            ],
+            "region": "Duality - Encounter 1"
+        },
+        {
+            "name": "Memory 07",
+            "category": [
+                "Duality - Collectibles"
+            ],
+            "region": "Duality - Encounter 1"
+        },
+        {
+            "name": "Memory 08",
+            "category": [
+                "Duality - Collectibles"
+            ],
+            "region": "Duality - Encounter 1"
+        },
+        {
+            "name": "Memory 09",
+            "category": [
+                "Duality - Collectibles"
+            ],
+            "region": "Duality - Encounter 2"
+        },
+        {
+            "name": "Memory 10",
+            "category": [
+                "Duality - Collectibles"
+            ],
+            "region": "Duality - Encounter 2"
+        },
+        {
+            "name": "Memory 11",
+            "category": [
+                "Duality - Collectibles"
+            ],
+            "region": "Duality - Encounter 2"
+        },
+        {
+            "name": "Memory 12",
+            "category": [
+                "Duality - Collectibles"
+            ],
+            "region": "Duality - Encounter 2"
+        },
+        {
+            "name": "Recording 1",
+            "category": [
+                "Spire of the Watcher - Collectibles"
+            ],
+            "region": "Spire of the Watcher - Entrance"
+        },
+        {
+            "name": "Recording 2",
+            "category": [
+                "Spire of the Watcher - Collectibles"
+            ],
+            "region": "Spire of the Watcher - Entrance"
+        },
+        {
+            "name": "Recording 3",
+            "category": [
+                "Spire of the Watcher - Collectibles"
+            ],
+            "region": "Spire of the Watcher - Entrance"
+        },
+        {
+            "name": "Recording 4",
+            "category": [
+                "Spire of the Watcher - Collectibles"
+            ],
+            "region": "Spire of the Watcher - Entrance"
+        },
+        {
+            "name": "Recording 5",
+            "category": [
+                "Spire of the Watcher - Collectibles"
+            ],
+            "region": "Spire of the Watcher - Entrance"
+        },
+        {
+            "name": "Recording 6",
+            "category": [
+                "Spire of the Watcher - Collectibles"
+            ],
+            "region": "Spire of the Watcher - Encounter 1"
+        },
+        {
+            "name": "GotD Memory 01",
+            "category": [
+                "Ghosts of the Deep - Collectibles"
+            ],
+            "region": "Ghosts of the Deep - Entrance"
+        },
+        {
+            "name": "GotD Memory 02",
+            "category": [
+                "Ghosts of the Deep - Collectibles"
+            ],
+            "region": "Ghosts of the Deep - Encounter 1"
+        },
+        {
+            "name": "GotD Memory 03",
+            "category": [
+                "Ghosts of the Deep - Collectibles"
+            ],
+            "region": "Ghosts of the Deep - Encounter 1"
+        },
+        {
+            "name": "GotD Memory 04",
+            "category": [
+                "Ghosts of the Deep - Collectibles"
+            ],
+            "region": "Ghosts of the Deep - Encounter 1"
+        },
+        {
+            "name": "GotD Memory 05",
+            "category": [
+                "Ghosts of the Deep - Collectibles"
+            ],
+            "region": "Ghosts of the Deep - Encounter 1"
+        },
+        {
+            "name": "GotD Memory 06",
+            "category": [
+                "Ghosts of the Deep - Collectibles"
+            ],
+            "region": "Ghosts of the Deep - Encounter 1"
+        },
+        {
+            "name": "GotD Memory 07",
+            "category": [
+                "Ghosts of the Deep - Collectibles"
+            ],
+            "region": "Ghosts of the Deep - Encounter 1"
+        },
+        {
+            "name": "GotD Memory 08",
+            "category": [
+                "Ghosts of the Deep - Collectibles"
+            ],
+            "region": "Ghosts of the Deep - Encounter 1"
+        },
+        {
+            "name": "GotD Memory 09",
+            "category": [
+                "Ghosts of the Deep - Collectibles"
+            ],
+            "region": "Ghosts of the Deep - Encounter 1"
+        },
+        {
+            "name": "GotD Memory 10",
+            "category": [
+                "Ghosts of the Deep - Collectibles"
+            ],
+            "region": "Ghosts of the Deep - Encounter 1"
+        },
+        {
+            "name": "GotD Memory 11",
+            "category": [
+                "Ghosts of the Deep - Collectibles"
+            ],
+            "region": "Ghosts of the Deep - Encounter 2"
+        },
+        {
+            "name": "GotD Memory 12",
+            "category": [
+                "Ghosts of the Deep - Collectibles"
+            ],
+            "region": "Ghosts of the Deep - Encounter 3"
+        },
+        {
+            "_comment": "This bone is actually number 2 in game, all bones are shifted in order of quest progress, but for ease of use, the bones are listed here in progression order",
+            "name": "Bones 01",
+            "category": [
+                "Warlord's Ruin - Collectibles"
+            ],
+            "region": "Warlord's Ruin - Entrance"
+        },
+        {
+            "name": "Bones 02",
+            "category": [
+                "Warlord's Ruin - Collectibles"
+            ],
+            "region": "Warlord's Ruin - Encounter 1"
+        },
+        {
+            "name": "Bones 03",
+            "category": [
+                "Warlord's Ruin - Collectibles"
+            ],
+            "region": "Warlord's Ruin - Encounter 1"
+        },
+        {
+            "name": "Bones 04",
+            "category": [
+                "Warlord's Ruin - Collectibles"
+            ],
+            "region": "Warlord's Ruin - Encounter 1"
+        },
+        {
+            "name": "Bones 05",
+            "category": [
+                "Warlord's Ruin - Collectibles"
+            ],
+            "region": "Warlord's Ruin - Encounter 1"
+        },
+        {
+            "name": "Bones 06",
+            "category": [
+                "Warlord's Ruin - Collectibles"
+            ],
+            "region": "Warlord's Ruin - Encounter 2"
+        },
+        {
+            "name": "Bones 07",
+            "category": [
+                "Warlord's Ruin - Collectibles"
+            ],
+            "region": "Warlord's Ruin - Encounter 2"
+        },
+        {
+            "name": "Bones 08",
+            "category": [
+                "Warlord's Ruin - Collectibles"
+            ],
+            "region": "Warlord's Ruin - Encounter 2"
+        },
+        {
+            "name": "Bones 09",
+            "category": [
+                "Warlord's Ruin - Collectibles"
+            ],
+            "region": "Warlord's Ruin - Encounter 2"
+        },
+        {
+            "name": "Bones 10",
+            "category": [
+                "Warlord's Ruin - Collectibles"
+            ],
+            "region": "Warlord's Ruin - Encounter 3"
+        },
+        {
+            "_comment": "shifted around due to #4 being out of order",
+            "name": "Collectible 1",
+            "category": [
+                "Vesper's Host - Collectibles"
+            ],
+            "region": "Vesper's Host - Encounter 1"
+        },
+        {
+            "name": "Collectible 2",
+            "category": [
+                "Vesper's Host - Collectibles"
+            ],
+            "region": "Vesper's Host - Encounter 1"
+        },
+        {
+            "name": "Collectible 3",
+            "category": [
+                "Vesper's Host - Collectibles"
+            ],
+            "region": "Vesper's Host - Encounter 1"
+        },
+        {
+            "name": "Collectible 4",
+            "category": [
+                "Vesper's Host - Collectibles"
+            ],
+            "region": "Vesper's Host - Encounter 2"
+        },
+        {
+            "name": "Collectible 5",
+            "category": [
+                "Vesper's Host - Collectibles"
+            ],
+            "region": "Vesper's Host - Encounter 2"
+        },
+        {
+            "name": "Collectible 6",
+            "category": [
+                "Vesper's Host - Collectibles"
+            ],
+            "region": "Vesper's Host - Encounter 2"
+        },
+        {
+            "_comment": "In progression order instead of quest order",
+            "name": "Worm 1",
+            "category": [
+                "Sundered Doctrine - Collectibles"
+            ],
+            "region": "Sundered Doctrine - Entrance"
+        },
+        {
+            "name": "Worm 2",
+            "category": [
+                "Sundered Doctrine - Collectibles"
+            ],
+            "region": "Sundered Doctrine - Entrance"
+        },
+        {
+            "name": "Worm 3",
+            "category": [
+                "Sundered Doctrine - Collectibles"
+            ],
+            "region": "Sundered Doctrine - Entrance"
+        },
+        {
+            "name": "Worm 4",
+            "category": [
+                "Sundered Doctrine - Collectibles"
+            ],
+            "region": "Sundered Doctrine - Encounter 1"
+        },
+        {
+            "name": "Worm 5",
+            "category": [
+                "Sundered Doctrine - Collectibles"
+            ],
+            "region": "Sundered Doctrine - Encounter 1"
+        },
+        {
+            "name": "Worm 6",
+            "category": [
+                "Sundered Doctrine - Collectibles"
+            ],
+            "region": "Sundered Doctrine - Encounter 1"
+        },
+        {
+            "name": "Worm 7",
+            "category": [
+                "Sundered Doctrine - Collectibles"
+            ],
+            "region": "Sundered Doctrine - Encounter 2"
+        },
+        {
+            "name": "Worm 8",
+            "category": [
+                "Sundered Doctrine - Collectibles"
+            ],
+            "region": "Sundered Doctrine - Encounter 2"
+        },
+        {
+            "name": "Worm 9",
+            "category": [
+                "Sundered Doctrine - Collectibles"
+            ],
+            "region": "Sundered Doctrine - Encounter 2"
+        },
+        {
+            "name": "Engram 1",
+            "category": [
+                "Equilibrium - Collectibles"
+            ],
+            "region": "Equilibrium - Encounter 1"
+        },
+        {
+            "name": "Engram 2",
+            "category": [
+                "Equilibrium - Collectibles"
+            ],
+            "region": "Equilibrium - Encounter 2"
+        },
+        {
+            "name": "Engram 3",
+            "category": [
+                "Equilibrium - Collectibles"
+            ],
+            "region": "Equilibrium - Encounter 2"
+        },
+        {
+            "name": "ST Chest 1",
+            "category": [
+                "Shattered Throne - Chest"
+            ],
+            "region": "Shattered Throne - Entrance",
+            "_comment": "In first encounter, under the dragon symbol, inside a cave down the cliff"
+        },
+        {
+            "name": "ST Chest 2",
+            "category": [
+                "Shattered Throne - Chest"
+            ],
+            "region": "Shattered Throne - Encounter 1",
+            "_comment": "Inside the door when you climb the cliffside at the top of the stairs in the decent"
+        },
+        {
+            "name": "ST Chest 3",
+            "category": [
+                "Shattered Throne - Chest"
+            ],
+            "region": "Shattered Throne - Encounter 1",
+            "_comment": "at the end of the rafters to the right of the door"
+        },
+        {
+            "name": "ST Chest 4",
+            "category": [
+                "Shattered Throne - Chest"
+            ],
+            "region": "Shattered Throne - Encounter 1",
+            "_comment": "In the pit in the slow/shadow thrall room"
+        },
+        {
+            "name": "ST Chest 5",
+            "category": [
+                "Shattered Throne - Chest"
+            ],
+            "region": "Shattered Throne - Encounter 2",
+            "_comment": "REQUIRES ASCENDANT : at the four wizards around the elevator, look for a platform at the right side"
+        },
+        {
+            "name": "ST Chest 6",
+            "category": [
+                "Shattered Throne - Chest"
+            ],
+            "region": "Shattered Throne - Encounter 2",
+            "_comment": "through the door behind the elevator to the boss"
+        },
+        {
+            "name": "PoH Chest 1",
+            "category": [
+                "Pit of Heresy - Chest"
+            ],
+            "region": "Pit of Heresy - Encounter 1"
+        },
+        {
+            "name": "PoH Chest 2",
+            "category": [
+                "Pit of Heresy - Chest"
+            ],
+            "region": "Pit of Heresy - Encounter 2"
+        },
+        {
+            "name": "Prophecy Chest 1",
+            "category": [
+                "Prophecy - Chest"
+            ],
+            "region": "Prophecy - Encounter 1",
+            "_comment": "In the desert, near some golden sand"
+        },
+        {
+            "name": "Prophecy Chest 2",
+            "category": [
+                "Prophecy - Chest"
+            ],
+            "region": "Prophecy - Encounter 2",
+            "_comment": "In Singularity / rainbow road, inside the last diamond in a hole"
+        },
+        {
+            "name": "GoA Chest 1",
+            "category": [
+                "Grasp of Avarice - Chest"
+            ],
+            "region": "Grasp of Avarice - Entrance",
+            "_comment": "In the big cylinder room, behind a pillar"
+        },
+        {
+            "name": "GoA Chest 2",
+            "category": [
+                "Grasp of Avarice - Chest"
+            ],
+            "region": "Grasp of Avarice - Encounter 1",
+            "_comment": "At the end of the sparrow race, in the right eye of the skull"
+        },
+        {
+            "name": "Duality Chest 1",
+            "category": [
+                "Duality - Chest"
+            ],
+            "region": "Duality - Encounter 1",
+            "_comment": "In the rooms with the four statues to turn"
+        },
+        {
+            "name": "Duality Chest 2",
+            "category": [
+                "Duality - Chest"
+            ],
+            "region": "Duality - Encounter 2",
+            "_comment": "Under the big white box, need to crawl under"
+        },
+        {
+            "name": "SotW Chest 1",
+            "category": [
+                "Spire of the Watcher - Chest"
+            ],
+            "region": "Spire of the Watcher - Entrance",
+            "_comment": "In the large open room, on the side of one of the large pillars on the left"
+        },
+        {
+            "name": "SotW Chest 2",
+            "category": [
+                "Spire of the Watcher - Chest"
+            ],
+            "region": "Spire of the Watcher - Encounter 2",
+            "_comment": "In the room with the lasers, under a staircase, break open a grate"
+        },
+        {
+            "name": "GotD Chest 1",
+            "category": [
+                "Ghosts of the Deep - Chest"
+            ],
+            "region": "Ghosts of the Deep - Encounter 1",
+            "_comment": "After \"Reach the wreckage\" checkpoint, jump to the first hole on the left"
+        },
+        {
+            "name": "GotD Chest 2",
+            "category": [
+                "Ghosts of the Deep - Chest"
+            ],
+            "region": "Ghosts of the Deep - Encounter 2",
+            "_comment": "At the end of the area with wizards, above the ogre spawn"
+        },
+        {
+            "name": "WR Chest 1",
+            "category": [
+                "Warlord's Ruin - Chest"
+            ],
+            "region": "Warlord's Ruin - Encounter 2",
+            "_comment": "One valid chest out of 6, NOTE : it's possible to get this location on an earlier chest than encounter 2, this is out of logic"
+        },
+        {
+            "name": "WR Chest 2",
+            "category": [
+                "Warlord's Ruin - Chest"
+            ],
+            "region": "Warlord's Ruin - Encounter 2",
+            "_comment": "In the room with all the chests, one chest is valid"
+        },
+        {
+            "name": "VH Chest 1",
+            "category": [
+                "Vesper's Host - Chest"
+            ],
+            "region": "Vesper's Host - Encounter 1"
+        },
+        {
+            "name": "VH Chest 2",
+            "category": [
+                "Vesper's Host - Chest"
+            ],
+            "region": "Vesper's Host - Encounter 2"
+        },
+        {
+            "name": "SD Chest 1",
+            "category": [
+                "Sundered Doctrine - Chest"
+            ],
+            "region": "Sundered Doctrine - Encounter 1"
+        },
+        {
+            "name": "SD Chest 2",
+            "category": [
+                "Sundered Doctrine - Chest"
+            ],
+            "region": "Sundered Doctrine - Encounter 2"
+        },
+        {
+            "name": "Equilibrium Chest 1",
+            "category": [
+                "Equilibrium - Chest"
+            ],
+            "region": "Equilibrium - Encounter 1"
+        },
+        {
+            "name": "Equilibrium Chest 2",
+            "category": [
+                "Equilibrium - Chest"
+            ],
+            "region": "Equilibrium - Encounter 2"
+        },
+        {
+            "name": "Keepers defeated (Encounter 1)",
+            "category": [
+                "Shattered Throne - Encounters"
+            ],
+            "region": "Shattered Throne - Encounter 1"
+        },
+        {
+            "name": "Maze cleared (Encounter 2)",
+            "category": [
+                "Shattered Throne - Encounters"
+            ],
+            "region": "Shattered Throne - Encounter 2"
+        },
+        {
+            "name": "Dûl Incaru defeated (Encounter 3)",
+            "category": [
+                "Shattered Throne - Encounters"
+            ],
+            "region": "Shattered Throne - Encounter 3"
+        },
+        {
+            "name": "Necropolis cleared (Encounter 1)",
+            "category": [
+                "Pit of Heresy - Encounters"
+            ],
+            "region": "Pit of Heresy - Encounter 1"
+        },
+        {
+            "name": "Chamber of Suffering cleared (Encounter 2)",
+            "category": [
+                "Pit of Heresy - Encounters"
+            ],
+            "region": "Pit of Heresy - Encounter 2"
+        },
+        {
+            "name": "Cradle of Damnation (Encounter 3)",
+            "category": [
+                "Pit of Heresy - Encounters"
+            ],
+            "region": "Pit of Heresy - Encounter 3"
+        },
+        {
+            "name": "Heaven/Hell cleared (Encounter 1)",
+            "category": [
+                "Prophecy - Encounters"
+            ],
+            "region": "Prophecy - Encounter 1"
+        },
+        {
+            "name": "Hexahedron cleared (Encounter 2)",
+            "category": [
+                "Prophecy - Encounters"
+            ],
+            "region": "Prophecy - Encounter 2"
+        },
+        {
+            "name": "Singularity cleared (Encounter 3)",
+            "category": [
+                "Prophecy - Encounters"
+            ],
+            "region": "Prophecy - Encounter 3"
+        },
+        {
+            "name": "Rusted Gangplank cleared (Encounter 1)",
+            "category": [
+                "Grasp of Avarice - Encounters"
+            ],
+            "region": "Grasp of Avarice - Encounter 1"
+        },
+        {
+            "name": "Caves cleared (Encounter 2)",
+            "category": [
+                "Grasp of Avarice - Encounters"
+            ],
+            "region": "Grasp of Avarice - Encounter 2"
+        },
+        {
+            "name": "Capitain defeated (Encounter 3)",
+            "category": [
+                "Grasp of Avarice - Encounters"
+            ],
+            "region": "Grasp of Avarice - Encounter 3"
+        },
+        {
+            "name": "Sorrow Bearer defeated (Encounter 1)",
+            "category": [
+                "Duality - Encounters"
+            ],
+            "region": "Duality - Encounter 1"
+        },
+        {
+            "name": "Vault cleared (Encounter 2)",
+            "category": [
+                "Duality - Encounters"
+            ],
+            "region": "Duality - Encounter 2"
+        },
+        {
+            "name": "Caiatl defeated (Encounter 3)",
+            "category": [
+                "Duality - Encounters"
+            ],
+            "region": "Duality - Encounter 3"
+        },
+        {
+            "name": "Spire Ascent cleared (Encounter 1)",
+            "category": [
+                "Spire of the Watcher - Encounters"
+            ],
+            "region": "Spire of the Watcher - Encounter 1"
+        },
+        {
+            "name": "Akelous defeated (Encounter 2)",
+            "category": [
+                "Spire of the Watcher - Encounters"
+            ],
+            "region": "Spire of the Watcher - Encounter 2"
+        },
+        {
+            "name": "Persys defeated (Encounter 3)",
+            "category": [
+                "Spire of the Watcher - Encounters"
+            ],
+            "region": "Spire of the Watcher - Encounter 3"
+        },
+        {
+            "name": "Hive ritual cleared (Encounter 1)",
+            "category": [
+                "Ghosts of the Deep - Encounters"
+            ],
+            "region": "Ghosts of the Deep - Encounter 1"
+        },
+        {
+            "name": "Ecthar defeated (Encounter 2)",
+            "category": [
+                "Ghosts of the Deep - Encounters"
+            ],
+            "region": "Ghosts of the Deep - Encounter 2"
+        },
+        {
+            "name": "Šimmumah ur-Nokru defeated (Encounter 3)",
+            "category": [
+                "Ghosts of the Deep - Encounters"
+            ],
+            "region": "Ghosts of the Deep - Encounter 3"
+        },
+        {
+            "name": "Rathil defeated (Encounter 1)",
+            "category": [
+                "Warlord's Ruin - Encounters"
+            ],
+            "region": "Warlord's Ruin - Encounter 1"
+        },
+        {
+            "name": "Tempest cleared (Encounter 2)",
+            "category": [
+                "Warlord's Ruin - Encounters"
+            ],
+            "region": "Warlord's Ruin - Encounter 2"
+        },
+        {
+            "name": "Hefnd's vengeance defeated (Encounter 3)",
+            "category": [
+                "Warlord's Ruin - Encounters"
+            ],
+            "region": "Warlord's Ruin - Encounter 3"
+        },
+        {
+            "name": "Vesper station cleared (Encounter 1)",
+            "category": [
+                "Vesper's Host - Encounters"
+            ],
+            "region": "Vesper's Host - Encounter 1"
+        },
+        {
+            "name": "Raneiks Unifed defeated (Encounter 2)",
+            "category": [
+                "Vesper's Host - Encounters"
+            ],
+            "region": "Vesper's Host - Encounter 2"
+        },
+        {
+            "name": "Corrupted Puppeteer defeated (Encounter 3)",
+            "category": [
+                "Vesper's Host - Encounters"
+            ],
+            "region": "Vesper's Host - Encounter 3"
+        },
+        {
+            "name": "Riddle cleared (Encounter 1)",
+            "category": [
+                "Sundered Doctrine - Encounters"
+            ],
+            "region": "Sundered Doctrine - Encounter 1"
+        },
+        {
+            "name": "Zoetic Lockset defeated (Encounter 2)",
+            "category": [
+                "Sundered Doctrine - Encounters"
+            ],
+            "region": "Sundered Doctrine - Encounter 2"
+        },
+        {
+            "name": "Kerrev defeated (Encounter 3)",
+            "category": [
+                "Sundered Doctrine - Encounters"
+            ],
+            "region": "Sundered Doctrine - Encounter 3"
+        },
+        {
+            "name": "Harvester cleared (Encounter 1)",
+            "category": [
+                "Equilibrium - Encounters"
+            ],
+            "region": "Equilibrium - Encounter 1"
+        },
+        {
+            "name": "Harrow defeated (Encounter 2)",
+            "category": [
+                "Equilibrium - Encounters"
+            ],
+            "region": "Equilibrium - Encounter 2"
+        },
+        {
+            "name": "Sere defeated (Encounter 3)",
+            "category": [
+                "Equilibrium - Encounters"
+            ],
+            "region": "Equilibrium - Encounter 3"
+        },
+        {
+            "name": "Clear Shattered Throne",
+            "category": [
+                "Shattered Throne - Encounters"
+            ],
+            "region": "Shattered Throne - Encounter 3",
+            "place_item": [
+                "Cleared Dungeon"
             ]
         },
         {
-            "name": "Marvel%",
-            "victory": true,
-            "category": ["All Characters Complete!"],
-            "requires": "|@Right Side:all|"
+            "name": "Clear Pit of Heresy",
+            "category": [
+                "Pit of Heresy - Encounters"
+            ],
+            "region": "Pit of Heresy - Encounter 3",
+            "place_item": [
+                "Cleared Dungeon"
+            ]
         },
         {
-            "name": "Capcom%",
-            "victory": true,
-            "category": ["All Characters Complete!"],
-            "requires": "|@Left Side:all|"
+            "name": "Clear Prophecy",
+            "category": [
+                "Prophecy - Encounters"
+            ],
+            "region": "Prophecy - Encounter 3",
+            "place_item": [
+                "Cleared Dungeon"
+            ]
         },
         {
-            "name": "Stars%",
-            "victory": true,
-            "category": ["All Characters Complete!"],
-            "requires": "{ItemValue(star:10)} and {ItemValue(coins:10)}"
+            "name": "Clear Grasp of Avarice",
+            "category": [
+                "Grasp of Avarice - Encounters"
+            ],
+            "region": "Grasp of Avarice - Encounter 3",
+            "place_item": [
+                "Cleared Dungeon"
+            ]
+        },
+        {
+            "name": "Clear Duality",
+            "category": [
+                "Duality - Encounters"
+            ],
+            "region": "Duality - Encounter 3",
+            "place_item": [
+                "Cleared Dungeon"
+            ]
+        },
+        {
+            "name": "Clear Spire of the Watcher",
+            "category": [
+                "Spire of the Watcher - Encounters"
+            ],
+            "region": "Spire of the Watcher - Encounter 3",
+            "place_item": [
+                "Cleared Dungeon"
+            ]
+        },
+        {
+            "name": "Clear Ghosts of the Deep",
+            "category": [
+                "Ghosts of the Deep - Encounters"
+            ],
+            "region": "Ghosts of the Deep - Encounter 3",
+            "place_item": [
+                "Cleared Dungeon"
+            ]
+        },
+        {
+            "name": "Clear Warlord's Ruin",
+            "category": [
+                "Warlord's Ruin - Encounters"
+            ],
+            "region": "Warlord's Ruin - Encounter 3",
+            "place_item": [
+                "Cleared Dungeon"
+            ]
+        },
+        {
+            "name": "Clear Vesper's Host",
+            "category": [
+                "Vesper's Host - Encounters"
+            ],
+            "region": "Vesper's Host - Encounter 3",
+            "place_item": [
+                "Cleared Dungeon"
+            ]
+        },
+        {
+            "name": "Clear Sundered Doctrine",
+            "category": [
+                "Sundered Doctrine - Encounters"
+            ],
+            "region": "Sundered Doctrine - Encounter 3",
+            "place_item": [
+                "Cleared Dungeon"
+            ]
+        },
+        {
+            "name": "Clear Equilibrium",
+            "category": [
+                "Equilibrium - Encounters"
+            ],
+            "region": "Equilibrium - Encounter 3",
+            "place_item": [
+                "Cleared Dungeon"
+            ]
+        },
+        {
+            "name": "Victory",
+            "category": [
+                "Victory"
+            ],
+            "requires": "{goalAmount()}",
+            "victory": true
         }
     ]
 }
-

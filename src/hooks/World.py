@@ -62,6 +62,19 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 #       will create 5 items that are the "useful trap" class
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
+    rankb = world.item_name_groups.get("Weapons - Rank B")
+    rankc = world.item_name_groups.get("Weapons - Rank C")
+    rankd = world.item_name_groups.get("Weapons - Rank D")
+    should_enable_rankb = world.options.enable_rank_b.value
+    should_enable_rankc = world.options.enable_rank_c.value
+    should_enable_rankd = world.options.enable_rank_d.value
+    for item in item_config.keys():
+        if item in rankb:
+            item_config[item] = {"progression": 1} if should_enable_rankb else {"useful": 1}
+        elif item in rankc:
+            item_config[item] = {"progression": 1} if should_enable_rankc else 1
+        elif item in rankd:
+            item_config[item] = {"progression": 1} if should_enable_rankd else 1
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage

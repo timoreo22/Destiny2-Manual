@@ -1,9 +1,44 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
-    "Example Logic only category": {
+    "Dungeon Clears": {
         "hidden": true
     },
-    "Example Yaml-option category": {
-        "yaml_option": ["DLC_enabled"]
+    "Kinetic Weapons": {
+        "hidden": true
+    },
+    "Energy Weapons": {
+        "hidden": true
+    },
+    "Power Weapons": {
+        "hidden": true
+    },
+    "Exotic Weapons": {
+        "hidden": true
+    },
+    "DPS Weapons": {
+        "hidden": true
+    },
+    "Roam Weapons": {
+        "hidden": true
+    },
+    "Weapons - Rank S": {
+        "hidden": true
+    },
+    "Weapons - Rank A": {
+        "hidden": true
+    },
+    "Weapons - Rank B": {
+        "hidden": true
+    },
+    "Weapons - Rank C": {
+        "hidden": true
+    },
+    "Weapons - Rank D": {
+        "hidden": true
+    },
+    "_Example Yaml-option category": {
+        "yaml_option": [
+            "DLC_enabled"
+        ]
     }
 }

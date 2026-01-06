@@ -2,15 +2,6 @@
     "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
     "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
     "core": {
-        "goal":{
-            "_comment": [
-                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
-            ],
-            "display_name": "The End Objective",
-            "description": "How to End your Randomized playthrough.",
-            "aliases": {"easiest": 0},
-            "hidden": false
-        },
         "death_link": {
             "default": false
         },
@@ -26,47 +17,67 @@
             "type": "Toggle",
             "default": true
         },
-        "Example_Toggle":{
+        "enable_rank_b":{
             "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
+                "Marks Rank B Weapons as valid for logic as part of a \"Good Loadout\"",
+                "Weapon rankings are based on this spreadsheet_ with a few modifications",
+                ".. _spreadsheet: https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/edit?gid=1301036036#gid=1301036036"
             ],
+            "rich_text_doc": true,
+            "type": "Toggle",
+            "default": true,
+            "group": "Weapon Ranks"
+        },
+        "enable_rank_c":{
+            "description": [
+                "Marks Rank C Weapons as valid for logic as part of a \"Good Loadout\"",
+                "Weapon rankings are based on this spreadsheet_ with a few modifications",
+                ".. _spreadsheet: https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/edit?gid=1301036036#gid=1301036036"
+            ],
+            "rich_text_doc": true,
             "type": "Toggle",
             "default": false,
-            "group": "Example Options"
+            "group": "Weapon Ranks"
         },
-        "Example_Choice":{
+        "enable_rank_d":{
+            "description": [
+                "Marks Rank D Weapons as valid for logic as part of a \"Good Loadout\"",
+                "Weapon rankings are based on this spreadsheet_ with a few modifications",
+                ".. _spreadsheet: https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/edit?gid=1301036036#gid=1301036036"
+            ],
+            "rich_text_doc": true,
+            "type": "Toggle",
+            "default": false,
+            "group": "Weapon Ranks"
+        },
+        "starting_class":{
             "type": "Choice",
             "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
+                "What class will you be running ?",
+                "Used to limit available exotics",
+                "Multi-class and class unlocks coming later"
             ],
             "values": {
-                "start":0,
-                "test":1
+                "Titan":0,
+                "Warlock":1,
+                "Hunter":2
              },
             "default": 0,
             "allow_custom_value": false,
-            "group": "Example Options"
+            "group": "Game Options"
         },
-        "Example_Range":{
+        "clears_required_for_victory":{
             "type": "Range",
             "description": [
-                "This is a Range",
-                "Allow the player to specify a value between 'start' and 'end'",
-                "if you include a \"values\" you can define the label for certain values",
-                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
+                "The win condition of this manual is to beat X number of different dungeons. Use this option to define the number of dungeons required for victory."
             ],
-            "range_start": 0,
-            "default": 1,
-            "range_end": 10,
-            "values": {"example": 2},
-            "group": "Example Options"
+            "range_start": 1,
+            "default": 3,
+            "range_end": 11,
+            "group": "Game Options"
         },
 
-        "DLC_enabled":{
+        "_DLC_enabled":{
             "display_name": "DLC Enabled",
             "description": "Is the Dlc enabled?",
             "type": "Toggle",
