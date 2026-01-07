@@ -36,9 +36,832 @@
     "Weapons - Rank D": {
         "hidden": true
     },
-    "_Example Yaml-option category": {
+    "Tractor Cannon": {
         "yaml_option": [
-            "DLC_enabled"
-        ]
+            "enable_tractor_cannon"
+        ],
+        "hidden": true
+    },
+    "Choir of One": {
+        "yaml_option": [
+            "enable_choir_of_one"
+        ],
+        "hidden": true
+    },
+    "Parasite": {
+        "yaml_option": [
+            "enable_parasite"
+        ],
+        "hidden": true
+    },
+    "Still Hunt": {
+        "yaml_option": [
+            "enable_still_hunt"
+        ],
+        "hidden": true
+    },
+    "Ergo Sum": {
+        "yaml_option": [
+            "enable_ergo_sum"
+        ],
+        "hidden": true
+    },
+    "Finality's Auger": {
+        "yaml_option": [
+            "enable_finality_s_auger"
+        ],
+        "hidden": true
+    },
+    "Gjallarhorn": {
+        "yaml_option": [
+            "enable_gjallarhorn"
+        ],
+        "hidden": true
+    },
+    "Praxic Blade": {
+        "yaml_option": [
+            "enable_praxic_blade"
+        ],
+        "hidden": true
+    },
+    "The Navigator": {
+        "yaml_option": [
+            "enable_the_navigator"
+        ],
+        "hidden": true
+    },
+    "Alethonym": {
+        "yaml_option": [
+            "enable_alethonym"
+        ],
+        "hidden": true
+    },
+    "Divinity": {
+        "yaml_option": [
+            "enable_divinity"
+        ],
+        "hidden": true
+    },
+    "Graviton Lance": {
+        "yaml_option": [
+            "enable_graviton_lance"
+        ],
+        "hidden": true
+    },
+    "Legend of Acrius": {
+        "yaml_option": [
+            "enable_legend_of_acrius"
+        ],
+        "hidden": true
+    },
+    "Lord of Wolves": {
+        "yaml_option": [
+            "enable_lord_of_wolves"
+        ],
+        "hidden": true
+    },
+    "Trinity Ghoul": {
+        "yaml_option": [
+            "enable_trinity_ghoul"
+        ],
+        "hidden": true
+    },
+    "Whirling Ovation": {
+        "yaml_option": [
+            "enable_whirling_ovation"
+        ],
+        "hidden": true
+    },
+    "Wolfsbane": {
+        "yaml_option": [
+            "enable_wolfsbane"
+        ],
+        "hidden": true
+    },
+    "Sunshot": {
+        "yaml_option": [
+            "enable_sunshot"
+        ],
+        "hidden": true
+    },
+    "Ager's Scepter": {
+        "yaml_option": [
+            "enable_ager_s_scepter"
+        ],
+        "hidden": true
+    },
+    "Anarchy": {
+        "yaml_option": [
+            "enable_anarchy"
+        ],
+        "hidden": true
+    },
+    "Bad Juju": {
+        "yaml_option": [
+            "enable_bad_juju"
+        ],
+        "hidden": true
+    },
+    "Bastion": {
+        "yaml_option": [
+            "enable_bastion"
+        ],
+        "hidden": true
+    },
+    "Buried Bloodline": {
+        "yaml_option": [
+            "enable_buried_bloodline"
+        ],
+        "hidden": true
+    },
+    "Cloudstrike": {
+        "yaml_option": [
+            "enable_cloudstrike"
+        ],
+        "hidden": true
+    },
+    "Conditional Finality": {
+        "yaml_option": [
+            "enable_conditional_finality"
+        ],
+        "hidden": true
+    },
+    "D.A.R.C.I.": {
+        "yaml_option": [
+            "enable_darci"
+        ],
+        "hidden": true
+    },
+    "Dead Messenger": {
+        "yaml_option": [
+            "enable_dead_messenger"
+        ],
+        "hidden": true
+    },
+    "Edge of Action": {
+        "yaml_option": [
+            "enable_edge_of_action"
+        ],
+        "hidden": true
+    },
+    "Eriana's Vow": {
+        "yaml_option": [
+            "enable_eriana_s_vow"
+        ],
+        "hidden": true
+    },
+    "Euphony": {
+        "yaml_option": [
+            "enable_euphony"
+        ],
+        "hidden": true
+    },
+    "Grand Overture": {
+        "yaml_option": [
+            "enable_grand_overture"
+        ],
+        "hidden": true
+    },
+    "Hierarchy of Needs": {
+        "yaml_option": [
+            "enable_hierarchy_of_needs"
+        ],
+        "hidden": true
+    },
+    "Ice Breaker": {
+        "yaml_option": [
+            "enable_ice_breaker"
+        ],
+        "hidden": true
+    },
+    "Izanagi's Burden": {
+        "yaml_option": [
+            "enable_izanagi_s_burden"
+        ],
+        "hidden": true
+    },
+    "Khvostov 7G-0X": {
+        "yaml_option": [
+            "enable_khvostov_7g_0x"
+        ],
+        "hidden": true
+    },
+    "Lumina": {
+        "yaml_option": [
+            "enable_lumina"
+        ],
+        "hidden": true
+    },
+    "New Land Beyond": {
+        "yaml_option": [
+            "enable_new_land_beyond"
+        ],
+        "hidden": true
+    },
+    "Outbreak Perfected": {
+        "yaml_option": [
+            "enable_outbreak_perfected"
+        ],
+        "hidden": true
+    },
+    "Salvation's Grip": {
+        "yaml_option": [
+            "enable_salvation_s_grip"
+        ],
+        "hidden": true
+    },
+    "Tessellation": {
+        "yaml_option": [
+            "enable_tessellation"
+        ],
+        "hidden": true
+    },
+    "The Fourth Horseman": {
+        "yaml_option": [
+            "enable_the_fourth_horseman"
+        ],
+        "hidden": true
+    },
+    "Thunderlord": {
+        "yaml_option": [
+            "enable_thunderlord"
+        ],
+        "hidden": true
+    },
+    "Vexcalibur": {
+        "yaml_option": [
+            "enable_vexcalibur"
+        ],
+        "hidden": true
+    },
+    "Arbalest": {
+        "yaml_option": [
+            "enable_arbalest"
+        ],
+        "hidden": true
+    },
+    "Barrow-Dyad": {
+        "yaml_option": [
+            "enable_barrow_dyad"
+        ],
+        "hidden": true
+    },
+    "Coldheart": {
+        "yaml_option": [
+            "enable_coldheart"
+        ],
+        "hidden": true
+    },
+    "Collective Obligation": {
+        "yaml_option": [
+            "enable_collective_obligation"
+        ],
+        "hidden": true
+    },
+    "Deathbringer": {
+        "yaml_option": [
+            "enable_deathbringer"
+        ],
+        "hidden": true
+    },
+    "Delicate Tomb": {
+        "yaml_option": [
+            "enable_delicate_tomb"
+        ],
+        "hidden": true
+    },
+    "Dragon's Breath": {
+        "yaml_option": [
+            "enable_dragon_s_breath"
+        ],
+        "hidden": true
+    },
+    "Duality": {
+        "yaml_option": [
+            "enable_duality"
+        ],
+        "hidden": true
+    },
+    "Ex Diris": {
+        "yaml_option": [
+            "enable_ex_diris"
+        ],
+        "hidden": true
+    },
+    "Eyes of Tomorrow": {
+        "yaml_option": [
+            "enable_eyes_of_tomorrow"
+        ],
+        "hidden": true
+    },
+    "Final Warning": {
+        "yaml_option": [
+            "enable_final_warning"
+        ],
+        "hidden": true
+    },
+    "Forerunner": {
+        "yaml_option": [
+            "enable_forerunner"
+        ],
+        "hidden": true
+    },
+    "Graviton Spike": {
+        "yaml_option": [
+            "enable_graviton_spike"
+        ],
+        "hidden": true
+    },
+    "Heartshadow": {
+        "yaml_option": [
+            "enable_heartshadow"
+        ],
+        "hidden": true
+    },
+    "Heirloom": {
+        "yaml_option": [
+            "enable_heirloom"
+        ],
+        "hidden": true
+    },
+    "Le Monarque": {
+        "yaml_option": [
+            "enable_le_monarque"
+        ],
+        "hidden": true
+    },
+    "Leviathan's Breath": {
+        "yaml_option": [
+            "enable_leviathan_s_breath"
+        ],
+        "hidden": true
+    },
+    "Malfeasance": {
+        "yaml_option": [
+            "enable_malfeasance"
+        ],
+        "hidden": true
+    },
+    "Merciless": {
+        "yaml_option": [
+            "enable_merciless"
+        ],
+        "hidden": true
+    },
+    "Microcosm": {
+        "yaml_option": [
+            "enable_microcosm"
+        ],
+        "hidden": true
+    },
+    "Monte Carlo": {
+        "yaml_option": [
+            "enable_monte_carlo"
+        ],
+        "hidden": true
+    },
+    "Necrochasm": {
+        "yaml_option": [
+            "enable_necrochasm"
+        ],
+        "hidden": true
+    },
+    "New Malpais": {
+        "yaml_option": [
+            "enable_new_malpais"
+        ],
+        "hidden": true
+    },
+    "Osteo Striga": {
+        "yaml_option": [
+            "enable_osteo_striga"
+        ],
+        "hidden": true
+    },
+    "Polaris Lance": {
+        "yaml_option": [
+            "enable_polaris_lance"
+        ],
+        "hidden": true
+    },
+    "Prometheus Lens": {
+        "yaml_option": [
+            "enable_prometheus_lens"
+        ],
+        "hidden": true
+    },
+    "Quicksilver Storm": {
+        "yaml_option": [
+            "enable_quicksilver_storm"
+        ],
+        "hidden": true
+    },
+    "Rat King": {
+        "yaml_option": [
+            "enable_rat_king"
+        ],
+        "hidden": true
+    },
+    "Red Death Reformed": {
+        "yaml_option": [
+            "enable_red_death_reformed"
+        ],
+        "hidden": true
+    },
+    "Revision Zero": {
+        "yaml_option": [
+            "enable_revision_zero"
+        ],
+        "hidden": true
+    },
+    "Riskrunner": {
+        "yaml_option": [
+            "enable_riskrunner"
+        ],
+        "hidden": true
+    },
+    "Service of Luzaku": {
+        "yaml_option": [
+            "enable_service_of_luzaku"
+        ],
+        "hidden": true
+    },
+    "Slayer's Fang": {
+        "yaml_option": [
+            "enable_slayer_s_fang"
+        ],
+        "hidden": true
+    },
+    "Sleeper Simulant": {
+        "yaml_option": [
+            "enable_sleeper_simulant"
+        ],
+        "hidden": true
+    },
+    "Tarrabah": {
+        "yaml_option": [
+            "enable_tarrabah"
+        ],
+        "hidden": true
+    },
+    "The Huckleberry": {
+        "yaml_option": [
+            "enable_the_huckleberry"
+        ],
+        "hidden": true
+    },
+    "The Lament": {
+        "yaml_option": [
+            "enable_the_lament"
+        ],
+        "hidden": true
+    },
+    "The Manticore": {
+        "yaml_option": [
+            "enable_the_manticore"
+        ],
+        "hidden": true
+    },
+    "The Queenbreaker": {
+        "yaml_option": [
+            "enable_the_queenbreaker"
+        ],
+        "hidden": true
+    },
+    "The Wardcliff Coil": {
+        "yaml_option": [
+            "enable_the_wardcliff_coil"
+        ],
+        "hidden": true
+    },
+    "Third Iteration": {
+        "yaml_option": [
+            "enable_third_iteration"
+        ],
+        "hidden": true
+    },
+    "Ticuu's Divination": {
+        "yaml_option": [
+            "enable_ticuu_s_divination"
+        ],
+        "hidden": true
+    },
+    "Tommy's Matchbook": {
+        "yaml_option": [
+            "enable_tommy_s_matchbook"
+        ],
+        "hidden": true
+    },
+    "Touch of Malice": {
+        "yaml_option": [
+            "enable_touch_of_malice"
+        ],
+        "hidden": true
+    },
+    "Verglas Curve": {
+        "yaml_option": [
+            "enable_verglas_curve"
+        ],
+        "hidden": true
+    },
+    "Vex Mythoclast": {
+        "yaml_option": [
+            "enable_vex_mythoclast"
+        ],
+        "hidden": true
+    },
+    "Whisper of the Worm": {
+        "yaml_option": [
+            "enable_whisper_of_the_worm"
+        ],
+        "hidden": true
+    },
+    "Wicked Implement": {
+        "yaml_option": [
+            "enable_wicked_implement"
+        ],
+        "hidden": true
+    },
+    "Winterbite": {
+        "yaml_option": [
+            "enable_winterbite"
+        ],
+        "hidden": true
+    },
+    "Witherhoard": {
+        "yaml_option": [
+            "enable_witherhoard"
+        ],
+        "hidden": true
+    },
+    "Xenophage": {
+        "yaml_option": [
+            "enable_xenophage"
+        ],
+        "hidden": true
+    },
+    "Ace of Spades": {
+        "yaml_option": [
+            "enable_ace_of_spades"
+        ],
+        "hidden": true
+    },
+    "Black Talon": {
+        "yaml_option": [
+            "enable_black_talon"
+        ],
+        "hidden": true
+    },
+    "Borealis": {
+        "yaml_option": [
+            "enable_borealis"
+        ],
+        "hidden": true
+    },
+    "Centrifuse": {
+        "yaml_option": [
+            "enable_centrifuse"
+        ],
+        "hidden": true
+    },
+    "Cerberus+1": {
+        "yaml_option": [
+            "enable_cerberus+1"
+        ],
+        "hidden": true
+    },
+    "Crimson": {
+        "yaml_option": [
+            "enable_crimson"
+        ],
+        "hidden": true
+    },
+    "Cryosthesia 77K": {
+        "yaml_option": [
+            "enable_cryosthesia_77k"
+        ],
+        "hidden": true
+    },
+    "Dead Man's Tale": {
+        "yaml_option": [
+            "enable_dead_man_s_tale"
+        ],
+        "hidden": true
+    },
+    "Deterministic Chaos": {
+        "yaml_option": [
+            "enable_deterministic_chaos"
+        ],
+        "hidden": true
+    },
+    "Devil's Ruin": {
+        "yaml_option": [
+            "enable_devil_s_ruin"
+        ],
+        "hidden": true
+    },
+    "Edge of Concurrence": {
+        "yaml_option": [
+            "enable_edge_of_concurrence"
+        ],
+        "hidden": true
+    },
+    "Edge of Intent": {
+        "yaml_option": [
+            "enable_edge_of_intent"
+        ],
+        "hidden": true
+    },
+    "Fighting Lion": {
+        "yaml_option": [
+            "enable_fighting_lion"
+        ],
+        "hidden": true
+    },
+    "Hard Light": {
+        "yaml_option": [
+            "enable_hard_light"
+        ],
+        "hidden": true
+    },
+    "Hawkmoon": {
+        "yaml_option": [
+            "enable_hawkmoon"
+        ],
+        "hidden": true
+    },
+    "Heir Apparent": {
+        "yaml_option": [
+            "enable_heir_apparent"
+        ],
+        "hidden": true
+    },
+    "Jötunn": {
+        "yaml_option": [
+            "enable_jotunn"
+        ],
+        "hidden": true
+    },
+    "Lodestar": {
+        "yaml_option": [
+            "enable_lodestar"
+        ],
+        "hidden": true
+    },
+    "Lorentz Driver": {
+        "yaml_option": [
+            "enable_lorentz_driver"
+        ],
+        "hidden": true
+    },
+    "MIDA Multi-Tool": {
+        "yaml_option": [
+            "enable_mida_multi_tool"
+        ],
+        "hidden": true
+    },
+    "No Time to Explain": {
+        "yaml_option": [
+            "enable_no_time_to_explain"
+        ],
+        "hidden": true
+    },
+    "One Thousand Voices": {
+        "yaml_option": [
+            "enable_one_thousand_voices"
+        ],
+        "hidden": true
+    },
+    "Ruinous Effigy": {
+        "yaml_option": [
+            "enable_ruinous_effigy"
+        ],
+        "hidden": true
+    },
+    "Skyburner's Oath": {
+        "yaml_option": [
+            "enable_skyburner_s_oath"
+        ],
+        "hidden": true
+    },
+    "Sturm": {
+        "yaml_option": [
+            "enable_sturm"
+        ],
+        "hidden": true
+    },
+    "SUROS Regime": {
+        "yaml_option": [
+            "enable_suros_regime"
+        ],
+        "hidden": true
+    },
+    "Sweet Business": {
+        "yaml_option": [
+            "enable_sweet_business"
+        ],
+        "hidden": true
+    },
+    "Symmetry": {
+        "yaml_option": [
+            "enable_symmetry"
+        ],
+        "hidden": true
+    },
+    "Telesto": {
+        "yaml_option": [
+            "enable_telesto"
+        ],
+        "hidden": true
+    },
+    "The Chaperone": {
+        "yaml_option": [
+            "enable_the_chaperone"
+        ],
+        "hidden": true
+    },
+    "The Colony": {
+        "yaml_option": [
+            "enable_the_colony"
+        ],
+        "hidden": true
+    },
+    "The Jade Rabbit": {
+        "yaml_option": [
+            "enable_the_jade_rabbit"
+        ],
+        "hidden": true
+    },
+    "The Last Word": {
+        "yaml_option": [
+            "enable_the_last_word"
+        ],
+        "hidden": true
+    },
+    "The Prospector": {
+        "yaml_option": [
+            "enable_the_prospector"
+        ],
+        "hidden": true
+    },
+    "Thorn": {
+        "yaml_option": [
+            "enable_thorn"
+        ],
+        "hidden": true
+    },
+    "Traveler's Chosen": {
+        "yaml_option": [
+            "enable_traveler_s_chosen"
+        ],
+        "hidden": true
+    },
+    "Trespasser": {
+        "yaml_option": [
+            "enable_trespasser"
+        ],
+        "hidden": true
+    },
+    "Truth": {
+        "yaml_option": [
+            "enable_truth"
+        ],
+        "hidden": true
+    },
+    "Two-Tailed Fox": {
+        "yaml_option": [
+            "enable_two_tailed_fox"
+        ],
+        "hidden": true
+    },
+    "Vigilance Wing": {
+        "yaml_option": [
+            "enable_vigilance_wing"
+        ],
+        "hidden": true
+    },
+    "Wavesplitter": {
+        "yaml_option": [
+            "enable_wavesplitter"
+        ],
+        "hidden": true
+    },
+    "Wish-Ender": {
+        "yaml_option": [
+            "enable_wish_ender"
+        ],
+        "hidden": true
+    },
+    "Wish-Keeper": {
+        "yaml_option": [
+            "enable_wish_keeper"
+        ],
+        "hidden": true
+    },
+    "Worldline Zero": {
+        "yaml_option": [
+            "enable_worldline_zero"
+        ],
+        "hidden": true
     }
 }

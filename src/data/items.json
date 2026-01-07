@@ -1225,6 +1225,1552 @@
                 "Grenades - Strand"
             ],
             "filler": true
+        },
+        {
+            "name": "Tractor Cannon",
+            "category": [
+                "Tractor Cannon",
+                "Weapons - Shotgun",
+                "Power Weapons",
+                "Support Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank S"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Choir of One",
+            "category": [
+                "Choir of One",
+                "Weapons - Auto rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank A"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Parasite",
+            "category": [
+                "Parasite",
+                "Weapons - Grenade launcher",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank A"
+            ],
+            "progression": true
+        },
+        {
+            "_comment": "TODO : Only DPS if with nighthawk",
+            "name": "Still Hunt",
+            "category": [
+                "Still Hunt",
+                "Weapons - Sniper rifle",
+                "Energy Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank A"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Ergo Sum",
+            "category": [
+                "Ergo Sum",
+                "Weapons - Sword",
+                "Energy Weapons",
+                "Roam Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank B"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Finality's Auger",
+            "category": [
+                "Finality's Auger",
+                "Weapons - Linear fusion rifle",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank B"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Gjallarhorn",
+            "category": [
+                "Gjallarhorn",
+                "Weapons - Rocket launcher",
+                "Power Weapons",
+                "Support Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank B"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Praxic Blade",
+            "category": [
+                "Praxic Blade",
+                "Weapons - Sword",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank B"
+            ],
+            "progression": true
+        },
+        {
+            "_comment": "TODO: Only valid dps if grapple + exo + yaml option",
+            "name": "The Navigator",
+            "category": [
+                "The Navigator",
+                "Weapons - Trace rifle",
+                "Kinetic Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank B"
+            ],
+            "progression": true
+        },
+        {
+            "_comment": "TODO: movement option",
+            "name": "Alethonym",
+            "category": [
+                "Alethonym",
+                "Weapons - Grenade launcher",
+                "Kinetic Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank C"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Divinity",
+            "category": [
+                "Divinity",
+                "Weapons - Trace rifle",
+                "Energy Weapons",
+                "Support Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank C"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Graviton Lance",
+            "category": [
+                "Graviton Lance",
+                "Weapons - Pulse rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank C"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Legend of Acrius",
+            "category": [
+                "Legend of Acrius",
+                "Weapons - Shotgun",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank C"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Lord of Wolves",
+            "category": [
+                "Lord of Wolves",
+                "Weapons - Shotgun",
+                "Energy Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank C"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Trinity Ghoul",
+            "category": [
+                "Trinity Ghoul",
+                "Weapons - Bow",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank C"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Whirling Ovation",
+            "category": [
+                "Whirling Ovation",
+                "Weapons - Rocket launcher",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank C"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Wolfsbane",
+            "category": [
+                "Wolfsbane",
+                "Weapons - Sword",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank C"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Sunshot",
+            "category": [
+                "Sunshot",
+                "Weapons - Hand cannon",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank C"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Ager's Scepter",
+            "category": [
+                "Ager's Scepter",
+                "Weapons - Trace Rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Anarchy",
+            "category": [
+                "Anarchy",
+                "Weapons - Grenade launcher",
+                "Power Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Bad Juju",
+            "category": [
+                "Bad Juju",
+                "Weapons - Pulse rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Bastion",
+            "category": [
+                "Bastion",
+                "Weapons - Fusion Rifle",
+                "Kinetic Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Buried Bloodline",
+            "category": [
+                "Buried Bloodline",
+                "Weapons - Sidearm",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Cloudstrike",
+            "category": [
+                "Cloudstrike",
+                "Weapons - Sniper rifle",
+                "Energy Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Conditional Finality",
+            "category": [
+                "Conditional Finality",
+                "Weapons - Shotgun",
+                "Kinetic Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "D.A.R.C.I.",
+            "category": [
+                "D.A.R.C.I.",
+                "Weapons - Sniper rifle",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Dead Messenger",
+            "category": [
+                "Dead Messenger",
+                "Weapons - Grenade launcher - breech",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Edge of Action",
+            "category": [
+                "Edge of Action",
+                "Weapons - Glaive",
+                "Energy Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Eriana's Vow",
+            "category": [
+                "Eriana's Vow",
+                "Weapons - Hand cannon",
+                "Energy Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Euphony",
+            "category": [
+                "Euphony",
+                "Weapons - Linear Fusion Rifle",
+                "Kinetic Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Grand Overture",
+            "category": [
+                "Grand Overture",
+                "Weapons - Machine gun",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Hierarchy of Needs",
+            "category": [
+                "Hierarchy of Needs",
+                "Weapons - Bow",
+                "Energy Weapons",
+                "Roam Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Ice Breaker",
+            "category": [
+                "Ice Breaker",
+                "Weapons - Sniper rifle",
+                "Energy Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Izanagi's Burden",
+            "category": [
+                "Izanagi's Burden",
+                "Weapons - Sniper rifle",
+                "Kinetic Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Khvostov 7G-0X",
+            "category": [
+                "Khvostov 7G-0X",
+                "Weapons - Auto rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Lumina",
+            "category": [
+                "Lumina",
+                "Weapons - Hand Cannon",
+                "Kinetic Weapons",
+                "Support Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "New Land Beyond",
+            "category": [
+                "New Land Beyond",
+                "Weapons - Sniper rifle",
+                "Kinetic Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Outbreak Perfected",
+            "category": [
+                "Outbreak Perfected",
+                "Weapons - Pulse rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Salvation's Grip",
+            "category": [
+                "Salvation's Grip",
+                "Weapons - Grenade launcher",
+                "Power Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Tessellation",
+            "category": [
+                "Tessellation",
+                "Weapons - Fusion rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "The Fourth Horseman",
+            "category": [
+                "The Fourth Horseman",
+                "Weapons - Shotgun",
+                "Energy Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Thunderlord",
+            "category": [
+                "Thunderlord",
+                "Weapons - Machine gun",
+                "Power Weapons",
+                "Roam Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Vexcalibur",
+            "category": [
+                "Vexcalibur",
+                "Weapons - Glaive",
+                "Energy Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank D"
+            ]
+        },
+        {
+            "name": "Arbalest",
+            "category": [
+                "Arbalest",
+                "Weapons - Linear fusion rifle",
+                "Kinetic Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Barrow-Dyad",
+            "category": [
+                "Barrow-Dyad",
+                "Weapons - Submachine gun",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Coldheart",
+            "category": [
+                "Coldheart",
+                "Weapons - Trace rifle",
+                "Special Weapons",
+                "add clear",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Collective Obligation",
+            "category": [
+                "Collective Obligation",
+                "Weapons - Pulse rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Deathbringer",
+            "category": [
+                "Deathbringer",
+                "Weapons - Rocket launcher",
+                "Power Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Delicate Tomb",
+            "category": [
+                "Delicate Tomb",
+                "Weapons - Fusion rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Dragon's Breath",
+            "category": [
+                "Dragon's Breath",
+                "Weapons - Rocket launcher",
+                "Power Weapons",
+                "Roam Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Duality",
+            "category": [
+                "Duality",
+                "Weapons - Shotgun",
+                "Energy Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Ex Diris",
+            "category": [
+                "Ex Diris",
+                "Weapons - Grenade launcher",
+                "Energy Weapons",
+                "Roam Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Eyes of Tomorrow",
+            "category": [
+                "Eyes of Tomorrow",
+                "Weapons - Rocket launcher",
+                "Power Weapons",
+                "add clear",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Final Warning",
+            "category": [
+                "Final Warning",
+                "Weapons - Sidearm",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Forerunner",
+            "category": [
+                "Forerunner",
+                "Weapons - Sidearm",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Graviton Spike",
+            "category": [
+                "Graviton Spike",
+                "Weapons - Hand cannon",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Heartshadow",
+            "category": [
+                "Heartshadow",
+                "Weapons - Sword",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Heirloom",
+            "category": [
+                "Heirloom",
+                "Weapons - Crossbow",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Le Monarque",
+            "category": [
+                "Le Monarque",
+                "Weapons - Bow",
+                "Energy Weapons",
+                "add clear",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Leviathan's Breath",
+            "category": [
+                "Leviathan's Breath",
+                "Weapons - Bow",
+                "Power weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Malfeasance",
+            "category": [
+                "Malfeasance",
+                "Weapons - Hand cannon",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Merciless",
+            "category": [
+                "Merciless",
+                "Weapons - Fusion rifle",
+                "Energy Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Microcosm",
+            "category": [
+                "Microcosm",
+                "Weapons - Trace rifle",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Monte Carlo",
+            "category": [
+                "Monte Carlo",
+                "Weapons - Auto rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Necrochasm",
+            "category": [
+                "Necrochasm",
+                "Weapons - Auto rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "New Malpais",
+            "category": [
+                "New Malpais",
+                "Weapons - Pulse rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Osteo Striga",
+            "category": [
+                "Osteo Striga",
+                "Weapons - Submachine gun",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Polaris Lance",
+            "category": [
+                "Polaris Lance",
+                "Weapons - Scout rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Prometheus Lens",
+            "category": [
+                "Prometheus Lens",
+                "Weapons - Trace rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Quicksilver Storm",
+            "category": [
+                "Quicksilver Storm",
+                "Weapons - Auto rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Rat King",
+            "category": [
+                "Rat King",
+                "Weapons - Sidearm",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Red Death Reformed",
+            "category": [
+                "Red Death Reformed",
+                "Weapons - Pulse rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Revision Zero",
+            "category": [
+                "Revision Zero",
+                "Weapons - Pulse rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Riskrunner",
+            "category": [
+                "Riskrunner",
+                "Weapons - Submachine gun",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Service of Luzaku",
+            "category": [
+                "Service of Luzaku",
+                "Weapons - Machine gun",
+                "Power weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Slayer's Fang",
+            "category": [
+                "Slayer's Fang",
+                "Weapons - Shotgun",
+                "Energy Weapons",
+                "Roam Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Sleeper Simulant",
+            "category": [
+                "Sleeper Simulant",
+                "Weapons - Linear fusion rifle",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Tarrabah",
+            "category": [
+                "Tarrabah",
+                "Weapons - Submachine gun",
+                "Special Weapons",
+                "Roam Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "The Huckleberry",
+            "category": [
+                "The Huckleberry",
+                "Weapons - Submachine gun",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "The Lament",
+            "category": [
+                "The Lament",
+                "Weapons - Sword",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "The Manticore",
+            "category": [
+                "The Manticore",
+                "Weapons - Submachine gun",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "The Queenbreaker",
+            "category": [
+                "The Queenbreaker",
+                "Weapons - Linear fusion rifle",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "The Wardcliff Coil",
+            "category": [
+                "The Wardcliff Coil",
+                "Weapons - Rocket launcher",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Third Iteration",
+            "category": [
+                "Third Iteration",
+                "Weapons - Scout rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Ticuu's Divination",
+            "category": [
+                "Ticuu's Divination",
+                "Weapons - Bow",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Tommy's Matchbook",
+            "category": [
+                "Tommy's Matchbook",
+                "Weapons - Auto rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Touch of Malice",
+            "category": [
+                "Touch of Malice",
+                "Weapons - Scout rifle",
+                "Kinetic Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Verglas Curve",
+            "category": [
+                "Verglas Curve",
+                "Weapons - Bow",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Vex Mythoclast",
+            "category": [
+                "Vex Mythoclast",
+                "Weapons - Fusion rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Whisper of the Worm",
+            "category": [
+                "Whisper of the Worm",
+                "Weapons - Sniper rifle",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Wicked Implement",
+            "category": [
+                "Wicked Implement",
+                "Weapons - Scout rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Winterbite",
+            "category": [
+                "Winterbite",
+                "Weapons - Glaive",
+                "Power Weapons",
+                "Roam Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Witherhoard",
+            "category": [
+                "Witherhoard",
+                "Weapons - Grenade launcher - breech",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Xenophage",
+            "category": [
+                "Xenophage",
+                "Weapons - Machine Gun",
+                "Power Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank E"
+            ]
+        },
+        {
+            "name": "Ace of Spades",
+            "category": [
+                "Ace of Spades",
+                "Weapons - Hand cannon",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Black Talon",
+            "category": [
+                "Black Talon",
+                "Weapons - Sword",
+                "Power Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Borealis",
+            "category": [
+                "Borealis",
+                "Weapons - Sniper rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Centrifuse",
+            "category": [
+                "Centrifuse",
+                "Weapons - Auto rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Cerberus+1",
+            "category": [
+                "Cerberus+1",
+                "Weapons - Auto rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Crimson",
+            "category": [
+                "Crimson",
+                "Weapons - Hand cannon",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Cryosthesia 77K",
+            "category": [
+                "Cryosthesia 77K",
+                "Weapons - Sidearm",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Dead Man's Tale",
+            "category": [
+                "Dead Man's Tale",
+                "Weapons - Scout rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Deterministic Chaos",
+            "category": [
+                "Deterministic Chaos",
+                "Weapons - Machine gun",
+                "Power Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Devil's Ruin",
+            "category": [
+                "Devil's Ruin",
+                "Weapons - Sidearm",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Edge of Concurrence",
+            "category": [
+                "Edge of Concurrence",
+                "Weapons - Glaive",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Edge of Intent",
+            "category": [
+                "Edge of Intent",
+                "Weapons - Glaive",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Fighting Lion",
+            "category": [
+                "Fighting Lion",
+                "Weapons - Grenade launcher - breech",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Hard Light",
+            "category": [
+                "Hard Light",
+                "Weapons - Auto rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Hawkmoon",
+            "category": [
+                "Hawkmoon",
+                "Weapons - Hand cannon",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Heir Apparent",
+            "category": [
+                "Heir Apparent",
+                "Weapons - Machine gun",
+                "Power Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Jötunn",
+            "category": [
+                "Jötunn",
+                "Weapons - Fusion Rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Lodestar",
+            "category": [
+                "Lodestar",
+                "Weapons - Trace rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Lorentz Driver",
+            "category": [
+                "Lorentz Driver",
+                "Weapons - Linear fusion rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "MIDA Multi-Tool",
+            "category": [
+                "MIDA Multi-Tool",
+                "Weapons - Scout rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "No Time to Explain",
+            "category": [
+                "No Time to Explain",
+                "Weapons - Pulse rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "One Thousand Voices",
+            "category": [
+                "One Thousand Voices",
+                "Weapons - Fusion rifle",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Ruinous Effigy",
+            "category": [
+                "Ruinous Effigy",
+                "Weapons - Trace rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Skyburner's Oath",
+            "category": [
+                "Skyburner's Oath",
+                "Weapons - Scout rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Sturm",
+            "category": [
+                "Sturm",
+                "Weapons - Hand Cannon",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "SUROS Regime",
+            "category": [
+                "SUROS Regime",
+                "Weapons - Auto rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Sweet Business",
+            "category": [
+                "Sweet Business",
+                "Weapons - Auto rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Symmetry",
+            "category": [
+                "Symmetry",
+                "Weapons - Scout rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Telesto",
+            "category": [
+                "Telesto",
+                "Weapons - Fusion rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "The Chaperone",
+            "category": [
+                "The Chaperone",
+                "Weapons - Shotgun",
+                "Kinetic Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "The Colony",
+            "category": [
+                "The Colony",
+                "Weapons - Grenade launcher",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "The Jade Rabbit",
+            "category": [
+                "The Jade Rabbit",
+                "Weapons - Scout rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "The Last Word",
+            "category": [
+                "The Last Word",
+                "Weapons - Hand cannon",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "The Prospector",
+            "category": [
+                "The Prospector",
+                "Weapons - Grenade launcher",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Thorn",
+            "category": [
+                "Thorn",
+                "Weapons - Hand cannon",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Traveler's Chosen",
+            "category": [
+                "Traveler's Chosen",
+                "Weapons - Sidearm",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Trespasser",
+            "category": [
+                "Trespasser",
+                "Weapons - Sidearm",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Truth",
+            "category": [
+                "Truth",
+                "Weapons - Rocket launcher",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Two-Tailed Fox",
+            "category": [
+                "Two-Tailed Fox",
+                "Weapons - Rocket launcher",
+                "Power Weapons",
+                "DPS Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Vigilance Wing",
+            "category": [
+                "Vigilance Wing",
+                "Weapons - Pulse rifle",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Wavesplitter",
+            "category": [
+                "Wavesplitter",
+                "Weapons - Trace rifle",
+                "Energy Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Wish-Ender",
+            "category": [
+                "Wish-Ender",
+                "Weapons - Bow",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Wish-Keeper",
+            "category": [
+                "Wish-Keeper",
+                "Weapons - Bow",
+                "Kinetic Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
+        },
+        {
+            "name": "Worldline Zero",
+            "category": [
+                "Worldline Zero",
+                "Weapons - Sword",
+                "Power Weapons",
+                "Roam Weapons",
+                "Exotic Weapons",
+                "Exotic Weapons - Rank F"
+            ]
         }
     ]
 }
