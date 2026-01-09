@@ -626,7 +626,7 @@
     },
     "Cerberus+1": {
         "yaml_option": [
-            "enable_cerberus+1"
+            "enable_cerberus_1"
         ],
         "hidden": true
     },
