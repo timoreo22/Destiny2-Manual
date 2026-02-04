@@ -2,13 +2,6 @@
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
     "data": [
         {
-            "name": "Public Event",
-            "category": [
-                "Kepler - Public events"
-            ],
-            "region": "Kepler"
-        },
-        {
             "name": "Atrium",
             "category": [
                 "EDZ - Lost Sectors"
