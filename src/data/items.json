@@ -1032,6 +1032,514 @@
             "filler": true
         },
         {
+            "name": "Feed the Void",
+            "category": [
+                "Aspects - Warlock - Void",
+                "Warlock",
+                "Aspects - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Tempest Strike",
+            "category": [
+                "Aspects - Hunter - Arc",
+                "Hunter",
+                "Aspects - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Controlled Demolition",
+            "category": [
+                "Aspects - Titan - Void",
+                "Titan",
+                "Aspects - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Winter's Shroud",
+            "category": [
+                "Aspects - Hunter - Stasis",
+                "Hunter",
+                "Aspects - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Banner of War",
+            "category": [
+                "Aspects - Titan - Strand",
+                "Titan",
+                "Aspects - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Ascension",
+            "category": [
+                "Aspects - Hunter - Arc",
+                "Hunter",
+                "Aspects - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Sol Invictus",
+            "category": [
+                "Aspects - Titan - Solar",
+                "Titan",
+                "Aspects - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Knockout",
+            "category": [
+                "Aspects - Titan - Arc",
+                "Titan",
+                "Aspects - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Weavewalk",
+            "category": [
+                "Aspects - Warlock - Strand",
+                "Warlock",
+                "Aspects - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Consecration",
+            "category": [
+                "Aspects - Titan - Solar",
+                "Titan",
+                "Aspects - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Stylish Executioner",
+            "category": [
+                "Aspects - Hunter - Void",
+                "Hunter",
+                "Aspects - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Threaded Specter",
+            "category": [
+                "Aspects - Hunter - Strand",
+                "Hunter",
+                "Aspects - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "On Your Mark",
+            "category": [
+                "Aspects - Hunter - Solar",
+                "Hunter",
+                "Aspects - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Gunpowder Gamble",
+            "category": [
+                "Aspects - Hunter - Solar",
+                "Hunter",
+                "Aspects - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Storm's Keep",
+            "category": [
+                "Aspects - Titan - Arc",
+                "Titan",
+                "Aspects - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Into the Fray",
+            "category": [
+                "Aspects - Titan - Strand",
+                "Titan",
+                "Aspects - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Lethal Current",
+            "category": [
+                "Aspects - Hunter - Arc",
+                "Hunter",
+                "Aspects - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Lightning Surge",
+            "category": [
+                "Aspects - Warlock - Arc",
+                "Warlock",
+                "Aspects - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Roaring Flames",
+            "category": [
+                "Aspects - Titan - Solar",
+                "Titan",
+                "Aspects - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Touch of Flame",
+            "category": [
+                "Aspects - Warlock - Solar",
+                "Warlock",
+                "Aspects - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Touch of Thunder",
+            "category": [
+                "Aspects - Titan - Arc",
+                "Titan",
+                "Aspects - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Mindspun Invocation",
+            "category": [
+                "Aspects - Warlock - Strand",
+                "Warlock",
+                "Aspects - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Iceflare Bolts",
+            "category": [
+                "Aspects - Warlock - Stasis",
+                "Warlock",
+                "Aspects - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Whirling Maelstrom",
+            "category": [
+                "Aspects - Hunter - Strand",
+                "Hunter",
+                "Aspects - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Hellion",
+            "category": [
+                "Aspects - Warlock - Solar",
+                "Warlock",
+                "Aspects - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Bleak Watcher",
+            "category": [
+                "Aspects - Warlock - Stasis",
+                "Warlock",
+                "Aspects - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Weaver's Call",
+            "category": [
+                "Aspects - Warlock - Strand",
+                "Warlock",
+                "Aspects - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Flechette Storm",
+            "category": [
+                "Aspects - Titan - Strand",
+                "Titan",
+                "Aspects - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Ionic Sentry",
+            "category": [
+                "Aspects - Warlock - Arc",
+                "Warlock",
+                "Aspects - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Diamond Lance",
+            "category": [
+                "Aspects - Titan - Stasis",
+                "Titan",
+                "Aspects - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Unbreakable",
+            "category": [
+                "Aspects - Titan - Void",
+                "Titan",
+                "Aspects - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Vanishing Step",
+            "category": [
+                "Aspects - Hunter - Void",
+                "Hunter",
+                "Aspects - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Ensnaring Slam",
+            "category": [
+                "Aspects - Hunter - Strand",
+                "Hunter",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Tectonic Harvest",
+            "category": [
+                "Aspects - Titan - Stasis",
+                "Titan",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Arc Soul",
+            "category": [
+                "Aspects - Warlock - Arc",
+                "Warlock",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Bastion",
+            "category": [
+                "Aspects - Titan - Void",
+                "Titan",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Knock 'em Down",
+            "category": [
+                "Aspects - Hunter - Solar",
+                "Hunter",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Electrostatic Mind",
+            "category": [
+                "Aspects - Warlock - Arc",
+                "Warlock",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Widow's Silk",
+            "category": [
+                "Aspects - Hunter - Strand",
+                "Hunter",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Grim Harvest",
+            "category": [
+                "Aspects - Hunter - Stasis",
+                "Hunter",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Howl of the Storm",
+            "category": [
+                "Aspects - Titan - Stasis",
+                "Titan",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Chaos Accelerant",
+            "category": [
+                "Aspects - Warlock - Void",
+                "Warlock",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Trapper's Ambush",
+            "category": [
+                "Aspects - Hunter - Void",
+                "Hunter",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Child of the Old Gods",
+            "category": [
+                "Aspects - Warlock - Void",
+                "Warlock",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Heat Rises",
+            "category": [
+                "Aspects - Warlock - Solar",
+                "Warlock",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Offensive Bulwark",
+            "category": [
+                "Aspects - Titan - Void",
+                "Titan",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Shatterdive",
+            "category": [
+                "Aspects - Hunter - Stasis",
+                "Hunter",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Touch of Winter",
+            "category": [
+                "Aspects - Hunter - Stasis",
+                "Hunter",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "On the Prowl",
+            "category": [
+                "Aspects - Hunter - Void",
+                "Hunter",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Flow State",
+            "category": [
+                "Aspects - Hunter - Arc",
+                "Hunter",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Icarus Dash",
+            "category": [
+                "Aspects - Warlock - Solar",
+                "Warlock",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Glacial Harvest",
+            "category": [
+                "Aspects - Warlock - Stasis",
+                "Warlock",
+                "Aspects - Rank C"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Drengr's Lash",
+            "category": [
+                "Aspects - Titan - Strand",
+                "Titan",
+                "Aspects - Rank D"
+            ]
+        },
+        {
+            "name": "Juggernaut",
+            "category": [
+                "Aspects - Titan - Arc",
+                "Titan",
+                "Aspects - Rank D"
+            ]
+        },
+        {
+            "name": "The Wanderer",
+            "category": [
+                "Aspects - Warlock - Strand",
+                "Warlock",
+                "Aspects - Rank D"
+            ]
+        },
+        {
+            "name": "Frostpulse",
+            "category": [
+                "Aspects - Warlock - Stasis",
+                "Warlock",
+                "Aspects - Rank D"
+            ]
+        },
+        {
+            "name": "Cryoclasm",
+            "category": [
+                "Aspects - Titan - Stasis",
+                "Titan",
+                "Aspects - Rank D"
+            ]
+        },
+        {
             "name": "Solar Grenade",
             "category": [
                 "Grenades - Solar"

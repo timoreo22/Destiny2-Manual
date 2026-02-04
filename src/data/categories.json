@@ -36,6 +36,30 @@
     "Weapons - Rank D": {
         "hidden": true
     },
+    "Aspects - Rank S": {
+        "hidden": true
+    },
+    "Aspects - Rank A": {
+        "hidden": true
+    },
+    "Aspects - Rank B": {
+        "hidden": true
+    },
+    "Aspects - Rank C": {
+        "hidden": true
+    },
+    "Aspects - Rank D": {
+        "hidden": true
+    },
+    "Titan": {
+        "hidden": true
+    },
+    "Warlock": {
+        "hidden": true
+    },
+    "Hunter": {
+        "hidden": true
+    },
     "Tractor Cannon": {
         "yaml_option": [
             "enable_tractor_cannon"
