@@ -13,11 +13,11 @@
         }
     },
     "user": {
-        "_commented_out_option":{
+        "_commented_out_option": {
             "type": "Toggle",
             "default": true
         },
-        "enable_rank_b":{
+        "enable_rank_b": {
             "description": [
                 "Marks Rank B Weapons as valid for logic as part of a \"Good Loadout\"",
                 "Weapon rankings are based on this spreadsheet_ with a few modifications",
@@ -28,7 +28,7 @@
             "default": true,
             "group": "Weapon Ranks"
         },
-        "enable_rank_c":{
+        "enable_rank_c": {
             "description": [
                 "Marks Rank C Weapons as valid for logic as part of a \"Good Loadout\"",
                 "Weapon rankings are based on this spreadsheet_ with a few modifications",
@@ -39,7 +39,7 @@
             "default": false,
             "group": "Weapon Ranks"
         },
-        "enable_rank_d":{
+        "enable_rank_d": {
             "description": [
                 "Marks Rank D Weapons as valid for logic as part of a \"Good Loadout\"",
                 "Weapon rankings are based on this spreadsheet_ with a few modifications",
@@ -50,23 +50,50 @@
             "default": false,
             "group": "Weapon Ranks"
         },
-        "starting_class":{
+        "require_class_unlock": {
+            "description": [
+                "If set to true, will add class unlock items and start on a random class",
+                "Used by logic to check if exotics are useful"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "require_subclass_unlock": {
+            "description": [
+                "If set to true, will add subclass unlock items and start on a random subclass",
+                "Used by logic to check if aspects are useful"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "starting_aspects": {
+            "description": [
+                "If set to true, will give two random aspects for the unlocked class & subclass",
+                "Will only work if both require_class_unlock and require_subclass_unlock are true"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Options"
+        },
+        "starting_class": {
             "type": "Choice",
             "description": [
-                "What class will you be running ?",
+                "What class will you be running ? useless if require_class_unlock is true",
                 "Used to limit available exotics",
-                "Multi-class and class unlocks coming later"
+                "Multi-class coming later"
             ],
             "values": {
-                "Titan":0,
-                "Warlock":1,
-                "Hunter":2
-             },
+                "Titan": 0,
+                "Warlock": 1,
+                "Hunter": 2
+            },
             "default": 0,
             "allow_custom_value": false,
             "group": "Game Options"
         },
-        "clears_required_for_victory":{
+        "clears_required_for_victory": {
             "type": "Range",
             "description": [
                 "The win condition of this manual is to beat X number of different dungeons. Use this option to define the number of dungeons required for victory."
@@ -76,8 +103,7 @@
             "range_end": 11,
             "group": "Game Options"
         },
-
-        "_DLC_enabled":{
+        "_DLC_enabled": {
             "display_name": "DLC Enabled",
             "description": "Is the Dlc enabled?",
             "type": "Toggle",
@@ -89,5 +115,4 @@
             "default": true
         }
     }
-
 }

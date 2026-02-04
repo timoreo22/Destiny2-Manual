@@ -60,6 +60,16 @@
     "Hunter": {
         "hidden": true
     },
+    "Class Unlock": {
+        "yaml_option": [
+            "require_class_unlock"
+        ]
+    },
+    "Subclass Unlock": {
+        "yaml_option": [
+            "require_subclass_unlock"
+        ]
+    },
     "Tractor Cannon": {
         "yaml_option": [
             "enable_tractor_cannon"

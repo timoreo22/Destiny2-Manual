@@ -2,13 +2,31 @@
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
     "game": "Destiny2",
     "creator": "timoreo",
-
     "filler_item_name": "(filler)",
-
     "starting_items": [
         {
-            "item_categories": ["Destinations"],
+            "item_categories": [
+                "Destinations"
+            ],
             "random": 1
+        },
+        {
+            "item_categories": [
+                "Class Unlock"
+            ],
+            "random": 1,
+            "yaml_option": [
+                "require_class_unlock"
+            ]
+        },
+        {
+            "item_categories": [
+                "Subclass Unlock"
+            ],
+            "random": 1,
+            "yaml_option": [
+                "require_subclass_unlock"
+            ]
         }
     ],
     "death_link": false

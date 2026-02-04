@@ -2,6 +2,69 @@
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
     "data": [
         {
+            "name": "Arc Unlock",
+            "category": [
+                "Subclass Unlock"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Void Unlock",
+            "category": [
+                "Subclass Unlock"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Solar Unlock",
+            "category": [
+                "Subclass Unlock"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Stasis Unlock",
+            "category": [
+                "Subclass Unlock"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Strand Unlock",
+            "category": [
+                "Subclass Unlock"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Prismatic Unlock",
+            "category": [
+                "Subclass Unlock"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Titan Unlock",
+            "category": [
+                "Class Unlock"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Hunter Unlock",
+            "category": [
+                "Class Unlock"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Warlock Unlock",
+            "category": [
+                "Class Unlock"
+            ],
+            "useful": true
+        },
+        {
             "name": "EDZ Key",
             "category": [
                 "Destinations"
