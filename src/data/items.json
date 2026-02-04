@@ -150,9 +150,9 @@
             "progression": true
         },
         {
-            "name": "Pulse rifle / Micro-Missile",
+            "name": "Pulse Rifle / Micro-Missile",
             "category": [
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "DPS Weapons",
                 "Roam Weapons",
                 "Kinetic Weapons",
@@ -174,9 +174,9 @@
             "useful": true
         },
         {
-            "name": "Sniper rifle / Disruption",
+            "name": "Sniper Rifle / Disruption",
             "category": [
-                "Weapons - Sniper rifle",
+                "Weapons - Sniper Rifle",
                 "DPS Weapons",
                 "Power Weapons",
                 "Weapons - Rank A"
@@ -185,9 +185,9 @@
             "useful": true
         },
         {
-            "name": "Sniper rifle / Dynamic (140RPM)",
+            "name": "Sniper Rifle / Dynamic (140RPM)",
             "category": [
-                "Weapons - Sniper rifle",
+                "Weapons - Sniper Rifle",
                 "DPS Weapons",
                 "Kinetic Weapons",
                 "Weapons - Rank A"
@@ -196,9 +196,9 @@
             "useful": true
         },
         {
-            "name": "Hand cannon / Special Dynamic (180RPM)",
+            "name": "Hand Cannon / Special Dynamic (180RPM)",
             "category": [
-                "Weapons - Hand cannon",
+                "Weapons - Hand Cannon",
                 "DPS Weapons",
                 "Energy Weapons",
                 "Weapons - Rank A"
@@ -219,9 +219,9 @@
             "useful": true
         },
         {
-            "name": "Auto rifle / Support",
+            "name": "Auto Rifle / Support",
             "category": [
-                "Weapons - Auto rifle",
+                "Weapons - Auto Rifle",
                 "Roam Weapons",
                 "Energy Weapons",
                 "Kinetic Weapons",
@@ -231,9 +231,9 @@
             "useful": true
         },
         {
-            "name": "Grenade launcher - breech / Area Denial",
+            "name": "Grenade Launcher - Breech / Area Denial",
             "category": [
-                "Weapons - Grenade launcher - breech",
+                "Weapons - Grenade Launcher - Breech",
                 "Roam Weapons",
                 "Energy Weapons",
                 "Kinetic Weapons",
@@ -252,9 +252,9 @@
             "useful": true
         },
         {
-            "name": "Fusion rifle / Aggressive",
+            "name": "Fusion Rifle / Aggressive",
             "category": [
-                "Weapons - Fusion rifle",
+                "Weapons - Fusion Rifle",
                 "Weapons - Rank B",
                 "Energy Weapons",
                 "Kinetic Weapons",
@@ -262,9 +262,9 @@
             ]
         },
         {
-            "name": "Fusion rifle / High-Impact",
+            "name": "Fusion Rifle / High-Impact",
             "category": [
-                "Weapons - Fusion rifle",
+                "Weapons - Fusion Rifle",
                 "Weapons - Rank B",
                 "Energy Weapons",
                 "Kinetic Weapons",
@@ -272,9 +272,9 @@
             ]
         },
         {
-            "name": "Fusion rifle / Rapid-Fire",
+            "name": "Fusion Rifle / Rapid-Fire",
             "category": [
-                "Weapons - Fusion rifle",
+                "Weapons - Fusion Rifle",
                 "Weapons - Rank B",
                 "Energy Weapons",
                 "Kinetic Weapons",
@@ -302,10 +302,10 @@
             ]
         },
         {
-            "name": "Grenade launcher - breech / Micro-Missile",
+            "name": "Grenade Launcher - Breech / Micro-Missile",
             "_comment": "Movement option",
             "category": [
-                "Weapons - Grenade launcher - breech",
+                "Weapons - Grenade Launcher - Breech",
                 "Energy Weapons",
                 "Kinetic Weapons",
                 "Weapons - Rank B"
@@ -322,18 +322,18 @@
             ]
         },
         {
-            "name": "Rocket launcher / Adaptive",
+            "name": "Rocket Launcher / Adaptive",
             "category": [
-                "Weapons - Rocket launcher",
+                "Weapons - Rocket Launcher",
                 "Weapons - Rank B",
                 "Power Weapons",
                 "DPS Weapons"
             ]
         },
         {
-            "name": "Rocket launcher / Aggressive",
+            "name": "Rocket Launcher / Aggressive",
             "category": [
-                "Weapons - Rocket launcher",
+                "Weapons - Rocket Launcher",
                 "Weapons - Rank B",
                 "Power Weapons",
                 "DPS Weapons"
@@ -359,9 +359,9 @@
             ]
         },
         {
-            "name": "Sniper rifle / Rapid-Fire",
+            "name": "Sniper Rifle / Rapid-Fire",
             "category": [
-                "Weapons - Sniper rifle",
+                "Weapons - Sniper Rifle",
                 "Weapons - Rank B",
                 "Energy Weapons",
                 "Kinetic Weapons",
@@ -417,10 +417,10 @@
             ]
         },
         {
-            "name": "Hand cannon / Spread Shot",
+            "name": "Hand Cannon / Spread Shot",
             "_comment": "I don't think it's that great",
             "category": [
-                "Weapons - Hand cannon",
+                "Weapons - Hand Cannon",
                 "Weapons - Rank B"
             ]
         },
@@ -435,18 +435,18 @@
             ]
         },
         {
-            "name": "Hand cannon / Primary Dynamic (180RPM)",
+            "name": "Hand Cannon / Primary Dynamic (180RPM)",
             "category": [
-                "Weapons - Hand cannon",
+                "Weapons - Hand Cannon",
                 "Roam Weapons",
                 "Kinetic Weapons",
                 "Weapons - Rank B"
             ]
         },
         {
-            "name": "Trace rifle / Adaptive",
+            "name": "Trace Rifle / Adaptive",
             "category": [
-                "Weapons - Trace rifle",
+                "Weapons - Trace Rifle",
                 "Weapons - Rank B",
                 "Energy Weapons",
                 "Kinetic Weapons",
@@ -484,9 +484,9 @@
             ]
         },
         {
-            "name": "Hand cannon / Precision",
+            "name": "Hand Cannon / Precision",
             "category": [
-                "Weapons - Hand cannon",
+                "Weapons - Hand Cannon",
                 "Weapons - Rank B",
                 "Energy Weapons",
                 "Kinetic Weapons",
@@ -553,9 +553,9 @@
             ]
         },
         {
-            "name": "Fusion rifle / Adaptive",
+            "name": "Fusion Rifle / Adaptive",
             "category": [
-                "Weapons - Fusion rifle",
+                "Weapons - Fusion Rifle",
                 "Weapons - Rank C",
                 "DPS Weapons"
             ],
@@ -571,36 +571,36 @@
             "filler": true
         },
         {
-            "name": "Grenade launcher - drum / Adaptive",
+            "name": "Grenade Launcher - Drum / Adaptive",
             "category": [
-                "Weapons - Grenade launcher - drum",
+                "Weapons - Grenade Launcher - Drum",
                 "Weapons - Rank C",
                 "DPS Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Grenade launcher - drum / Compressed Wave",
+            "name": "Grenade Launcher - Drum / Compressed Wave",
             "category": [
-                "Weapons - Grenade launcher - drum",
+                "Weapons - Grenade Launcher - Drum",
                 "Weapons - Rank C",
                 "DPS Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Grenade launcher - drum / Rapid",
+            "name": "Grenade Launcher - Drum / Rapid",
             "category": [
-                "Weapons - Grenade launcher - drum",
+                "Weapons - Grenade Launcher - Drum",
                 "Weapons - Rank C",
                 "DPS Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Rocket launcher / High-Impact",
+            "name": "Rocket Launcher / High-Impact",
             "category": [
-                "Weapons - Rocket launcher",
+                "Weapons - Rocket Launcher",
                 "Weapons - Rank C",
                 "DPS Weapons"
             ],
@@ -634,18 +634,18 @@
             "filler": true
         },
         {
-            "name": "Sniper rifle / Adaptive",
+            "name": "Sniper Rifle / Adaptive",
             "category": [
-                "Weapons - Sniper rifle",
+                "Weapons - Sniper Rifle",
                 "Weapons - Rank C",
                 "DPS Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Sniper rifle / Aggressive",
+            "name": "Sniper Rifle / Aggressive",
             "category": [
-                "Weapons - Sniper rifle",
+                "Weapons - Sniper Rifle",
                 "Weapons - Rank C",
                 "DPS Weapons"
             ],
@@ -689,9 +689,9 @@
             "filler": true
         },
         {
-            "name": "Hand cannon / Heavy Burst",
+            "name": "Hand Cannon / Heavy Burst",
             "category": [
-                "Weapons - Hand cannon",
+                "Weapons - Hand Cannon",
                 "Weapons - Rank C",
                 "Roam Weapons"
             ],
@@ -707,135 +707,135 @@
             "filler": true
         },
         {
-            "name": "Scout rifle / Balanced (260RPM)",
+            "name": "Scout Rifle / Balanced (260RPM)",
             "category": [
-                "Weapons - Scout rifle",
+                "Weapons - Scout Rifle",
                 "Weapons - Rank C",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Pulse rifle / Heavy Burst",
+            "name": "Pulse Rifle / Heavy Burst",
             "category": [
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "Weapons - Rank C",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Pulse rifle / Rapid-Fire",
+            "name": "Pulse Rifle / Rapid-Fire",
             "category": [
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "Weapons - Rank C",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Hand cannon / Adaptive",
+            "name": "Hand Cannon / Adaptive",
             "category": [
-                "Weapons - Hand cannon",
+                "Weapons - Hand Cannon",
                 "Weapons - Rank C",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Auto rifle / Rapid-Fire",
+            "name": "Auto Rifle / Rapid-Fire",
             "category": [
-                "Weapons - Auto rifle",
+                "Weapons - Auto Rifle",
                 "Weapons - Rank C",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Pulse rifle / Adaptive",
+            "name": "Pulse Rifle / Adaptive",
             "category": [
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "Weapons - Rank C",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Pulse rifle / Lightweight",
+            "name": "Pulse Rifle / Lightweight",
             "category": [
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "Weapons - Rank C",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Auto rifle / Balanced (450RPM)",
+            "name": "Auto Rifle / Balanced (450RPM)",
             "category": [
-                "Weapons - Auto rifle",
+                "Weapons - Auto Rifle",
                 "Weapons - Rank C",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Pulse rifle / Dynamic (540RPM)",
+            "name": "Pulse Rifle / Dynamic (540RPM)",
             "category": [
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "Weapons - Rank C",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Scout rifle / Rapid-Fire",
+            "name": "Scout Rifle / Rapid-Fire",
             "category": [
-                "Weapons - Scout rifle",
+                "Weapons - Scout Rifle",
                 "Weapons - Rank C",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Pulse rifle / Balanced (540RPM)",
+            "name": "Pulse Rifle / Balanced (540RPM)",
             "category": [
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "Weapons - Rank C",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Pulse rifle / Aggressive Burst",
+            "name": "Pulse Rifle / Aggressive Burst",
             "category": [
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "Weapons - Rank C",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Auto rifle / Adaptive",
+            "name": "Auto Rifle / Adaptive",
             "category": [
-                "Weapons - Auto rifle",
+                "Weapons - Auto Rifle",
                 "Weapons - Rank C",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Auto rifle / High-Impact",
+            "name": "Auto Rifle / High-Impact",
             "category": [
-                "Weapons - Auto rifle",
+                "Weapons - Auto Rifle",
                 "Weapons - Rank C",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Scout rifle / Lightweight",
+            "name": "Scout Rifle / Lightweight",
             "category": [
-                "Weapons - Scout rifle",
+                "Weapons - Scout Rifle",
                 "Weapons - Rank C",
                 "Roam Weapons"
             ],
@@ -851,63 +851,63 @@
             "filler": true
         },
         {
-            "name": "Grenade launcher - breech / Wave",
+            "name": "Grenade Launcher - Breech / Wave",
             "category": [
-                "Weapons - Grenade launcher - breech",
+                "Weapons - Grenade Launcher - Breech",
                 "Weapons - Rank C",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Fusion rifle / Precision",
+            "name": "Fusion Rifle / Precision",
             "category": [
-                "Weapons - Fusion rifle",
+                "Weapons - Fusion Rifle",
                 "Weapons - Rank D",
                 "DPS Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Grenade launcher - breech / Double Fire",
+            "name": "Grenade Launcher - Breech / Double Fire",
             "category": [
-                "Weapons - Grenade launcher - breech",
+                "Weapons - Grenade Launcher - Breech",
                 "Weapons - Rank D",
                 "DPS Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Grenade launcher - breech / Lightweight",
+            "name": "Grenade Launcher - Breech / Lightweight",
             "category": [
-                "Weapons - Grenade launcher - breech",
+                "Weapons - Grenade Launcher - Breech",
                 "Weapons - Rank D",
                 "DPS Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Linear fusion rifle / Adaptive Burst",
+            "name": "Linear Fusion Rifle / Adaptive Burst",
             "category": [
-                "Weapons - Linear fusion rifle",
+                "Weapons - Linear Fusion Rifle",
                 "Weapons - Rank D",
                 "DPS Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Linear fusion rifle / Precision",
+            "name": "Linear Fusion Rifle / Precision",
             "category": [
-                "Weapons - Linear fusion rifle",
+                "Weapons - Linear Fusion Rifle",
                 "Weapons - Rank D",
                 "DPS Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Rocket launcher / Precision",
+            "name": "Rocket Launcher / Precision",
             "category": [
-                "Weapons - Rocket launcher",
+                "Weapons - Rocket Launcher",
                 "Weapons - Rank D",
                 "DPS Weapons"
             ],
@@ -942,54 +942,54 @@
             "filler": true
         },
         {
-            "name": "Hand cannon / Aggressive",
+            "name": "Hand Cannon / Aggressive",
             "category": [
-                "Weapons - Hand cannon",
+                "Weapons - Hand Cannon",
                 "Weapons - Rank D",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Pulse rifle / High-Impact",
+            "name": "Pulse Rifle / High-Impact",
             "category": [
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "Weapons - Rank D",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Scout rifle / High-Impact",
+            "name": "Scout Rifle / High-Impact",
             "category": [
-                "Weapons - Scout rifle",
+                "Weapons - Scout Rifle",
                 "Weapons - Rank D",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Scout rifle / Precision",
+            "name": "Scout Rifle / Precision",
             "category": [
-                "Weapons - Scout rifle",
+                "Weapons - Scout Rifle",
                 "Weapons - Rank D",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Auto rifle / Precision",
+            "name": "Auto Rifle / Precision",
             "category": [
-                "Weapons - Auto rifle",
+                "Weapons - Auto Rifle",
                 "Weapons - Rank D",
                 "Roam Weapons"
             ],
             "filler": true
         },
         {
-            "name": "Scout rifle / Aggressive",
+            "name": "Scout Rifle / Aggressive",
             "category": [
-                "Weapons - Scout rifle",
+                "Weapons - Scout Rifle",
                 "Weapons - Rank D",
                 "Roam Weapons"
             ],
@@ -1235,7 +1235,7 @@
             "name": "Choir of One",
             "category": [
                 "Choir of One",
-                "Weapons - Auto rifle",
+                "Weapons - Auto Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -1247,7 +1247,7 @@
             "name": "Parasite",
             "category": [
                 "Parasite",
-                "Weapons - Grenade launcher",
+                "Weapons - Grenade Launcher",
                 "Power Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -1260,7 +1260,7 @@
             "name": "Still Hunt",
             "category": [
                 "Still Hunt",
-                "Weapons - Sniper rifle",
+                "Weapons - Sniper Rifle",
                 "Energy Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -1285,7 +1285,7 @@
             "name": "Finality's Auger",
             "category": [
                 "Finality's Auger",
-                "Weapons - Linear fusion rifle",
+                "Weapons - Linear Fusion Rifle",
                 "Power Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -1297,7 +1297,7 @@
             "name": "Gjallarhorn",
             "category": [
                 "Gjallarhorn",
-                "Weapons - Rocket launcher",
+                "Weapons - Rocket Launcher",
                 "Power Weapons",
                 "Support Weapons",
                 "Exotic Weapons",
@@ -1322,7 +1322,7 @@
             "name": "The Navigator",
             "category": [
                 "The Navigator",
-                "Weapons - Trace rifle",
+                "Weapons - Trace Rifle",
                 "Kinetic Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -1335,7 +1335,7 @@
             "name": "Alethonym",
             "category": [
                 "Alethonym",
-                "Weapons - Grenade launcher",
+                "Weapons - Grenade Launcher",
                 "Kinetic Weapons",
                 "Exotic Weapons",
                 "Exotic Weapons - Rank C"
@@ -1346,7 +1346,7 @@
             "name": "Divinity",
             "category": [
                 "Divinity",
-                "Weapons - Trace rifle",
+                "Weapons - Trace Rifle",
                 "Energy Weapons",
                 "Support Weapons",
                 "Exotic Weapons",
@@ -1358,7 +1358,7 @@
             "name": "Graviton Lance",
             "category": [
                 "Graviton Lance",
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -1406,7 +1406,7 @@
             "name": "Whirling Ovation",
             "category": [
                 "Whirling Ovation",
-                "Weapons - Rocket launcher",
+                "Weapons - Rocket Launcher",
                 "Power Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -1430,7 +1430,7 @@
             "name": "Sunshot",
             "category": [
                 "Sunshot",
-                "Weapons - Hand cannon",
+                "Weapons - Hand Cannon",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -1453,7 +1453,7 @@
             "name": "Anarchy",
             "category": [
                 "Anarchy",
-                "Weapons - Grenade launcher",
+                "Weapons - Grenade Launcher",
                 "Power Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -1464,7 +1464,7 @@
             "name": "Bad Juju",
             "category": [
                 "Bad Juju",
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -1497,7 +1497,7 @@
             "name": "Cloudstrike",
             "category": [
                 "Cloudstrike",
-                "Weapons - Sniper rifle",
+                "Weapons - Sniper Rifle",
                 "Energy Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -1519,7 +1519,7 @@
             "name": "D.A.R.C.I.",
             "category": [
                 "D.A.R.C.I.",
-                "Weapons - Sniper rifle",
+                "Weapons - Sniper Rifle",
                 "Power Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -1530,7 +1530,7 @@
             "name": "Dead Messenger",
             "category": [
                 "Dead Messenger",
-                "Weapons - Grenade launcher - breech",
+                "Weapons - Grenade Launcher - Breech",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -1551,7 +1551,7 @@
             "name": "Eriana's Vow",
             "category": [
                 "Eriana's Vow",
-                "Weapons - Hand cannon",
+                "Weapons - Hand Cannon",
                 "Energy Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -1596,7 +1596,7 @@
             "name": "Ice Breaker",
             "category": [
                 "Ice Breaker",
-                "Weapons - Sniper rifle",
+                "Weapons - Sniper Rifle",
                 "Energy Weapons",
                 "Exotic Weapons",
                 "Exotic Weapons - Rank D"
@@ -1606,7 +1606,7 @@
             "name": "Izanagi's Burden",
             "category": [
                 "Izanagi's Burden",
-                "Weapons - Sniper rifle",
+                "Weapons - Sniper Rifle",
                 "Kinetic Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -1617,7 +1617,7 @@
             "name": "Khvostov 7G-0X",
             "category": [
                 "Khvostov 7G-0X",
-                "Weapons - Auto rifle",
+                "Weapons - Auto Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -1639,7 +1639,7 @@
             "name": "New Land Beyond",
             "category": [
                 "New Land Beyond",
-                "Weapons - Sniper rifle",
+                "Weapons - Sniper Rifle",
                 "Kinetic Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -1650,7 +1650,7 @@
             "name": "Outbreak Perfected",
             "category": [
                 "Outbreak Perfected",
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "DPS Weapons",
@@ -1662,7 +1662,7 @@
             "name": "Salvation's Grip",
             "category": [
                 "Salvation's Grip",
-                "Weapons - Grenade launcher",
+                "Weapons - Grenade Launcher",
                 "Power Weapons",
                 "Exotic Weapons",
                 "Exotic Weapons - Rank D"
@@ -1672,7 +1672,7 @@
             "name": "Tessellation",
             "category": [
                 "Tessellation",
-                "Weapons - Fusion rifle",
+                "Weapons - Fusion Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "DPS Weapons",
@@ -1717,7 +1717,7 @@
             "name": "Arbalest",
             "category": [
                 "Arbalest",
-                "Weapons - Linear fusion rifle",
+                "Weapons - Linear Fusion Rifle",
                 "Kinetic Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -1728,7 +1728,7 @@
             "name": "Barrow-Dyad",
             "category": [
                 "Barrow-Dyad",
-                "Weapons - Submachine gun",
+                "Weapons - Submachine Gun",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -1739,9 +1739,8 @@
             "name": "Coldheart",
             "category": [
                 "Coldheart",
-                "Weapons - Trace rifle",
+                "Weapons - Trace Rifle",
                 "Special Weapons",
-                "add clear",
                 "Roam Weapons",
                 "Exotic Weapons",
                 "Exotic Weapons - Rank E"
@@ -1751,7 +1750,7 @@
             "name": "Collective Obligation",
             "category": [
                 "Collective Obligation",
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -1762,7 +1761,7 @@
             "name": "Deathbringer",
             "category": [
                 "Deathbringer",
-                "Weapons - Rocket launcher",
+                "Weapons - Rocket Launcher",
                 "Power Weapons",
                 "Exotic Weapons",
                 "Exotic Weapons - Rank E"
@@ -1772,7 +1771,7 @@
             "name": "Delicate Tomb",
             "category": [
                 "Delicate Tomb",
-                "Weapons - Fusion rifle",
+                "Weapons - Fusion Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -1783,7 +1782,7 @@
             "name": "Dragon's Breath",
             "category": [
                 "Dragon's Breath",
-                "Weapons - Rocket launcher",
+                "Weapons - Rocket Launcher",
                 "Power Weapons",
                 "Roam Weapons",
                 "DPS Weapons",
@@ -1806,7 +1805,7 @@
             "name": "Ex Diris",
             "category": [
                 "Ex Diris",
-                "Weapons - Grenade launcher",
+                "Weapons - Grenade Launcher",
                 "Energy Weapons",
                 "Roam Weapons",
                 "DPS Weapons",
@@ -1818,9 +1817,8 @@
             "name": "Eyes of Tomorrow",
             "category": [
                 "Eyes of Tomorrow",
-                "Weapons - Rocket launcher",
+                "Weapons - Rocket Launcher",
                 "Power Weapons",
-                "add clear",
                 "Roam Weapons",
                 "Exotic Weapons",
                 "Exotic Weapons - Rank E"
@@ -1852,7 +1850,7 @@
             "name": "Graviton Spike",
             "category": [
                 "Graviton Spike",
-                "Weapons - Hand cannon",
+                "Weapons - Hand Cannon",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -1887,7 +1885,6 @@
                 "Le Monarque",
                 "Weapons - Bow",
                 "Energy Weapons",
-                "add clear",
                 "Roam Weapons",
                 "Exotic Weapons",
                 "Exotic Weapons - Rank E"
@@ -1898,7 +1895,7 @@
             "category": [
                 "Leviathan's Breath",
                 "Weapons - Bow",
-                "Power weapons",
+                "Power Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
                 "Exotic Weapons - Rank E"
@@ -1908,7 +1905,7 @@
             "name": "Malfeasance",
             "category": [
                 "Malfeasance",
-                "Weapons - Hand cannon",
+                "Weapons - Hand Cannon",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -1919,7 +1916,7 @@
             "name": "Merciless",
             "category": [
                 "Merciless",
-                "Weapons - Fusion rifle",
+                "Weapons - Fusion Rifle",
                 "Energy Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -1930,7 +1927,7 @@
             "name": "Microcosm",
             "category": [
                 "Microcosm",
-                "Weapons - Trace rifle",
+                "Weapons - Trace Rifle",
                 "Power Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -1941,7 +1938,7 @@
             "name": "Monte Carlo",
             "category": [
                 "Monte Carlo",
-                "Weapons - Auto rifle",
+                "Weapons - Auto Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -1952,7 +1949,7 @@
             "name": "Necrochasm",
             "category": [
                 "Necrochasm",
-                "Weapons - Auto rifle",
+                "Weapons - Auto Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -1963,7 +1960,7 @@
             "name": "New Malpais",
             "category": [
                 "New Malpais",
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "DPS Weapons",
@@ -1975,7 +1972,7 @@
             "name": "Osteo Striga",
             "category": [
                 "Osteo Striga",
-                "Weapons - Submachine gun",
+                "Weapons - Submachine Gun",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -1986,7 +1983,7 @@
             "name": "Polaris Lance",
             "category": [
                 "Polaris Lance",
-                "Weapons - Scout rifle",
+                "Weapons - Scout Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -1997,7 +1994,7 @@
             "name": "Prometheus Lens",
             "category": [
                 "Prometheus Lens",
-                "Weapons - Trace rifle",
+                "Weapons - Trace Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2008,7 +2005,7 @@
             "name": "Quicksilver Storm",
             "category": [
                 "Quicksilver Storm",
-                "Weapons - Auto rifle",
+                "Weapons - Auto Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2030,7 +2027,7 @@
             "name": "Red Death Reformed",
             "category": [
                 "Red Death Reformed",
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2041,7 +2038,7 @@
             "name": "Revision Zero",
             "category": [
                 "Revision Zero",
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2052,7 +2049,7 @@
             "name": "Riskrunner",
             "category": [
                 "Riskrunner",
-                "Weapons - Submachine gun",
+                "Weapons - Submachine Gun",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2064,7 +2061,7 @@
             "category": [
                 "Service of Luzaku",
                 "Weapons - Machine gun",
-                "Power weapons",
+                "Power Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
                 "Exotic Weapons - Rank E"
@@ -2086,7 +2083,7 @@
             "name": "Sleeper Simulant",
             "category": [
                 "Sleeper Simulant",
-                "Weapons - Linear fusion rifle",
+                "Weapons - Linear Fusion Rifle",
                 "Power Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -2097,7 +2094,7 @@
             "name": "Tarrabah",
             "category": [
                 "Tarrabah",
-                "Weapons - Submachine gun",
+                "Weapons - Submachine Gun",
                 "Special Weapons",
                 "Roam Weapons",
                 "DPS Weapons",
@@ -2109,7 +2106,7 @@
             "name": "The Huckleberry",
             "category": [
                 "The Huckleberry",
-                "Weapons - Submachine gun",
+                "Weapons - Submachine Gun",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2131,7 +2128,7 @@
             "name": "The Manticore",
             "category": [
                 "The Manticore",
-                "Weapons - Submachine gun",
+                "Weapons - Submachine Gun",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2142,7 +2139,7 @@
             "name": "The Queenbreaker",
             "category": [
                 "The Queenbreaker",
-                "Weapons - Linear fusion rifle",
+                "Weapons - Linear Fusion Rifle",
                 "Power Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -2153,7 +2150,7 @@
             "name": "The Wardcliff Coil",
             "category": [
                 "The Wardcliff Coil",
-                "Weapons - Rocket launcher",
+                "Weapons - Rocket Launcher",
                 "Power Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -2164,7 +2161,7 @@
             "name": "Third Iteration",
             "category": [
                 "Third Iteration",
-                "Weapons - Scout rifle",
+                "Weapons - Scout Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2186,7 +2183,7 @@
             "name": "Tommy's Matchbook",
             "category": [
                 "Tommy's Matchbook",
-                "Weapons - Auto rifle",
+                "Weapons - Auto Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2197,7 +2194,7 @@
             "name": "Touch of Malice",
             "category": [
                 "Touch of Malice",
-                "Weapons - Scout rifle",
+                "Weapons - Scout Rifle",
                 "Kinetic Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -2219,7 +2216,7 @@
             "name": "Vex Mythoclast",
             "category": [
                 "Vex Mythoclast",
-                "Weapons - Fusion rifle",
+                "Weapons - Fusion Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2230,7 +2227,7 @@
             "name": "Whisper of the Worm",
             "category": [
                 "Whisper of the Worm",
-                "Weapons - Sniper rifle",
+                "Weapons - Sniper Rifle",
                 "Power Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -2241,7 +2238,7 @@
             "name": "Wicked Implement",
             "category": [
                 "Wicked Implement",
-                "Weapons - Scout rifle",
+                "Weapons - Scout Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2264,7 +2261,7 @@
             "name": "Witherhoard",
             "category": [
                 "Witherhoard",
-                "Weapons - Grenade launcher - breech",
+                "Weapons - Grenade Launcher - Breech",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2285,7 +2282,7 @@
             "name": "Ace of Spades",
             "category": [
                 "Ace of Spades",
-                "Weapons - Hand cannon",
+                "Weapons - Hand Cannon",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2307,7 +2304,7 @@
             "name": "Borealis",
             "category": [
                 "Borealis",
-                "Weapons - Sniper rifle",
+                "Weapons - Sniper Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2318,7 +2315,7 @@
             "name": "Centrifuse",
             "category": [
                 "Centrifuse",
-                "Weapons - Auto rifle",
+                "Weapons - Auto Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2329,7 +2326,7 @@
             "name": "Cerberus+1",
             "category": [
                 "Cerberus+1",
-                "Weapons - Auto rifle",
+                "Weapons - Auto Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2340,7 +2337,7 @@
             "name": "Crimson",
             "category": [
                 "Crimson",
-                "Weapons - Hand cannon",
+                "Weapons - Hand Cannon",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2362,7 +2359,7 @@
             "name": "Dead Man's Tale",
             "category": [
                 "Dead Man's Tale",
-                "Weapons - Scout rifle",
+                "Weapons - Scout Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2417,7 +2414,7 @@
             "name": "Fighting Lion",
             "category": [
                 "Fighting Lion",
-                "Weapons - Grenade launcher - breech",
+                "Weapons - Grenade Launcher - Breech",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2428,7 +2425,7 @@
             "name": "Hard Light",
             "category": [
                 "Hard Light",
-                "Weapons - Auto rifle",
+                "Weapons - Auto Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2439,7 +2436,7 @@
             "name": "Hawkmoon",
             "category": [
                 "Hawkmoon",
-                "Weapons - Hand cannon",
+                "Weapons - Hand Cannon",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2472,7 +2469,7 @@
             "name": "Lodestar",
             "category": [
                 "Lodestar",
-                "Weapons - Trace rifle",
+                "Weapons - Trace Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2483,7 +2480,7 @@
             "name": "Lorentz Driver",
             "category": [
                 "Lorentz Driver",
-                "Weapons - Linear fusion rifle",
+                "Weapons - Linear Fusion Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2494,7 +2491,7 @@
             "name": "MIDA Multi-Tool",
             "category": [
                 "MIDA Multi-Tool",
-                "Weapons - Scout rifle",
+                "Weapons - Scout Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2505,7 +2502,7 @@
             "name": "No Time to Explain",
             "category": [
                 "No Time to Explain",
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2516,7 +2513,7 @@
             "name": "One Thousand Voices",
             "category": [
                 "One Thousand Voices",
-                "Weapons - Fusion rifle",
+                "Weapons - Fusion Rifle",
                 "Power Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -2527,7 +2524,7 @@
             "name": "Ruinous Effigy",
             "category": [
                 "Ruinous Effigy",
-                "Weapons - Trace rifle",
+                "Weapons - Trace Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2538,7 +2535,7 @@
             "name": "Skyburner's Oath",
             "category": [
                 "Skyburner's Oath",
-                "Weapons - Scout rifle",
+                "Weapons - Scout Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2560,7 +2557,7 @@
             "name": "SUROS Regime",
             "category": [
                 "SUROS Regime",
-                "Weapons - Auto rifle",
+                "Weapons - Auto Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2571,7 +2568,7 @@
             "name": "Sweet Business",
             "category": [
                 "Sweet Business",
-                "Weapons - Auto rifle",
+                "Weapons - Auto Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2582,7 +2579,7 @@
             "name": "Symmetry",
             "category": [
                 "Symmetry",
-                "Weapons - Scout rifle",
+                "Weapons - Scout Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2593,7 +2590,7 @@
             "name": "Telesto",
             "category": [
                 "Telesto",
-                "Weapons - Fusion rifle",
+                "Weapons - Fusion Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2615,7 +2612,7 @@
             "name": "The Colony",
             "category": [
                 "The Colony",
-                "Weapons - Grenade launcher",
+                "Weapons - Grenade Launcher",
                 "Power Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -2626,7 +2623,7 @@
             "name": "The Jade Rabbit",
             "category": [
                 "The Jade Rabbit",
-                "Weapons - Scout rifle",
+                "Weapons - Scout Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2637,7 +2634,7 @@
             "name": "The Last Word",
             "category": [
                 "The Last Word",
-                "Weapons - Hand cannon",
+                "Weapons - Hand Cannon",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2648,7 +2645,7 @@
             "name": "The Prospector",
             "category": [
                 "The Prospector",
-                "Weapons - Grenade launcher",
+                "Weapons - Grenade Launcher",
                 "Power Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -2659,7 +2656,7 @@
             "name": "Thorn",
             "category": [
                 "Thorn",
-                "Weapons - Hand cannon",
+                "Weapons - Hand Cannon",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2692,7 +2689,7 @@
             "name": "Truth",
             "category": [
                 "Truth",
-                "Weapons - Rocket launcher",
+                "Weapons - Rocket Launcher",
                 "Power Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -2703,7 +2700,7 @@
             "name": "Two-Tailed Fox",
             "category": [
                 "Two-Tailed Fox",
-                "Weapons - Rocket launcher",
+                "Weapons - Rocket Launcher",
                 "Power Weapons",
                 "DPS Weapons",
                 "Exotic Weapons",
@@ -2714,7 +2711,7 @@
             "name": "Vigilance Wing",
             "category": [
                 "Vigilance Wing",
-                "Weapons - Pulse rifle",
+                "Weapons - Pulse Rifle",
                 "Kinetic Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
@@ -2725,7 +2722,7 @@
             "name": "Wavesplitter",
             "category": [
                 "Wavesplitter",
-                "Weapons - Trace rifle",
+                "Weapons - Trace Rifle",
                 "Energy Weapons",
                 "Roam Weapons",
                 "Exotic Weapons",
