@@ -17,6 +17,9 @@ from ..Helpers import is_option_enabled, get_option_value, format_state_prog_ite
 # calling logging.info("message") anywhere below in this file will output the message to both console and log file
 import logging
 
+from copy import copy
+from math import floor, log10
+
 ########################################################################################
 ## Order of method calls when the world generates:
 ##    1. create_regions - Creates regions and locations
@@ -40,14 +43,45 @@ def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int)
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
     pass
 
+def add_location(world: World,region: Region, location: dict, category: str | None):
+    new_id = list(world.location_id_to_name.keys())[-1] + 1
+    location["id"] = new_id
+    world.location_id_to_name[new_id] = location["name"]
+    world.location_name_to_location[location["name"]] = location
+    if category is not None:
+        world.location_name_groups[category].add(location)
+
+def find_cat_for_loc(world: World, location_name: str, exclude_cat: str) -> str | None:
+    for v,k in world.location_name_groups.items():
+        if k == exclude_cat:
+            continue
+        if location_name in v:
+            return k
+    return None
+
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to remove locations from the world
     locationNamesToRemove: list[str] = [] # List of location names
     exclusion_rules(multiworld, player, world.location_name_groups.get("Excluded"))
+    chests = world.location_name_groups.get("Destination Chest")
+    chest_amount: int = world.options.chests_per_area
+    chest_fill: int = floor(log10(chest_amount))
     for region in multiworld.regions:
         if region.player == player:
             for location in list(region.locations):
+                if location.name in chests:
+                    dict_loc = world.location_name_to_location[location.name]
+                    cat = find_cat_for_loc(world, location.name, "Destination Chest")
+                    for i in range(1, chest_amount + 1):
+                        loc = copy(dict_loc)
+                        loc["name"] += " " + str(i).zfill(chest_fill)
+                        add_location(world, region, loc, cat)
+                        locObj = copy(location)
+                        locObj.name = loc["name"]
+                        locObj.id = loc["id"]
+                        region.locations.append(locObj)
+                    region.locations.remove(location)
                 if location.name in locationNamesToRemove:
                     region.locations.remove(location)
 

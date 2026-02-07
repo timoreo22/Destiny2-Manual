@@ -190,7 +190,7 @@
             ],
             "region": "Moon"
         },
-		{
+        {
             "name": "K1 Revelation",
             "category": [
                 "Moon - Lost Sectors"
@@ -298,245 +298,280 @@
         {
             "name": "Trostland - Chest",
             "category": [
-                "EDZ - Chest"
+                "EDZ - Chest",
+                "Destination Chest"
             ],
             "region": "EDZ"
         },
         {
             "name": "Outskirts - Chest",
             "category": [
-                "EDZ - Chest"
+                "EDZ - Chest",
+                "Destination Chest"
             ],
             "region": "EDZ"
         },
         {
             "name": "Winding Cove - Chest",
             "category": [
-                "EDZ - Chest"
+                "EDZ - Chest",
+                "Destination Chest"
             ],
             "region": "EDZ"
         },
         {
             "name": "Firebase Hades - Chest",
             "category": [
-                "EDZ - Chest"
+                "EDZ - Chest",
+                "Destination Chest"
             ],
             "region": "EDZ"
         },
         {
             "name": "The Sludge - Chest",
             "category": [
-                "EDZ - Chest"
+                "EDZ - Chest",
+                "Destination Chest"
             ],
             "region": "EDZ"
         },
         {
             "name": "The Gulch - Chest",
             "category": [
-                "EDZ - Chest"
+                "EDZ - Chest",
+                "Destination Chest"
             ],
             "region": "EDZ"
         },
         {
             "name": "Sunken Iles - Chest",
             "category": [
-                "EDZ - Chest"
+                "EDZ - Chest",
+                "Destination Chest"
             ],
             "region": "EDZ"
         },
         {
             "name": "The Divide - Chest",
             "category": [
-                "Cosmodrome - Chest"
+                "Cosmodrome - Chest",
+                "Destination Chest"
             ],
             "region": "Cosmodrome"
         },
         {
             "name": "The Steppes - Chest",
             "category": [
-                "Cosmodrome - Chest"
+                "Cosmodrome - Chest",
+                "Destination Chest"
             ],
             "region": "Cosmodrome"
         },
         {
             "name": "Mothyards - Chest",
             "category": [
-                "Cosmodrome - Chest"
+                "Cosmodrome - Chest",
+                "Destination Chest"
             ],
             "region": "Cosmodrome"
         },
         {
             "name": "Skywatch - Chest",
             "category": [
-                "Cosmodrome - Chest"
+                "Cosmodrome - Chest",
+                "Destination Chest"
             ],
             "region": "Cosmodrome"
         },
         {
             "name": "Forgotten Shore - Chest",
             "category": [
-                "Cosmodrome - Chest"
+                "Cosmodrome - Chest",
+                "Destination Chest"
             ],
             "region": "Cosmodrome"
         },
         {
             "name": "Archer's Line - Chest",
             "category": [
-                "Moon - Chest"
+                "Moon - Chest",
+                "Destination Chest"
             ],
             "region": "Moon"
         },
         {
             "name": "Anchor of Light - Chest",
             "category": [
-                "Moon - Chest"
+                "Moon - Chest",
+                "Destination Chest"
             ],
             "region": "Moon"
         },
         {
             "name": "Hellmouth - Chest",
             "category": [
-                "Moon - Chest"
+                "Moon - Chest",
+                "Destination Chest"
             ],
             "region": "Moon"
         },
         {
             "name": "Sorrow's Harbor - Chest",
             "category": [
-                "Moon - Chest"
+                "Moon - Chest",
+                "Destination Chest"
             ],
             "region": "Moon"
         },
         {
             "name": "Cadmus Ridge - Chest",
             "category": [
-                "Europa - Chest"
+                "Europa - Chest",
+                "Destination Chest"
             ],
             "region": "Europa"
         },
         {
             "name": "Eventide Ruins - Chest",
             "category": [
-                "Europa - Chest"
+                "Europa - Chest",
+                "Destination Chest"
             ],
             "region": "Europa"
         },
         {
             "name": "Asterion Abyss - Chest",
             "category": [
-                "Europa - Chest"
+                "Europa - Chest",
+                "Destination Chest"
             ],
             "region": "Europa"
         },
         {
             "name": "Zephyr Concourse - Chest",
             "category": [
-                "Neomuna - Chest"
+                "Neomuna - Chest",
+                "Destination Chest"
             ],
             "region": "Neomuna"
         },
         {
             "name": "Liming Harbor - Chest",
             "category": [
-                "Neomuna - Chest"
+                "Neomuna - Chest",
+                "Destination Chest"
             ],
             "region": "Neomuna"
         },
         {
             "name": "Ahimsa Park - Chest",
             "category": [
-                "Neomuna - Chest"
+                "Neomuna - Chest",
+                "Destination Chest"
             ],
             "region": "Neomuna"
         },
         {
             "name": "Exodus Black - Chest",
             "category": [
-                "Nessus - Chest"
+                "Nessus - Chest",
+                "Destination Chest"
             ],
             "region": "Nessus"
         },
         {
             "name": "Glade of Echoes - Chest",
             "category": [
-                "Nessus - Chest"
+                "Nessus - Chest",
+                "Destination Chest"
             ],
             "region": "Nessus"
         },
         {
             "name": "Hallows - Chest",
             "category": [
-                "Nessus - Chest"
+                "Nessus - Chest",
+                "Destination Chest"
             ],
             "region": "Nessus"
         },
         {
             "name": "Artifact's Edge - Chest",
             "category": [
-                "Nessus - Chest"
+                "Nessus - Chest",
+                "Destination Chest"
             ],
             "region": "Nessus"
         },
         {
             "name": "Watcher's Grave - Chest",
             "category": [
-                "Nessus - Chest"
+                "Nessus - Chest",
+                "Destination Chest"
             ],
             "region": "Nessus"
         },
         {
             "name": "The Tangle - Chest",
             "category": [
-                "Nessus - Chest"
+                "Nessus - Chest",
+                "Destination Chest"
             ],
             "region": "Nessus"
         },
         {
             "name": "The Cistern - Chest",
             "category": [
-                "Nessus - Chest"
+                "Nessus - Chest",
+                "Destination Chest"
             ],
             "region": "Nessus"
         },
         {
             "name": "Divalian Mists - Chest",
             "category": [
-                "Dreaming City - Chest"
+                "Dreaming City - Chest",
+                "Destination Chest"
             ],
             "region": "Dreaming City"
         },
         {
             "name": "The Strand - Chest",
             "category": [
-                "Dreaming City - Chest"
+                "Dreaming City - Chest",
+                "Destination Chest"
             ],
             "region": "Dreaming City"
         },
         {
             "name": "Rheasilvia - Chest",
             "category": [
-                "Dreaming City - Chest"
+                "Dreaming City - Chest",
+                "Destination Chest"
             ],
             "region": "Dreaming City"
         },
         {
             "name": "Quagmire - Chest",
             "category": [
-                "Throne World - Chest"
+                "Throne World - Chest",
+                "Destination Chest"
             ],
             "region": "Throne World"
         },
         {
             "name": "Florescent Canal - Chest",
             "category": [
-                "Throne World - Chest"
+                "Throne World - Chest",
+                "Destination Chest"
             ],
             "region": "Throne World"
         },
         {
             "name": "Miasma - Chest",
             "category": [
-                "Throne World - Chest"
+                "Throne World - Chest",
+                "Destination Chest"
             ],
             "region": "Throne World"
         },
