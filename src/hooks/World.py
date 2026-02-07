@@ -49,10 +49,10 @@ def add_location(world: World,region: Region, location: dict, category: str | No
     world.location_id_to_name[new_id] = location["name"]
     world.location_name_to_location[location["name"]] = location
     if category is not None:
-        world.location_name_groups[category].add(location)
+        world.location_name_groups[category] = world.location_name_groups[category].union({location["name"]})
 
 def find_cat_for_loc(world: World, location_name: str, exclude_cat: str) -> str | None:
-    for v,k in world.location_name_groups.items():
+    for k,v in world.location_name_groups.items():
         if k == exclude_cat:
             continue
         if location_name in v:
