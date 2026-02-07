@@ -36,10 +36,6 @@
         "requires": "|Neomuna Key|",
         "starting": true
     },
-    "Kepler": {
-        "requires": "|Kepler Key|",
-        "starting": true
-    },
     "Dungeon": {
         "connects_to": [
             "Shattered Throne",

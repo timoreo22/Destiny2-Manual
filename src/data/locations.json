@@ -816,6 +816,7 @@
         {
             "name": "Urn 05",
             "category": [
+                "Excluded",
                 "Prophecy - Collectibles"
             ],
             "region": "Prophecy - Encounter 1"
@@ -823,6 +824,7 @@
         {
             "name": "Urn 06",
             "category": [
+                "Excluded",
                 "Prophecy - Collectibles"
             ],
             "region": "Prophecy - Encounter 1"
@@ -830,6 +832,7 @@
         {
             "name": "Urn 07",
             "category": [
+                "Excluded",
                 "Prophecy - Collectibles"
             ],
             "region": "Prophecy - Encounter 1"
@@ -837,6 +840,7 @@
         {
             "name": "Urn 08",
             "category": [
+                "Excluded",
                 "Prophecy - Collectibles"
             ],
             "region": "Prophecy - Encounter 2"
@@ -844,6 +848,7 @@
         {
             "name": "Urn 09",
             "category": [
+                "Excluded",
                 "Prophecy - Collectibles"
             ],
             "region": "Prophecy - Encounter 2"
@@ -851,6 +856,7 @@
         {
             "name": "Urn 10",
             "category": [
+                "Excluded",
                 "Prophecy - Collectibles"
             ],
             "region": "Prophecy - Encounter 2"
@@ -858,6 +864,7 @@
         {
             "name": "Urn 11",
             "category": [
+                "Excluded",
                 "Prophecy - Collectibles"
             ],
             "region": "Prophecy - Encounter 2"
@@ -865,6 +872,7 @@
         {
             "name": "Urn 12",
             "category": [
+                "Excluded",
                 "Prophecy - Collectibles"
             ],
             "region": "Prophecy - Encounter 2"
@@ -914,6 +922,7 @@
         {
             "name": "Message 07",
             "category": [
+                "Excluded",
                 "Grasp of Avarice - Collectibles"
             ],
             "region": "Grasp of Avarice - Encounter 1"
@@ -921,6 +930,7 @@
         {
             "name": "Message 08",
             "category": [
+                "Excluded",
                 "Grasp of Avarice - Collectibles"
             ],
             "region": "Grasp of Avarice - Encounter 1"
@@ -928,6 +938,7 @@
         {
             "name": "Message 09",
             "category": [
+                "Excluded",
                 "Grasp of Avarice - Collectibles"
             ],
             "region": "Grasp of Avarice - Encounter 1"
@@ -936,6 +947,7 @@
             "_comment": "Can be grabbed slightly out of logic",
             "name": "Message 10",
             "category": [
+                "Excluded",
                 "Grasp of Avarice - Collectibles"
             ],
             "region": "Grasp of Avarice - Encounter 2"
@@ -944,6 +956,7 @@
             "_comment": "Can be grabbed slightly out of logic",
             "name": "Message 11",
             "category": [
+                "Excluded",
                 "Grasp of Avarice - Collectibles"
             ],
             "region": "Grasp of Avarice - Encounter 2"
@@ -951,6 +964,7 @@
         {
             "name": "Message 12",
             "category": [
+                "Excluded",
                 "Grasp of Avarice - Collectibles"
             ],
             "region": "Grasp of Avarice - Encounter 3"
@@ -986,6 +1000,7 @@
         {
             "name": "Memory 05",
             "category": [
+                "Excluded",
                 "Duality - Collectibles"
             ],
             "region": "Duality - Encounter 1"
@@ -993,6 +1008,7 @@
         {
             "name": "Memory 06",
             "category": [
+                "Excluded",
                 "Duality - Collectibles"
             ],
             "region": "Duality - Encounter 1"
@@ -1000,6 +1016,7 @@
         {
             "name": "Memory 07",
             "category": [
+                "Excluded",
                 "Duality - Collectibles"
             ],
             "region": "Duality - Encounter 1"
@@ -1007,6 +1024,7 @@
         {
             "name": "Memory 08",
             "category": [
+                "Excluded",
                 "Duality - Collectibles"
             ],
             "region": "Duality - Encounter 1"
@@ -1014,6 +1032,7 @@
         {
             "name": "Memory 09",
             "category": [
+                "Excluded",
                 "Duality - Collectibles"
             ],
             "region": "Duality - Encounter 2"
@@ -1021,6 +1040,7 @@
         {
             "name": "Memory 10",
             "category": [
+                "Excluded",
                 "Duality - Collectibles"
             ],
             "region": "Duality - Encounter 2"
@@ -1028,6 +1048,7 @@
         {
             "name": "Memory 11",
             "category": [
+                "Excluded",
                 "Duality - Collectibles"
             ],
             "region": "Duality - Encounter 2"
@@ -1035,6 +1056,7 @@
         {
             "name": "Memory 12",
             "category": [
+                "Excluded",
                 "Duality - Collectibles"
             ],
             "region": "Duality - Encounter 2"
@@ -1077,6 +1099,7 @@
         {
             "name": "Recording 6",
             "category": [
+                "Excluded",
                 "Spire of the Watcher - Collectibles"
             ],
             "region": "Spire of the Watcher - Encounter 1"
@@ -1091,6 +1114,7 @@
         {
             "name": "GotD Memory 02",
             "category": [
+                "Excluded",
                 "Ghosts of the Deep - Collectibles"
             ],
             "region": "Ghosts of the Deep - Encounter 1"
@@ -1098,6 +1122,7 @@
         {
             "name": "GotD Memory 03",
             "category": [
+                "Excluded",
                 "Ghosts of the Deep - Collectibles"
             ],
             "region": "Ghosts of the Deep - Encounter 1"
@@ -1105,6 +1130,7 @@
         {
             "name": "GotD Memory 04",
             "category": [
+                "Excluded",
                 "Ghosts of the Deep - Collectibles"
             ],
             "region": "Ghosts of the Deep - Encounter 1"
@@ -1112,6 +1138,7 @@
         {
             "name": "GotD Memory 05",
             "category": [
+                "Excluded",
                 "Ghosts of the Deep - Collectibles"
             ],
             "region": "Ghosts of the Deep - Encounter 1"
@@ -1119,6 +1146,7 @@
         {
             "name": "GotD Memory 06",
             "category": [
+                "Excluded",
                 "Ghosts of the Deep - Collectibles"
             ],
             "region": "Ghosts of the Deep - Encounter 1"
@@ -1126,6 +1154,7 @@
         {
             "name": "GotD Memory 07",
             "category": [
+                "Excluded",
                 "Ghosts of the Deep - Collectibles"
             ],
             "region": "Ghosts of the Deep - Encounter 1"
@@ -1133,6 +1162,7 @@
         {
             "name": "GotD Memory 08",
             "category": [
+                "Excluded",
                 "Ghosts of the Deep - Collectibles"
             ],
             "region": "Ghosts of the Deep - Encounter 1"
@@ -1140,6 +1170,7 @@
         {
             "name": "GotD Memory 09",
             "category": [
+                "Excluded",
                 "Ghosts of the Deep - Collectibles"
             ],
             "region": "Ghosts of the Deep - Encounter 1"
@@ -1147,6 +1178,7 @@
         {
             "name": "GotD Memory 10",
             "category": [
+                "Excluded",
                 "Ghosts of the Deep - Collectibles"
             ],
             "region": "Ghosts of the Deep - Encounter 1"
@@ -1154,6 +1186,7 @@
         {
             "name": "GotD Memory 11",
             "category": [
+                "Excluded",
                 "Ghosts of the Deep - Collectibles"
             ],
             "region": "Ghosts of the Deep - Encounter 2"
@@ -1161,6 +1194,7 @@
         {
             "name": "GotD Memory 12",
             "category": [
+                "Excluded",
                 "Ghosts of the Deep - Collectibles"
             ],
             "region": "Ghosts of the Deep - Encounter 3"
@@ -1176,6 +1210,7 @@
         {
             "name": "Bones 02",
             "category": [
+                "Excluded",
                 "Warlord's Ruin - Collectibles"
             ],
             "region": "Warlord's Ruin - Encounter 1"
@@ -1183,6 +1218,7 @@
         {
             "name": "Bones 03",
             "category": [
+                "Excluded",
                 "Warlord's Ruin - Collectibles"
             ],
             "region": "Warlord's Ruin - Encounter 1"
@@ -1190,6 +1226,7 @@
         {
             "name": "Bones 04",
             "category": [
+                "Excluded",
                 "Warlord's Ruin - Collectibles"
             ],
             "region": "Warlord's Ruin - Encounter 1"
@@ -1197,6 +1234,7 @@
         {
             "name": "Bones 05",
             "category": [
+                "Excluded",
                 "Warlord's Ruin - Collectibles"
             ],
             "region": "Warlord's Ruin - Encounter 1"
@@ -1204,6 +1242,7 @@
         {
             "name": "Bones 06",
             "category": [
+                "Excluded",
                 "Warlord's Ruin - Collectibles"
             ],
             "region": "Warlord's Ruin - Encounter 2"
@@ -1211,6 +1250,7 @@
         {
             "name": "Bones 07",
             "category": [
+                "Excluded",
                 "Warlord's Ruin - Collectibles"
             ],
             "region": "Warlord's Ruin - Encounter 2"
@@ -1218,6 +1258,7 @@
         {
             "name": "Bones 08",
             "category": [
+                "Excluded",
                 "Warlord's Ruin - Collectibles"
             ],
             "region": "Warlord's Ruin - Encounter 2"
@@ -1225,6 +1266,7 @@
         {
             "name": "Bones 09",
             "category": [
+                "Excluded",
                 "Warlord's Ruin - Collectibles"
             ],
             "region": "Warlord's Ruin - Encounter 2"
@@ -1232,6 +1274,7 @@
         {
             "name": "Bones 10",
             "category": [
+                "Excluded",
                 "Warlord's Ruin - Collectibles"
             ],
             "region": "Warlord's Ruin - Encounter 3"
@@ -1240,6 +1283,7 @@
             "_comment": "shifted around due to #4 being out of order",
             "name": "Collectible 1",
             "category": [
+                "Excluded",
                 "Vesper's Host - Collectibles"
             ],
             "region": "Vesper's Host - Encounter 1"
@@ -1247,6 +1291,7 @@
         {
             "name": "Collectible 2",
             "category": [
+                "Excluded",
                 "Vesper's Host - Collectibles"
             ],
             "region": "Vesper's Host - Encounter 1"
@@ -1254,6 +1299,7 @@
         {
             "name": "Collectible 3",
             "category": [
+                "Excluded",
                 "Vesper's Host - Collectibles"
             ],
             "region": "Vesper's Host - Encounter 1"
@@ -1261,6 +1307,7 @@
         {
             "name": "Collectible 4",
             "category": [
+                "Excluded",
                 "Vesper's Host - Collectibles"
             ],
             "region": "Vesper's Host - Encounter 2"
@@ -1268,6 +1315,7 @@
         {
             "name": "Collectible 5",
             "category": [
+                "Excluded",
                 "Vesper's Host - Collectibles"
             ],
             "region": "Vesper's Host - Encounter 2"
@@ -1275,6 +1323,7 @@
         {
             "name": "Collectible 6",
             "category": [
+                "Excluded",
                 "Vesper's Host - Collectibles"
             ],
             "region": "Vesper's Host - Encounter 2"
@@ -1304,6 +1353,7 @@
         {
             "name": "Worm 4",
             "category": [
+                "Excluded",
                 "Sundered Doctrine - Collectibles"
             ],
             "region": "Sundered Doctrine - Encounter 1"
@@ -1311,6 +1361,7 @@
         {
             "name": "Worm 5",
             "category": [
+                "Excluded",
                 "Sundered Doctrine - Collectibles"
             ],
             "region": "Sundered Doctrine - Encounter 1"
@@ -1318,6 +1369,7 @@
         {
             "name": "Worm 6",
             "category": [
+                "Excluded",
                 "Sundered Doctrine - Collectibles"
             ],
             "region": "Sundered Doctrine - Encounter 1"
@@ -1325,6 +1377,7 @@
         {
             "name": "Worm 7",
             "category": [
+                "Excluded",
                 "Sundered Doctrine - Collectibles"
             ],
             "region": "Sundered Doctrine - Encounter 2"
@@ -1332,6 +1385,7 @@
         {
             "name": "Worm 8",
             "category": [
+                "Excluded",
                 "Sundered Doctrine - Collectibles"
             ],
             "region": "Sundered Doctrine - Encounter 2"
@@ -1339,6 +1393,7 @@
         {
             "name": "Worm 9",
             "category": [
+                "Excluded",
                 "Sundered Doctrine - Collectibles"
             ],
             "region": "Sundered Doctrine - Encounter 2"
@@ -1346,6 +1401,7 @@
         {
             "name": "Engram 1",
             "category": [
+                "Excluded",
                 "Equilibrium - Collectibles"
             ],
             "region": "Equilibrium - Encounter 1"
@@ -1353,6 +1409,7 @@
         {
             "name": "Engram 2",
             "category": [
+                "Excluded",
                 "Equilibrium - Collectibles"
             ],
             "region": "Equilibrium - Encounter 2"
@@ -1360,6 +1417,7 @@
         {
             "name": "Engram 3",
             "category": [
+                "Excluded",
                 "Equilibrium - Collectibles"
             ],
             "region": "Equilibrium - Encounter 2"
@@ -1375,6 +1433,7 @@
         {
             "name": "ST Chest 2",
             "category": [
+                "Excluded",
                 "Shattered Throne - Chest"
             ],
             "region": "Shattered Throne - Encounter 1",
@@ -1383,6 +1442,7 @@
         {
             "name": "ST Chest 3",
             "category": [
+                "Excluded",
                 "Shattered Throne - Chest"
             ],
             "region": "Shattered Throne - Encounter 1",
@@ -1391,6 +1451,7 @@
         {
             "name": "ST Chest 4",
             "category": [
+                "Excluded",
                 "Shattered Throne - Chest"
             ],
             "region": "Shattered Throne - Encounter 1",
@@ -1399,6 +1460,7 @@
         {
             "name": "ST Chest 5",
             "category": [
+                "Excluded",
                 "Shattered Throne - Chest"
             ],
             "region": "Shattered Throne - Encounter 2",
@@ -1407,6 +1469,7 @@
         {
             "name": "ST Chest 6",
             "category": [
+                "Excluded",
                 "Shattered Throne - Chest"
             ],
             "region": "Shattered Throne - Encounter 2",
@@ -1415,6 +1478,7 @@
         {
             "name": "PoH Chest 1",
             "category": [
+                "Excluded",
                 "Pit of Heresy - Chest"
             ],
             "region": "Pit of Heresy - Encounter 1"
@@ -1422,6 +1486,7 @@
         {
             "name": "PoH Chest 2",
             "category": [
+                "Excluded",
                 "Pit of Heresy - Chest"
             ],
             "region": "Pit of Heresy - Encounter 2"
@@ -1429,6 +1494,7 @@
         {
             "name": "Prophecy Chest 1",
             "category": [
+                "Excluded",
                 "Prophecy - Chest"
             ],
             "region": "Prophecy - Encounter 1",
@@ -1437,6 +1503,7 @@
         {
             "name": "Prophecy Chest 2",
             "category": [
+                "Excluded",
                 "Prophecy - Chest"
             ],
             "region": "Prophecy - Encounter 2",
@@ -1453,6 +1520,7 @@
         {
             "name": "GoA Chest 2",
             "category": [
+                "Excluded",
                 "Grasp of Avarice - Chest"
             ],
             "region": "Grasp of Avarice - Encounter 1",
@@ -1461,6 +1529,7 @@
         {
             "name": "Duality Chest 1",
             "category": [
+                "Excluded",
                 "Duality - Chest"
             ],
             "region": "Duality - Encounter 1",
@@ -1469,6 +1538,7 @@
         {
             "name": "Duality Chest 2",
             "category": [
+                "Excluded",
                 "Duality - Chest"
             ],
             "region": "Duality - Encounter 2",
@@ -1485,6 +1555,7 @@
         {
             "name": "SotW Chest 2",
             "category": [
+                "Excluded",
                 "Spire of the Watcher - Chest"
             ],
             "region": "Spire of the Watcher - Encounter 2",
@@ -1493,6 +1564,7 @@
         {
             "name": "GotD Chest 1",
             "category": [
+                "Excluded",
                 "Ghosts of the Deep - Chest"
             ],
             "region": "Ghosts of the Deep - Encounter 1",
@@ -1501,6 +1573,7 @@
         {
             "name": "GotD Chest 2",
             "category": [
+                "Excluded",
                 "Ghosts of the Deep - Chest"
             ],
             "region": "Ghosts of the Deep - Encounter 2",
@@ -1509,6 +1582,7 @@
         {
             "name": "WR Chest 1",
             "category": [
+                "Excluded",
                 "Warlord's Ruin - Chest"
             ],
             "region": "Warlord's Ruin - Encounter 2",
@@ -1517,6 +1591,7 @@
         {
             "name": "WR Chest 2",
             "category": [
+                "Excluded",
                 "Warlord's Ruin - Chest"
             ],
             "region": "Warlord's Ruin - Encounter 2",
@@ -1525,6 +1600,7 @@
         {
             "name": "VH Chest 1",
             "category": [
+                "Excluded",
                 "Vesper's Host - Chest"
             ],
             "region": "Vesper's Host - Encounter 1"
@@ -1532,6 +1608,7 @@
         {
             "name": "VH Chest 2",
             "category": [
+                "Excluded",
                 "Vesper's Host - Chest"
             ],
             "region": "Vesper's Host - Encounter 2"
@@ -1539,6 +1616,7 @@
         {
             "name": "SD Chest 1",
             "category": [
+                "Excluded",
                 "Sundered Doctrine - Chest"
             ],
             "region": "Sundered Doctrine - Encounter 1"
@@ -1546,6 +1624,7 @@
         {
             "name": "SD Chest 2",
             "category": [
+                "Excluded",
                 "Sundered Doctrine - Chest"
             ],
             "region": "Sundered Doctrine - Encounter 2"
@@ -1553,6 +1632,7 @@
         {
             "name": "Equilibrium Chest 1",
             "category": [
+                "Excluded",
                 "Equilibrium - Chest"
             ],
             "region": "Equilibrium - Encounter 1"
@@ -1560,6 +1640,7 @@
         {
             "name": "Equilibrium Chest 2",
             "category": [
+                "Excluded",
                 "Equilibrium - Chest"
             ],
             "region": "Equilibrium - Encounter 2"
@@ -1567,6 +1648,7 @@
         {
             "name": "Keepers defeated (Encounter 1)",
             "category": [
+                "Excluded",
                 "Shattered Throne - Encounters"
             ],
             "region": "Shattered Throne - Encounter 1"
@@ -1574,6 +1656,7 @@
         {
             "name": "Maze cleared (Encounter 2)",
             "category": [
+                "Excluded",
                 "Shattered Throne - Encounters"
             ],
             "region": "Shattered Throne - Encounter 2"
@@ -1581,6 +1664,7 @@
         {
             "name": "Dûl Incaru defeated (Encounter 3)",
             "category": [
+                "Excluded",
                 "Shattered Throne - Encounters"
             ],
             "region": "Shattered Throne - Encounter 3"
@@ -1588,6 +1672,7 @@
         {
             "name": "Necropolis cleared (Encounter 1)",
             "category": [
+                "Excluded",
                 "Pit of Heresy - Encounters"
             ],
             "region": "Pit of Heresy - Encounter 1"
@@ -1595,6 +1680,7 @@
         {
             "name": "Chamber of Suffering cleared (Encounter 2)",
             "category": [
+                "Excluded",
                 "Pit of Heresy - Encounters"
             ],
             "region": "Pit of Heresy - Encounter 2"
@@ -1602,6 +1688,7 @@
         {
             "name": "Cradle of Damnation (Encounter 3)",
             "category": [
+                "Excluded",
                 "Pit of Heresy - Encounters"
             ],
             "region": "Pit of Heresy - Encounter 3"
@@ -1609,6 +1696,7 @@
         {
             "name": "Heaven/Hell cleared (Encounter 1)",
             "category": [
+                "Excluded",
                 "Prophecy - Encounters"
             ],
             "region": "Prophecy - Encounter 1"
@@ -1616,6 +1704,7 @@
         {
             "name": "Hexahedron cleared (Encounter 2)",
             "category": [
+                "Excluded",
                 "Prophecy - Encounters"
             ],
             "region": "Prophecy - Encounter 2"
@@ -1623,6 +1712,7 @@
         {
             "name": "Singularity cleared (Encounter 3)",
             "category": [
+                "Excluded",
                 "Prophecy - Encounters"
             ],
             "region": "Prophecy - Encounter 3"
@@ -1630,6 +1720,7 @@
         {
             "name": "Rusted Gangplank cleared (Encounter 1)",
             "category": [
+                "Excluded",
                 "Grasp of Avarice - Encounters"
             ],
             "region": "Grasp of Avarice - Encounter 1"
@@ -1637,6 +1728,7 @@
         {
             "name": "Caves cleared (Encounter 2)",
             "category": [
+                "Excluded",
                 "Grasp of Avarice - Encounters"
             ],
             "region": "Grasp of Avarice - Encounter 2"
@@ -1644,6 +1736,7 @@
         {
             "name": "Capitain defeated (Encounter 3)",
             "category": [
+                "Excluded",
                 "Grasp of Avarice - Encounters"
             ],
             "region": "Grasp of Avarice - Encounter 3"
@@ -1651,6 +1744,7 @@
         {
             "name": "Sorrow Bearer defeated (Encounter 1)",
             "category": [
+                "Excluded",
                 "Duality - Encounters"
             ],
             "region": "Duality - Encounter 1"
@@ -1658,6 +1752,7 @@
         {
             "name": "Vault cleared (Encounter 2)",
             "category": [
+                "Excluded",
                 "Duality - Encounters"
             ],
             "region": "Duality - Encounter 2"
@@ -1665,6 +1760,7 @@
         {
             "name": "Caiatl defeated (Encounter 3)",
             "category": [
+                "Excluded",
                 "Duality - Encounters"
             ],
             "region": "Duality - Encounter 3"
@@ -1672,6 +1768,7 @@
         {
             "name": "Spire Ascent cleared (Encounter 1)",
             "category": [
+                "Excluded",
                 "Spire of the Watcher - Encounters"
             ],
             "region": "Spire of the Watcher - Encounter 1"
@@ -1679,6 +1776,7 @@
         {
             "name": "Akelous defeated (Encounter 2)",
             "category": [
+                "Excluded",
                 "Spire of the Watcher - Encounters"
             ],
             "region": "Spire of the Watcher - Encounter 2"
@@ -1686,6 +1784,7 @@
         {
             "name": "Persys defeated (Encounter 3)",
             "category": [
+                "Excluded",
                 "Spire of the Watcher - Encounters"
             ],
             "region": "Spire of the Watcher - Encounter 3"
@@ -1693,6 +1792,7 @@
         {
             "name": "Hive ritual cleared (Encounter 1)",
             "category": [
+                "Excluded",
                 "Ghosts of the Deep - Encounters"
             ],
             "region": "Ghosts of the Deep - Encounter 1"
@@ -1700,6 +1800,7 @@
         {
             "name": "Ecthar defeated (Encounter 2)",
             "category": [
+                "Excluded",
                 "Ghosts of the Deep - Encounters"
             ],
             "region": "Ghosts of the Deep - Encounter 2"
@@ -1707,6 +1808,7 @@
         {
             "name": "Šimmumah ur-Nokru defeated (Encounter 3)",
             "category": [
+                "Excluded",
                 "Ghosts of the Deep - Encounters"
             ],
             "region": "Ghosts of the Deep - Encounter 3"
@@ -1714,6 +1816,7 @@
         {
             "name": "Rathil defeated (Encounter 1)",
             "category": [
+                "Excluded",
                 "Warlord's Ruin - Encounters"
             ],
             "region": "Warlord's Ruin - Encounter 1"
@@ -1721,6 +1824,7 @@
         {
             "name": "Tempest cleared (Encounter 2)",
             "category": [
+                "Excluded",
                 "Warlord's Ruin - Encounters"
             ],
             "region": "Warlord's Ruin - Encounter 2"
@@ -1728,6 +1832,7 @@
         {
             "name": "Hefnd's vengeance defeated (Encounter 3)",
             "category": [
+                "Excluded",
                 "Warlord's Ruin - Encounters"
             ],
             "region": "Warlord's Ruin - Encounter 3"
@@ -1735,6 +1840,7 @@
         {
             "name": "Vesper station cleared (Encounter 1)",
             "category": [
+                "Excluded",
                 "Vesper's Host - Encounters"
             ],
             "region": "Vesper's Host - Encounter 1"
@@ -1742,6 +1848,7 @@
         {
             "name": "Raneiks Unifed defeated (Encounter 2)",
             "category": [
+                "Excluded",
                 "Vesper's Host - Encounters"
             ],
             "region": "Vesper's Host - Encounter 2"
@@ -1749,6 +1856,7 @@
         {
             "name": "Corrupted Puppeteer defeated (Encounter 3)",
             "category": [
+                "Excluded",
                 "Vesper's Host - Encounters"
             ],
             "region": "Vesper's Host - Encounter 3"
@@ -1756,6 +1864,7 @@
         {
             "name": "Riddle cleared (Encounter 1)",
             "category": [
+                "Excluded",
                 "Sundered Doctrine - Encounters"
             ],
             "region": "Sundered Doctrine - Encounter 1"
@@ -1763,6 +1872,7 @@
         {
             "name": "Zoetic Lockset defeated (Encounter 2)",
             "category": [
+                "Excluded",
                 "Sundered Doctrine - Encounters"
             ],
             "region": "Sundered Doctrine - Encounter 2"
@@ -1770,6 +1880,7 @@
         {
             "name": "Kerrev defeated (Encounter 3)",
             "category": [
+                "Excluded",
                 "Sundered Doctrine - Encounters"
             ],
             "region": "Sundered Doctrine - Encounter 3"
@@ -1777,6 +1888,7 @@
         {
             "name": "Harvester cleared (Encounter 1)",
             "category": [
+                "Excluded",
                 "Equilibrium - Encounters"
             ],
             "region": "Equilibrium - Encounter 1"
@@ -1784,6 +1896,7 @@
         {
             "name": "Harrow defeated (Encounter 2)",
             "category": [
+                "Excluded",
                 "Equilibrium - Encounters"
             ],
             "region": "Equilibrium - Encounter 2"
@@ -1791,6 +1904,7 @@
         {
             "name": "Sere defeated (Encounter 3)",
             "category": [
+                "Excluded",
                 "Equilibrium - Encounters"
             ],
             "region": "Equilibrium - Encounter 3"

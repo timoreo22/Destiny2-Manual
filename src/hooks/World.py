@@ -1,10 +1,10 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
 from worlds.AutoWorld import World
-from BaseClasses import MultiWorld, CollectionState, Item
+from worlds.generic.Rules import exclusion_rules
+from BaseClasses import MultiWorld, CollectionState, Item, Location, Region
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
-from ..Locations import ManualLocation
 
 # Raw JSON data from the Manual apworld, respectively:
 #          data/game.json, data/items.json, data/locations.json, data/regions.json
@@ -44,9 +44,7 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to remove locations from the world
     locationNamesToRemove: list[str] = [] # List of location names
-
-    # Add your code here to calculate which locations to remove
-
+    exclusion_rules(multiworld, player, world.location_name_groups.get("Excluded"))
     for region in multiworld.regions:
         if region.player == player:
             for location in list(region.locations):

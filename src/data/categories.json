@@ -60,6 +60,9 @@
     "Hunter": {
         "hidden": true
     },
+    "Excluded": {
+        "hidden": true
+    },
     "Class Unlock": {
         "yaml_option": [
             "require_class_unlock"
