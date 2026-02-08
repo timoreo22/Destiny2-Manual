@@ -5,6 +5,7 @@
         "starting": true
     },
     "Dreaming City": {
+        "connects_to": ["Last Wish"],
         "requires": "|Dreaming City Key|",
         "starting": true
     },
@@ -13,6 +14,7 @@
         "starting": true
     },
     "Moon": {
+        "connects_to": ["Garden of Salvation"],
         "requires": "|Moon Key|",
         "starting": true
     },
@@ -21,20 +23,75 @@
         "starting": true
     },
     "Europa": {
+        "connects_to": ["Deep Stone Crypt"],
         "requires": "|Europa Key|",
         "starting": true
     },
     "Throne World": {
+        "connects_to": ["Witch Queen", "Vow of the Disciple"],
         "requires": "|Throne World Key|",
         "starting": true
     },
     "Pale Heart": {
+        "connects_to": ["Final Shape", "Salvation's Edge"],
         "requires": "|Pale Heart Key|",
         "starting": true
     },
     "Neomuna": {
+        "connects_to": ["Lightfall", "Root of Nightmares"],
         "requires": "|Neomuna Key|",
         "starting": true
+    },
+    "Witch Queen": {
+        "requires": "|Witch Queen Key|"
+    },
+    "Lightfall": {
+        "requires": "|Lightfall Key|"
+    },
+    "Final Shape": {
+        "requires": "|Final Shape Key|"
+    },
+    "Edge of Fate": {
+        "requires": "|Edge of Fate Key|",
+        "starting": true
+    },
+    "Renegades": {
+        "requires": "|Renegades Key|",
+        "starting": true
+    },
+    "Desert Perpetual": {
+        "requires": "|Desert Perpetual Key|",
+        "starting": true
+    },
+    "Salvation's Edge": {
+        "requires": "|Salvation's Edge Key|"
+    },
+    "Crota's End": {
+        "requires": "|Crota's End Key|",
+        "starting": true
+    },
+    "Root of Nightmares": {
+        "requires": "|Root of Nightmares Key|"
+    },
+    "King's Fall": {
+        "requires": "|King's Fall Key|",
+        "starting": true
+    },
+    "Vow of the Disciple": {
+        "requires": "|Vow of the Disciple Key|"
+    },
+    "Vault of Glass": {
+        "requires": "|Vault of Glass Key|",
+        "starting": true
+    },
+    "Deep Stone Crypt": {
+        "requires": "|Deep Stone Crypt Key|"
+    },
+    "Garden of Salvation": {
+        "requires": "|Garden of Salvation Key|"
+    },
+    "Last Wish": {
+        "requires": "|Last Wish Key|"
     },
     "Dungeon": {
         "connects_to": [

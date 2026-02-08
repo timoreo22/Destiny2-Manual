@@ -821,6 +821,293 @@
             "region": "Throne World"
         },
         {
+            "name": "The Arrival",
+            "category": [
+                "Witch Queen - Campaign"
+            ],
+            "region": "Witch Queen"
+        },
+        {
+            "name": "The Investigation",
+            "category": [
+                "Witch Queen - Campaign"
+            ],
+            "region": "Witch Queen"
+        },
+        {
+            "name": "The Ghosts",
+            "category": [
+                "Witch Queen - Campaign"
+            ],
+            "region": "Witch Queen"
+        },
+        {
+            "name": "The Communion",
+            "category": [
+                "Witch Queen - Campaign"
+            ],
+            "region": "Witch Queen"
+        },
+        {
+            "name": "The Mirror",
+            "category": [
+                "Witch Queen - Campaign"
+            ],
+            "region": "Witch Queen"
+        },
+        {
+            "name": "The Cunning",
+            "category": [
+                "Witch Queen - Campaign"
+            ],
+            "region": "Witch Queen"
+        },
+        {
+            "name": "The Last Chance",
+            "category": [
+                "Witch Queen - Campaign"
+            ],
+            "region": "Witch Queen"
+        },
+        {
+            "name": "The Ritual",
+            "category": [
+                "Witch Queen - Campaign"
+            ],
+            "region": "Witch Queen"
+        },
+        {
+            "name": "First Contact",
+            "category": [
+                "Lightfall - Campaign"
+            ],
+            "region": "Lightfall"
+        },
+        {
+            "name": "Under Siege",
+            "category": [
+                "Lightfall - Campaign"
+            ],
+            "region": "Lightfall"
+        },
+        {
+            "name": "Downfall",
+            "category": [
+                "Lightfall - Campaign"
+            ],
+            "region": "Lightfall"
+        },
+        {
+            "name": "Downfall",
+            "category": [
+                "Lightfall - Campaign"
+            ],
+            "region": "Lightfall"
+        },
+        {
+            "name": "Breakneck",
+            "category": [
+                "Lightfall - Campaign"
+            ],
+            "region": "Lightfall"
+        },
+        {
+            "name": "On The Verge",
+            "category": [
+                "Lightfall - Campaign"
+            ],
+            "region": "Lightfall"
+        },
+        {
+            "name": "No Time Left",
+            "category": [
+                "Lightfall - Campaign"
+            ],
+            "region": "Lightfall"
+        },
+        {
+            "name": "Headlong",
+            "category": [
+                "Lightfall - Campaign"
+            ],
+            "region": "Lightfall"
+        },
+        {
+            "name": "Desperate Measures",
+            "category": [
+                "Lightfall - Campaign"
+            ],
+            "region": "Lightfall"
+        },
+        {
+            "name": "Transmigration",
+            "category": [
+                "Final Shape - Campaign"
+            ],
+            "region": "Final Shape"
+        },
+        {
+            "name": "Temptation",
+            "category": [
+                "Final Shape - Campaign"
+            ],
+            "region": "Final Shape"
+        },
+        {
+            "name": "Exegesis",
+            "category": [
+                "Final Shape - Campaign"
+            ],
+            "region": "Final Shape"
+        },
+        {
+            "name": "Requiem",
+            "category": [
+                "Final Shape - Campaign"
+            ],
+            "region": "Final Shape"
+        },
+        {
+            "name": "Ascent",
+            "category": [
+                "Final Shape - Campaign"
+            ],
+            "region": "Final Shape"
+        },
+        {
+            "name": "Dissent",
+            "category": [
+                "Final Shape - Campaign"
+            ],
+            "region": "Final Shape"
+        },
+        {
+            "name": "Iconoclasm",
+            "category": [
+                "Final Shape - Campaign"
+            ],
+            "region": "Final Shape"
+        },
+        {
+            "name": "The Invitation",
+            "category": [
+                "Edge of Fate - Campaign"
+            ],
+            "region": "Edge of Fate"
+        },
+        {
+            "name": "Transient",
+            "category": [
+                "Edge of Fate - Campaign"
+            ],
+            "region": "Edge of Fate"
+        },
+        {
+            "name": "Saturnism",
+            "category": [
+                "Edge of Fate - Campaign"
+            ],
+            "region": "Edge of Fate"
+        },
+        {
+            "name": "Gouge",
+            "category": [
+                "Edge of Fate - Campaign"
+            ],
+            "region": "Edge of Fate"
+        },
+        {
+            "name": "Fallow",
+            "category": [
+                "Edge of Fate - Campaign"
+            ],
+            "region": "Edge of Fate"
+        },
+        {
+            "name": "Nostos",
+            "category": [
+                "Edge of Fate - Campaign"
+            ],
+            "region": "Edge of Fate"
+        },
+        {
+            "name": "Commencement",
+            "category": [
+                "Edge of Fate - Campaign"
+            ],
+            "region": "Edge of Fate"
+        },
+        {
+            "name": "Morphology",
+            "category": [
+                "Edge of Fate - Campaign"
+            ],
+            "region": "Edge of Fate"
+        },
+        {
+            "name": "Charge",
+            "category": [
+                "Edge of Fate - Campaign"
+            ],
+            "region": "Edge of Fate"
+        },
+        {
+            "name": "Disruption",
+            "category": [
+                "Edge of Fate - Campaign"
+            ],
+            "region": "Edge of Fate"
+        },
+        {
+            "name": "Criticality",
+            "category": [
+                "Edge of Fate - Campaign"
+            ],
+            "region": "Edge of Fate"
+        },
+        {
+            "name": "The Message",
+            "category": [
+                "Edge of Fate - Campaign"
+            ],
+            "region": "Edge of Fate"
+        },
+        {
+            "name": "Imperium",
+            "category": [
+                "Renegades - Campaign"
+            ],
+            "region": "Renegades"
+        },
+        {
+            "name": "Welcome to the Frontier",
+            "category": [
+                "Renegades - Campaign"
+            ],
+            "region": "Renegades"
+        },
+        {
+            "name": "Fearsome Retainer",
+            "category": [
+                "Renegades - Campaign"
+            ],
+            "region": "Renegades"
+        },
+        {
+            "name": "Out in the Cold",
+            "category": [
+                "Renegades - Campaign"
+            ],
+            "region": "Renegades"
+        },
+        {
+            "name": "Glory Beyond",
+            "category": [
+                "Renegades - Campaign"
+            ],
+            "region": "Renegades"
+        },
+        {
             "name": "Urn 01",
             "category": [
                 "Prophecy - Collectibles"
@@ -1943,6 +2230,1234 @@
                 "Equilibrium - Encounters"
             ],
             "region": "Equilibrium - Encounter 3"
+        },
+        {
+            "name": "Agraios defeated",
+            "category": [
+                "Desert Perpetual - Encounters"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Epoptes defeated",
+            "category": [
+                "Desert Perpetual - Encounters"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Iatros defeated",
+            "category": [
+                "Desert Perpetual - Encounters"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Koregos defeated",
+            "category": [
+                "Desert Perpetual - Encounters"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Beacon 1 found",
+            "category": [
+                "Desert Perpetual - Collectibles"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Beacon 2 found",
+            "category": [
+                "Desert Perpetual - Collectibles"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Beacon 3 found",
+            "category": [
+                "Desert Perpetual - Collectibles"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Beacon 4 found",
+            "category": [
+                "Desert Perpetual - Collectibles"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Beacon 5 found",
+            "category": [
+                "Desert Perpetual - Collectibles"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Beacon 6 found",
+            "category": [
+                "Desert Perpetual - Collectibles"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Beacon 7 found",
+            "category": [
+                "Desert Perpetual - Collectibles"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Beacon 8 found",
+            "category": [
+                "Desert Perpetual - Collectibles"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Beacon 9 found",
+            "category": [
+                "Desert Perpetual - Collectibles"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Beacon 10 found",
+            "category": [
+                "Desert Perpetual - Collectibles"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Beacon 11 found",
+            "category": [
+                "Desert Perpetual - Collectibles"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Beacon 12 found",
+            "category": [
+                "Desert Perpetual - Collectibles"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Desert Perpetual chest 1",
+            "category": [
+                "Desert Perpetual - Chest"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Desert Perpetual chest 2",
+            "category": [
+                "Desert Perpetual - Chest"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Desert Perpetual chest 3",
+            "category": [
+                "Desert Perpetual - Chest"
+            ],
+            "region": "Desert Perpetual"
+        },
+        {
+            "name": "Substratum encounter completed",
+            "category": [
+                "Salvation's Edge - Encounters"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Dissipation encounter completed",
+            "category": [
+                "Salvation's Edge - Encounters"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Repository encounter completed",
+            "category": [
+                "Salvation's Edge - Encounters"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Witness encounter completed",
+            "category": [
+                "Salvation's Edge - Encounters"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Scenic Route challenge completed",
+            "category": [
+                "Salvation's Edge - Challenges"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "At Capacity challenge completed",
+            "category": [
+                "Salvation's Edge - Challenges"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Balanced Diet challenge completed",
+            "category": [
+                "Salvation's Edge - Challenges"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Varied Geometry challenge completed",
+            "category": [
+                "Salvation's Edge - Challenges"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Coordinated Efforts challenge completed",
+            "category": [
+                "Salvation's Edge - Challenges"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Apple 1 found",
+            "category": [
+                "Salvation's Edge - Collectibles"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Apple 2 found",
+            "category": [
+                "Salvation's Edge - Collectibles"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Apple 3 found",
+            "category": [
+                "Salvation's Edge - Collectibles"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Apple 4 found",
+            "category": [
+                "Salvation's Edge - Collectibles"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Apple 5 found",
+            "category": [
+                "Salvation's Edge - Collectibles"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Apple 6 found",
+            "category": [
+                "Salvation's Edge - Collectibles"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Apple 7 found",
+            "category": [
+                "Salvation's Edge - Collectibles"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Apple 8 found",
+            "category": [
+                "Salvation's Edge - Collectibles"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Salvation's Edge chest 1",
+            "category": [
+                "Salvation's Edge - Chest"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Salvation's Edge chest 2",
+            "category": [
+                "Salvation's Edge - Chest"
+            ],
+            "region": "Salvation's Edge"
+        },
+        {
+            "name": "Abyss encounter completed",
+            "category": [
+                "Crota's End - Encounters"
+            ],
+            "region": "Crota's End"
+        },
+        {
+            "name": "Oversoul Throne Bridge encounter completed",
+            "category": [
+                "Crota's End - Encounters"
+            ],
+            "region": "Crota's End"
+        },
+        {
+            "name": "Ir Yût encounter completed",
+            "category": [
+                "Crota's End - Encounters"
+            ],
+            "region": "Crota's End"
+        },
+        {
+            "name": "Crota, Son of Oryx encounter completed",
+            "category": [
+                "Crota's End - Encounters"
+            ],
+            "region": "Crota's End"
+        },
+        {
+            "name": "Conservation of Energy challenge completed",
+            "category": [
+                "Crota's End - Challenges"
+            ],
+            "region": "Crota's End"
+        },
+        {
+            "name": "Precarious Balance challenge completed",
+            "category": [
+                "Crota's End - Challenges"
+            ],
+            "region": "Crota's End"
+        },
+        {
+            "name": "Equal Vessels challenge completed",
+            "category": [
+                "Crota's End - Challenges"
+            ],
+            "region": "Crota's End"
+        },
+        {
+            "name": "All For One challenge completed",
+            "category": [
+                "Crota's End - Challenges"
+            ],
+            "region": "Crota's End"
+        },
+        {
+            "name": "Crota's End chest 1",
+            "category": [
+                "Crota's End - Chest"
+            ],
+            "region": "Crota's End"
+        },
+        {
+            "name": "Crota's End chest 2",
+            "category": [
+                "Crota's End - Chest"
+            ],
+            "region": "Crota's End"
+        },
+        {
+            "name": "Cataclysm encounter completed",
+            "category": [
+                "Root of Nightmares - Encounters"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Scission encounter completed",
+            "category": [
+                "Root of Nightmares - Encounters"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Macrocosm encounter completed",
+            "category": [
+                "Root of Nightmares - Encounters"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Nezarec encounter completed",
+            "category": [
+                "Root of Nightmares - Encounters"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Illuminated Torment challenge completed",
+            "category": [
+                "Root of Nightmares - Challenges"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Crossfire challenge completed",
+            "category": [
+                "Root of Nightmares - Challenges"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Cosmic Equilibrium challenge completed",
+            "category": [
+                "Root of Nightmares - Challenges"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "All Hands challenge completed",
+            "category": [
+                "Root of Nightmares - Challenges"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Node 1 found",
+            "category": [
+                "Root of Nightmares - Collectibles"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Node 2 found",
+            "category": [
+                "Root of Nightmares - Collectibles"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Node 3 found",
+            "category": [
+                "Root of Nightmares - Collectibles"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Node 4 found",
+            "category": [
+                "Root of Nightmares - Collectibles"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Node 5 found",
+            "category": [
+                "Root of Nightmares - Collectibles"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Node 6 found",
+            "category": [
+                "Root of Nightmares - Collectibles"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Node 7 found",
+            "category": [
+                "Root of Nightmares - Collectibles"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Node 8 found",
+            "category": [
+                "Root of Nightmares - Collectibles"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Node 9 found",
+            "category": [
+                "Root of Nightmares - Collectibles"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Node 10 found",
+            "category": [
+                "Root of Nightmares - Collectibles"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Root of Nightmares chest 1",
+            "category": [
+                "Root of Nightmares - Chest"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Root of Nightmares chest 2",
+            "category": [
+                "Root of Nightmares - Chest"
+            ],
+            "region": "Root of Nightmares"
+        },
+        {
+            "name": "Basilica encounter completed",
+            "category": [
+                "King's Fall - Encounters"
+            ],
+            "region": "King's Fall"
+        },
+        {
+            "name": "Warpriest encounter completed",
+            "category": [
+                "King's Fall - Encounters"
+            ],
+            "region": "King's Fall"
+        },
+        {
+            "name": "Golgoroth encounter completed",
+            "category": [
+                "King's Fall - Encounters"
+            ],
+            "region": "King's Fall"
+        },
+        {
+            "name": "The Daughters encounter completed",
+            "category": [
+                "King's Fall - Encounters"
+            ],
+            "region": "King's Fall"
+        },
+        {
+            "name": "Oryx encounter completed",
+            "category": [
+                "King's Fall - Encounters"
+            ],
+            "region": "King's Fall"
+        },
+        {
+            "name": "The Grass Is Always Greener challenge completed",
+            "category": [
+                "King's Fall - Challenges"
+            ],
+            "region": "King's Fall"
+        },
+        {
+            "name": "Devious Thievery challenge completed",
+            "category": [
+                "King's Fall - Challenges"
+            ],
+            "region": "King's Fall"
+        },
+        {
+            "name": "Gaze Amaze challenge completed",
+            "category": [
+                "King's Fall - Challenges"
+            ],
+            "region": "King's Fall"
+        },
+        {
+            "name": "Under Construction challenge completed",
+            "category": [
+                "King's Fall - Challenges"
+            ],
+            "region": "King's Fall"
+        },
+        {
+            "name": "Hands Off challenge completed",
+            "category": [
+                "King's Fall - Challenges"
+            ],
+            "region": "King's Fall"
+        },
+        {
+            "name": "King's Fall chest 1",
+            "category": [
+                "King's Fall - Chest"
+            ],
+            "region": "King's Fall"
+        },
+        {
+            "name": "King's Fall chest 2",
+            "category": [
+                "King's Fall - Chest"
+            ],
+            "region": "King's Fall"
+        },
+        {
+            "name": "King's Fall chest 3",
+            "category": [
+                "King's Fall - Chest"
+            ],
+            "region": "King's Fall"
+        },
+        {
+            "name": "Acquisition navigated",
+            "category": [
+                "Vow of the Disciple - Encounters"
+            ],
+            "region": "Vow of the Disciple"
+        },
+        {
+            "name": "The Caretaker defeated",
+            "category": [
+                "Vow of the Disciple - Encounters"
+            ],
+            "region": "Vow of the Disciple"
+        },
+        {
+            "name": "The Upended summited",
+            "category": [
+                "Vow of the Disciple - Encounters"
+            ],
+            "region": "Vow of the Disciple"
+        },
+        {
+            "name": "Rhulk defeated",
+            "category": [
+                "Vow of the Disciple - Encounters"
+            ],
+            "region": "Vow of the Disciple"
+        },
+        {
+            "name": "Swift Destruction challenge completed",
+            "category": [
+                "Vow of the Disciple - Challenges"
+            ],
+            "region": "Vow of the Disciple"
+        },
+        {
+            "name": "Base Information challenge completed",
+            "category": [
+                "Vow of the Disciple - Challenges"
+            ],
+            "region": "Vow of the Disciple"
+        },
+        {
+            "name": "Defenses Down challenge completed",
+            "category": [
+                "Vow of the Disciple - Challenges"
+            ],
+            "region": "Vow of the Disciple"
+        },
+        {
+            "name": "Looping Catalyst challenge completed",
+            "category": [
+                "Vow of the Disciple - Challenges"
+            ],
+            "region": "Vow of the Disciple"
+        },
+        {
+            "name": "Vow of the Disciple chest 1",
+            "category": [
+                "Vow of the Disciple - Chest"
+            ],
+            "region": "Vow of the Disciple"
+        },
+        {
+            "name": "Vow of the Disciple chest 2",
+            "category": [
+                "Vow of the Disciple - Chest"
+            ],
+            "region": "Vow of the Disciple"
+        },
+        {
+            "name": "Vow of the Disciple chest 3",
+            "category": [
+                "Vow of the Disciple - Chest"
+            ],
+            "region": "Vow of the Disciple"
+        },
+        {
+            "name": "Confluxes encounter completed",
+            "category": [
+                "Vault of Glass - Encounters"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Oracles encounter completed",
+            "category": [
+                "Vault of Glass - Encounters"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Templar encounter completed",
+            "category": [
+                "Vault of Glass - Encounters"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Gatekeepers encounter completed",
+            "category": [
+                "Vault of Glass - Encounters"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Atheon encounter completed",
+            "category": [
+                "Vault of Glass - Encounters"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Wait for It… challenge completed",
+            "category": [
+                "Vault of Glass - Challenges"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "The Only Oracle for You challenge completed",
+            "category": [
+                "Vault of Glass - Challenges"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Out of Its Way challenge completed",
+            "category": [
+                "Vault of Glass - Challenges"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Strangers in Time challenge completed",
+            "category": [
+                "Vault of Glass - Challenges"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Ensemble's Refrain challenge completed",
+            "category": [
+                "Vault of Glass - Challenges"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Crystal 1 found",
+            "category": [
+                "Vault of Glass - Collectibles"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Crystal 2 found",
+            "category": [
+                "Vault of Glass - Collectibles"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Crystal 3 found",
+            "category": [
+                "Vault of Glass - Collectibles"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Crystal 4 found",
+            "category": [
+                "Vault of Glass - Collectibles"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Crystal 5 found",
+            "category": [
+                "Vault of Glass - Collectibles"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Crystal 6 found",
+            "category": [
+                "Vault of Glass - Collectibles"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Crystal 7 found",
+            "category": [
+                "Vault of Glass - Collectibles"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Crystal 8 found",
+            "category": [
+                "Vault of Glass - Collectibles"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Crystal 9 found",
+            "category": [
+                "Vault of Glass - Collectibles"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Crystal 10 found",
+            "category": [
+                "Vault of Glass - Collectibles"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Crystal 11 found",
+            "category": [
+                "Vault of Glass - Collectibles"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Crystal 12 found",
+            "category": [
+                "Vault of Glass - Collectibles"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Vault of Glass chest 1",
+            "category": [
+                "Vault of Glass - Chest"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Vault of Glass chest 2",
+            "category": [
+                "Vault of Glass - Chest"
+            ],
+            "region": "Vault of Glass"
+        },
+        {
+            "name": "Crypt security bypassed",
+            "category": [
+                "Deep Stone Crypt - Encounters"
+            ],
+            "region": "Deep Stone Crypt"
+        },
+        {
+            "name": "Atraks-1 defeated",
+            "category": [
+                "Deep Stone Crypt - Encounters"
+            ],
+            "region": "Deep Stone Crypt"
+        },
+        {
+            "name": "Descent survived",
+            "category": [
+                "Deep Stone Crypt - Encounters"
+            ],
+            "region": "Deep Stone Crypt"
+        },
+        {
+            "name": "Taniks, the Abomination defeated",
+            "category": [
+                "Deep Stone Crypt - Encounters"
+            ],
+            "region": "Deep Stone Crypt"
+        },
+        {
+            "name": "Red Rover challenge completed",
+            "category": [
+                "Deep Stone Crypt - Challenges"
+            ],
+            "region": "Deep Stone Crypt"
+        },
+        {
+            "name": "Copies of Copies challenge completed",
+            "category": [
+                "Deep Stone Crypt - Challenges"
+            ],
+            "region": "Deep Stone Crypt"
+        },
+        {
+            "name": "Of All Trades challenge completed",
+            "category": [
+                "Deep Stone Crypt - Challenges"
+            ],
+            "region": "Deep Stone Crypt"
+        },
+        {
+            "name": "The Core Four challenge completed",
+            "category": [
+                "Deep Stone Crypt - Challenges"
+            ],
+            "region": "Deep Stone Crypt"
+        },
+        {
+            "name": "Stranger's Log 1 found",
+            "category": [
+                "Deep Stone Crypt - Collectibles"
+            ],
+            "region": "Deep Stone Crypt"
+        },
+        {
+            "name": "Stranger's Log 2 found",
+            "category": [
+                "Deep Stone Crypt - Collectibles"
+            ],
+            "region": "Deep Stone Crypt"
+        },
+        {
+            "name": "Stranger's Log 3 found",
+            "category": [
+                "Deep Stone Crypt - Collectibles"
+            ],
+            "region": "Deep Stone Crypt"
+        },
+        {
+            "name": "Stranger's Log 4 found",
+            "category": [
+                "Deep Stone Crypt - Collectibles"
+            ],
+            "region": "Deep Stone Crypt"
+        },
+        {
+            "name": "Stranger's Log 5 found",
+            "category": [
+                "Deep Stone Crypt - Collectibles"
+            ],
+            "region": "Deep Stone Crypt"
+        },
+        {
+            "name": "Deep Stone Crypt chest 1",
+            "category": [
+                "Deep Stone Crypt - Chest"
+            ],
+            "region": "Deep Stone Crypt"
+        },
+        {
+            "name": "Deep Stone Crypt chest 2",
+            "category": [
+                "Deep Stone Crypt - Chest"
+            ],
+            "region": "Deep Stone Crypt"
+        },
+        {
+            "name": "Evaded the Consecrated Mind",
+            "category": [
+                "Garden of Salvation - Encounters"
+            ],
+            "region": "Garden of Salvation"
+        },
+        {
+            "name": "Summon the Consecrated Mind",
+            "category": [
+                "Garden of Salvation - Encounters"
+            ],
+            "region": "Garden of Salvation"
+        },
+        {
+            "name": "Consecrated Mind defeated",
+            "category": [
+                "Garden of Salvation - Encounters"
+            ],
+            "region": "Garden of Salvation"
+        },
+        {
+            "name": "Sanctified Mind defeated",
+            "category": [
+                "Garden of Salvation - Encounters"
+            ],
+            "region": "Garden of Salvation"
+        },
+        {
+            "name": "Staying Alive challenge completed",
+            "category": [
+                "Garden of Salvation - Challenges"
+            ],
+            "region": "Garden of Salvation"
+        },
+        {
+            "name": "A Link to the Chain challenge completed",
+            "category": [
+                "Garden of Salvation - Challenges"
+            ],
+            "region": "Garden of Salvation"
+        },
+        {
+            "name": "To the Top challenge completed",
+            "category": [
+                "Garden of Salvation - Challenges"
+            ],
+            "region": "Garden of Salvation"
+        },
+        {
+            "name": "Zero to One Hundred challenge completed",
+            "category": [
+                "Garden of Salvation - Challenges"
+            ],
+            "region": "Garden of Salvation"
+        },
+        {
+            "name": "Garden of Salvation chest 1",
+            "category": [
+                "Garden of Salvation - Chest"
+            ],
+            "region": "Garden of Salvation"
+        },
+        {
+            "name": "Garden of Salvation chest 2",
+            "category": [
+                "Garden of Salvation - Chest"
+            ],
+            "region": "Garden of Salvation"
+        },
+        {
+            "name": "Kalli Defeated",
+            "category": [
+                "Last Wish - Encounters"
+            ],
+            "region": "Last Wish"
+        },
+        {
+            "name": "Shuro Chi defeated",
+            "category": [
+                "Last Wish - Encounters"
+            ],
+            "region": "Last Wish"
+        },
+        {
+            "name": "Morgeth, the Spirekeeper defeated",
+            "category": [
+                "Last Wish - Encounters"
+            ],
+            "region": "Last Wish"
+        },
+        {
+            "name": "Vault infiltrated",
+            "category": [
+                "Last Wish - Encounters"
+            ],
+            "region": "Last Wish"
+        },
+        {
+            "name": "Riven of a Thousand Voices defeated",
+            "category": [
+                "Last Wish - Encounters"
+            ],
+            "region": "Last Wish"
+        },
+        {
+            "name": "Queenswalk completed",
+            "category": [
+                "Last Wish - Encounters"
+            ],
+            "region": "Last Wish"
+        },
+        {
+            "name": "Summoning Ritual challenge completed",
+            "category": [
+                "Last Wish - Challenges"
+            ],
+            "region": "Last Wish"
+        },
+        {
+            "name": "Coliseum Champion challenge completed",
+            "category": [
+                "Last Wish - Challenges"
+            ],
+            "region": "Last Wish"
+        },
+        {
+            "name": "Forever Fight challenge completed",
+            "category": [
+                "Last Wish - Challenges"
+            ],
+            "region": "Last Wish"
+        },
+        {
+            "name": "Keep Out challenge completed",
+            "category": [
+                "Last Wish - Challenges"
+            ],
+            "region": "Last Wish"
+        },
+        {
+            "name": "Strength of Memory challenge completed",
+            "category": [
+                "Last Wish - Challenges"
+            ],
+            "region": "Last Wish"
+        },
+        {
+            "name": "Last Wish chest 1",
+            "category": [
+                "Last Wish - Chest"
+            ],
+            "region": "Last Wish"
+        },
+        {
+            "name": "Last Wish chest 2",
+            "category": [
+                "Last Wish - Chest"
+            ],
+            "region": "Last Wish"
+        },
+        {
+            "name": "Clear Witch Queen",
+            "category": [
+                "Witch Queen - Campaign"
+            ],
+            "region": "Witch Queen",
+            "place_item": [
+                "Cleared Campaign"
+            ]
+        },
+        {
+            "name": "Clear Lightfall",
+            "category": [
+                "Lightfall - Campaign"
+            ],
+            "region": "Lightfall",
+            "place_item": [
+                "Cleared Campaign"
+            ]
+        },
+        {
+            "name": "Clear Final Shape",
+            "category": [
+                "Final Shape - Campaign"
+            ],
+            "region": "Final Shape",
+            "place_item": [
+                "Cleared Campaign"
+            ]
+        },
+        {
+            "name": "Clear Edge of Fate",
+            "category": [
+                "Edge of Fate - Campaign"
+            ],
+            "region": "Edge of Fate",
+            "place_item": [
+                "Cleared Campaign"
+            ]
+        },
+        {
+            "name": "Clear Renegades",
+            "category": [
+                "Renegades - Campaign"
+            ],
+            "region": "Renegades",
+            "place_item": [
+                "Cleared Campaign"
+            ]
+        },
+        {
+            "name": "Clear Desert Perpetual",
+            "category": [
+                "Desert Perpetual - Encounters"
+            ],
+            "region": "Desert Perpetual",
+            "place_item": [
+                "Cleared Raid"
+            ]
+        },
+        {
+            "name": "Clear Salvation's Edge",
+            "category": [
+                "Salvation's Edge - Encounters"
+            ],
+            "region": "Salvation's Edge",
+            "place_item": [
+                "Cleared Raid"
+            ]
+        },
+        {
+            "name": "Clear Crota's End",
+            "category": [
+                "Crota's End - Encounters"
+            ],
+            "region": "Crota's End",
+            "place_item": [
+                "Cleared Raid"
+            ]
+        },
+        {
+            "name": "Clear Root of Nightmares",
+            "category": [
+                "Root of Nightmares - Encounters"
+            ],
+            "region": "Root of Nightmares",
+            "place_item": [
+                "Cleared Raid"
+            ]
+        },
+        {
+            "name": "Clear King's Fall",
+            "category": [
+                "King's Fall - Encounters"
+            ],
+            "region": "King's Fall",
+            "place_item": [
+                "Cleared Raid"
+            ]
+        },
+        {
+            "name": "Clear Vow of the Disciple",
+            "category": [
+                "Vow of the Disciple - Encounters"
+            ],
+            "region": "Vow of the Disciple",
+            "place_item": [
+                "Cleared Raid"
+            ]
+        },
+        {
+            "name": "Clear Vault of Glass",
+            "category": [
+                "Vault of Glass - Encounters"
+            ],
+            "region": "Vault of Glass",
+            "place_item": [
+                "Cleared Raid"
+            ]
+        },
+        {
+            "name": "Clear Deep Stone Crypt",
+            "category": [
+                "Deep Stone Crypt - Encounters"
+            ],
+            "region": "Deep Stone Crypt",
+            "place_item": [
+                "Cleared Raid"
+            ]
+        },
+        {
+            "name": "Clear Garden of Salvation",
+            "category": [
+                "Garden of Salvation - Encounters"
+            ],
+            "region": "Garden of Salvation",
+            "place_item": [
+                "Cleared Raid"
+            ]
+        },
+        {
+            "name": "Clear Last Wish",
+            "category": [
+                "Last Wish - Encounters"
+            ],
+            "region": "Last Wish",
+            "place_item": [
+                "Cleared Raid"
+            ]
         },
         {
             "name": "Clear Shattered Throne",

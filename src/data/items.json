@@ -205,6 +205,127 @@
             "progression": true
         },
         {
+            "name": "Witch Queen Key",
+            "category": [
+                "Campaign Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Lightfall Key",
+            "category": [
+                "Campaign Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Final Shape Key",
+            "category": [
+                "Campaign Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Edge of Fate Key",
+            "category": [
+                "Campaign Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Renegades Key",
+            "category": [
+                "Campaign Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Desert Perpetual Key",
+            "category": [
+                "Raid Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Salvation's Edge Key",
+            "category": [
+                "Raid Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Crota's End Key",
+            "category": [
+                "Raid Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Root of Nightmares Key",
+            "category": [
+                "Raid Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "King's Fall Key",
+            "category": [
+                "Raid Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Vow of the Disciple Key",
+            "category": [
+                "Raid Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Vault of Glass Key",
+            "category": [
+                "Raid Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Deep Stone Crypt Key",
+            "category": [
+                "Raid Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Garden of Salvation Key",
+            "category": [
+                "Raid Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Last Wish Key",
+            "category": [
+                "Raid Keys"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Cleared Raid",
+            "category": [
+                "Raid Clears"
+            ],
+            "count": 10,
+            "progression": true
+        },
+        {
+            "name": "Cleared Campaign",
+            "category": [
+                "Campaign Clears"
+            ],
+            "count": 5,
+            "progression": true
+        },
+        {
             "name": "Cleared Dungeon",
             "category": [
                 "Dungeon Clears"

@@ -108,9 +108,29 @@
             "description": [
                 "The win condition of this manual is to beat X number of different dungeons. Use this option to define the number of dungeons required for victory."
             ],
-            "range_start": 1,
+            "range_start": 0,
             "default": 3,
             "range_end": 11,
+            "group": "Game Options"
+        },
+        "raid_clears_required_for_victory": {
+            "type": "Range",
+            "description": [
+                "The win condition of this manual is to beat X number of different raids. Use this option to define the number of raids required for victory."
+            ],
+            "range_start": 0,
+            "default": 3,
+            "range_end": 10,
+            "group": "Game Options"
+        },
+        "campaign_clears_required_for_victory": {
+            "type": "Range",
+            "description": [
+                "The win condition of this manual is to beat X number of different campaigns. Use this option to define the number of campaigns required for victory."
+            ],
+            "range_start": 0,
+            "default": 1,
+            "range_end": 5,
             "group": "Game Options"
         },
         "_DLC_enabled": {

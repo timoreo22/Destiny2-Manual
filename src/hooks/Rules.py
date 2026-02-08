@@ -34,7 +34,7 @@ def requiresMelee():
 
 
 def goalAmount(world: World, state: CollectionState, player: int):
-    return f"|Cleared Dungeon:{world.options.clears_required_for_victory.value}|"
+    return f"|Cleared Dungeon:{world.options.clears_required_for_victory.value}| AND |Cleared Raid:{world.options.raid_clears_required_for_victory.value}| AND |Cleared Campaign:{world.options.campaign_clears_required_for_victory.value}|"
 
 
 def requiresDpsAndRoam(world: World, state: CollectionState, player: int):
