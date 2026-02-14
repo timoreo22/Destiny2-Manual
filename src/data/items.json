@@ -1724,6 +1724,736 @@
             ]
         },
         {
+            "name": "Echo of Starvation",
+            "category": [
+                "Fragments - Void",
+                "Fragments - Rank S"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Facet of Courage",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank S"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Facet of Purpose",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank S"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Ember of Torches",
+            "category": [
+                "Fragments - Solar",
+                "Fragments - Rank S"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Ember of Benevolence",
+            "category": [
+                "Fragments - Solar",
+                "Fragments - Rank S"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Thread of Generation",
+            "category": [
+                "Fragments - Strand",
+                "Fragments - Rank S"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Echo of Vigilance",
+            "category": [
+                "Fragments - Void",
+                "Fragments - Rank A"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Spark of Resistance",
+            "category": [
+                "Fragments - Arc",
+                "Fragments - Rank A"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Facet of Dominance",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank A"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Thread of Warding",
+            "category": [
+                "Fragments - Strand",
+                "Fragments - Rank A"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Facet of Protection",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank A"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Ember of Singeing",
+            "category": [
+                "Fragments - Solar",
+                "Fragments - Rank A"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Whisper of Shards",
+            "category": [
+                "Fragments - Stasis",
+                "Fragments - Rank A"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Echo of Obscurity",
+            "category": [
+                "Fragments - Void",
+                "Fragments - Rank A"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Whisper of Rime",
+            "category": [
+                "Fragments - Stasis",
+                "Fragments - Rank A"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Thread of Evolution",
+            "category": [
+                "Fragments - Strand",
+                "Fragments - Rank A"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Whisper of Torment",
+            "category": [
+                "Fragments - Stasis",
+                "Fragments - Rank A"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Echo of Undermining",
+            "category": [
+                "Fragments - Void",
+                "Fragments - Rank B"
+            ],
+            "progression": true
+        },
+        {
+            "name": "Facet of Dawn",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Echo of Persistence",
+            "category": [
+                "Fragments - Void",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Spark of Beacons",
+            "category": [
+                "Fragments - Arc",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Ember of Ashes",
+            "category": [
+                "Fragments - Solar",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Ember of Char",
+            "category": [
+                "Fragments - Solar",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Spark of Discharge",
+            "category": [
+                "Fragments - Arc",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Spark of Magnitude",
+            "category": [
+                "Fragments - Arc",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Ember of Solace",
+            "category": [
+                "Fragments - Solar",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Whisper of Durance",
+            "category": [
+                "Fragments - Stasis",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Whisper of Hunger",
+            "category": [
+                "Fragments - Stasis",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Facet of Solitude",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Thread of Isolation",
+            "category": [
+                "Fragments - Strand",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Ember of Empyrean",
+            "category": [
+                "Fragments - Solar",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Thread of Fury",
+            "category": [
+                "Fragments - Strand",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Facet of Hope",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Facet of Ruin",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Thread of Continuity",
+            "category": [
+                "Fragments - Strand",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Ember of Searing",
+            "category": [
+                "Fragments - Solar",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Whisper of Fissures",
+            "category": [
+                "Fragments - Stasis",
+                "Fragments - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Facet of Blessing",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Facet of Mending",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Ember of Resolve",
+            "category": [
+                "Fragments - Solar",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Ember of Mercy",
+            "category": [
+                "Fragments - Solar",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Thread of Ascent",
+            "category": [
+                "Fragments - Strand",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Whisper of Impetus",
+            "category": [
+                "Fragments - Stasis",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Spark of Ions",
+            "category": [
+                "Fragments - Arc",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Spark of Shock",
+            "category": [
+                "Fragments - Arc",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Facet of Command",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Echo of Harvest",
+            "category": [
+                "Fragments - Void",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Spark of Amplitude",
+            "category": [
+                "Fragments - Arc",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Whisper of Rending",
+            "category": [
+                "Fragments - Stasis",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Echo of Remnants",
+            "category": [
+                "Fragments - Void",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Spark of Frequency",
+            "category": [
+                "Fragments - Arc",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Facet of Sacrifice",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Facet of Generosity",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Whisper of Refraction",
+            "category": [
+                "Fragments - Stasis",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Facet of Balance",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Facet of Awakening",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank C"
+            ]
+        },
+        {
+            "name": "Echo of Cessation",
+            "category": [
+                "Fragments - Void",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Echo of Reprisal",
+            "category": [
+                "Fragments - Void",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Echo of Provision",
+            "category": [
+                "Fragments - Void",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Facet of Bravery",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Echo of Instability",
+            "category": [
+                "Fragments - Void",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Thread of Propagation",
+            "category": [
+                "Fragments - Strand",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Thread of Rebirth",
+            "category": [
+                "Fragments - Strand",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Whisper of Fractures",
+            "category": [
+                "Fragments - Stasis",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Spark of Feedback",
+            "category": [
+                "Fragments - Arc",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Whisper of Conduction",
+            "category": [
+                "Fragments - Stasis",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Whisper of Chains",
+            "category": [
+                "Fragments - Stasis",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Facet of Honor",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Ember of Blistering",
+            "category": [
+                "Fragments - Solar",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Whisper of Bonds",
+            "category": [
+                "Fragments - Stasis",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Thread of Mind",
+            "category": [
+                "Fragments - Strand",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Thread of Wisdom",
+            "category": [
+                "Fragments - Strand",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Facet of Devotion",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Ember of Eruption",
+            "category": [
+                "Fragments - Solar",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Facet of Grace",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Ember of Wonder",
+            "category": [
+                "Fragments - Solar",
+                "Fragments - Rank D"
+            ]
+        },
+        {
+            "name": "Echo of Expulsion",
+            "category": [
+                "Fragments - Void",
+                "Fragments - Rank E"
+            ]
+        },
+        {
+            "name": "Echo of Exchange",
+            "category": [
+                "Fragments - Void",
+                "Fragments - Rank E"
+            ]
+        },
+        {
+            "name": "Ember of Combustion",
+            "category": [
+                "Fragments - Solar",
+                "Fragments - Rank E"
+            ]
+        },
+        {
+            "name": "Echo of Domineering",
+            "category": [
+                "Fragments - Void",
+                "Fragments - Rank E"
+            ]
+        },
+        {
+            "name": "Ember of Tempering",
+            "category": [
+                "Fragments - Solar",
+                "Fragments - Rank E"
+            ]
+        },
+        {
+            "name": "Facet of Defiance",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank E"
+            ]
+        },
+        {
+            "name": "Facet of Justice",
+            "category": [
+                "Fragments - Prismatic",
+                "Fragments - Rank E"
+            ]
+        },
+        {
+            "name": "Whisper of Chill",
+            "category": [
+                "Fragments - Stasis",
+                "Fragments - Rank E"
+            ]
+        },
+        {
+            "name": "Echo of Leeching",
+            "category": [
+                "Fragments - Void",
+                "Fragments - Rank E"
+            ]
+        },
+        {
+            "name": "Echo of Dilation",
+            "category": [
+                "Fragments - Void",
+                "Fragments - Rank E"
+            ]
+        },
+        {
+            "name": "Thread of Transmutation",
+            "category": [
+                "Fragments - Strand",
+                "Fragments - Rank E"
+            ]
+        },
+        {
+            "name": "Spark of Momentum",
+            "category": [
+                "Fragments - Arc",
+                "Fragments - Rank F"
+            ]
+        },
+        {
+            "name": "Spark of Recharge",
+            "category": [
+                "Fragments - Arc",
+                "Fragments - Rank F"
+            ]
+        },
+        {
+            "name": "Spark of Brilliance",
+            "category": [
+                "Fragments - Arc",
+                "Fragments - Rank F"
+            ]
+        },
+        {
+            "name": "Whisper of Reversal",
+            "category": [
+                "Fragments - Stasis",
+                "Fragments - Rank F"
+            ]
+        },
+        {
+            "name": "Spark of Focus",
+            "category": [
+                "Fragments - Arc",
+                "Fragments - Rank F"
+            ]
+        },
+        {
+            "name": "Spark of Volts",
+            "category": [
+                "Fragments - Arc",
+                "Fragments - Rank F"
+            ]
+        },
+        {
+            "name": "Thread of Finality",
+            "category": [
+                "Fragments - Strand",
+                "Fragments - Rank F"
+            ]
+        },
+        {
+            "name": "Ember of Beams",
+            "category": [
+                "Fragments - Solar",
+                "Fragments - Rank F"
+            ]
+        },
+        {
+            "name": "Thread of Binding",
+            "category": [
+                "Fragments - Strand",
+                "Fragments - Rank F"
+            ]
+        },
+        {
+            "name": "Whisper of Hedrons",
+            "category": [
+                "Fragments - Stasis",
+                "Fragments - Rank F"
+            ]
+        },
+        {
+            "name": "Spark of Haste",
+            "category": [
+                "Fragments - Arc",
+                "Fragments - Rank F"
+            ]
+        },
+        {
+            "name": "Spark of Instinct",
+            "category": [
+                "Fragments - Arc",
+                "Fragments - Rank F"
+            ]
+        },
+        {
             "name": "Solar Grenade",
             "category": [
                 "Grenades - Solar"
