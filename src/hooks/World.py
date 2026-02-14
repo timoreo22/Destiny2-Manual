@@ -102,11 +102,14 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
     should_enable_rankd = world.options.enable_rank_d.value
     for item in item_config.keys():
         if item in rankb:
+            # TODO add useful to item, don't remove progression'
             item_config[item] = {"progression": 1} if should_enable_rankb else {"useful": 1}
         elif item in rankc:
-            item_config[item] = {"progression": 1} if should_enable_rankc else 1
+            if should_enable_rankc:
+                item_config[item] = {"progression": 1}
         elif item in rankd:
-            item_config[item] = {"progression": 1} if should_enable_rankd else 1
+            if should_enable_rankd:
+                item_config[item] = {"progression": 1}
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
