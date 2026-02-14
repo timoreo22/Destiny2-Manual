@@ -2642,6 +2642,1028 @@
             "filler": true
         },
         {
+            "name": "Abeyant Leap",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "ACD/0 Feedback Fence",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Actium War Rig",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Aeon Safe",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Aeon Soul",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Aeon Swift",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "An Insurmountable Skullfort",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Antaeus Wards",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Apotheosis Veil",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Arbor Warden",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Armamentarium",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Ashen Wake",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Assassin's Cowl",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Astrocyte Verse",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Athrys's Embrace",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Balance of Power",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Ballidorse Wrathweavers",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Blastwave Striders",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Blight Ranger",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Boots of the Assembler",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Briarbinds",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Cadmus Ridge Lancecap",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Caliban's Hand",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Celestial Nighthawk",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Cenotaph Mask",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Chromatic Fire",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Citan's Ramparts",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Claws of Ahamkara",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Contraverse Hold",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Crest of Alpha Lupi",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Crown of Tempests",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Cuirass of the Falling Star",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Cyrtarachne's Facade",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Dawn Chorus",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Deimosuffusion",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Doom Fang Pauldron",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Dunemarchers",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Eternal Warrior",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Eunoia",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Eye of Another World",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Fallen Sunstar",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Felwinter's Helm",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Foetracer",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Fortune's Favor",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Fr0st-EE5",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Gemini Jester",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Geomag Stabilizers",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Getaway Artist",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Gifted Conviction",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Graviton Forfeit",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Gwisin Vest",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Gyrfalcon's Hauberk",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Hallowfire Heart",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Hazardous Propulsion",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Heart of Inmost Light",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Helm of Saint-14",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Hoarfrost-Z",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Icefall Mantle",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Karnstein Armlets",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Khepri's Horn",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Khepri's Sting",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Knucklehead Radar",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Liar's Handshake",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Lion Rampant",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Loreley Splendor Helm",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Lucky Pants",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Lucky Raspberry",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Lunafaction Boots",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Mantle of Battle Harmony",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Mask of Bakris",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Mask of Fealty",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Mask of the Quiet One",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Mataiodoxía",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Mechaneer's Tricksleeves",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Melas Panoplia",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Mk. 44 Stand Asides",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Moirai",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Mothkeeper's Wraps",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Necrotic Grip",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Nezarec's Sin",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "No Backup Plans",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Nothing Manacles",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Oathkeeper",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Omnioculus",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "One-Eyed Mask",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Ophidian Aspect",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Ophidia Spathe",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Orpheus Rig",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Osmiomancy Gloves",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Peacekeepers",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Peregrine Greaves",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Phoenix Cradle",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Phoenix Protocol",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Point-Contact Cannon Brace",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Praxic Vestment",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Precious Scars",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Promethium Spur",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Pyrogale Gauntlets",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Radiant Dance Machines",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Raiden Flux",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Raiju's Harness",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Rain of Fire",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Relativism",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Renewal Grasps",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Rime-coat Raiment",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Sanguine Alchemy",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Sealed Ahamkara Grasps",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Secant Filaments",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Second Chance",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Severance Enclosure",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Shards of Galanor",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Shinobu's Vow",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Skull of Dire Ahamkara",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Solipsism",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Speaker's Sight",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Speedloader Slacks",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "St0mp-EE5",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Star-Eater Scales",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Starfire Protocol",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Stoicism",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Stormdancer's Brace",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Stronghold",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Sunbracers",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Swarmers",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Synthoceps",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "The Bombardiers",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "The Dragon's Shadow",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "The Path of Burning Steps",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "The Sixth Coyote",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "The Stag",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Transversive Steps",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank A"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Triton Vice",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Ursa Furiosa",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank D"
+            ]
+        },
+        {
+            "name": "Verity's Brow",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Vesper of Radius",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Wings of Sacred Dawn",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank E"
+            ]
+        },
+        {
+            "name": "Winter's Guile",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Wishful Ignorance",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank B"
+            ]
+        },
+        {
+            "name": "Wormgod Caress",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank S"
+            ],
+            "useful": true
+        },
+        {
+            "name": "Wormhusk Crown",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
+            "name": "Young Ahamkara's Spine",
+            "category": [
+                "Exotic Armors",
+                "Exotic Armors - Rank C"
+            ]
+        },
+        {
             "name": "Tractor Cannon",
             "category": [
                 "Tractor Cannon",
