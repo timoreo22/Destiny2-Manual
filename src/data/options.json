@@ -93,16 +93,6 @@
             "allow_custom_value": false,
             "group": "Game Options"
         },
-        "chests_per_area": {
-            "type": "Range",
-            "description": [
-                "The number of chests in an area that are worth a check"
-            ],
-            "range_start": 1,
-            "default": 3,
-            "range_end": 100,
-            "group": "Game Options"
-        },
         "clears_required_for_victory": {
             "type": "Range",
             "description": [
