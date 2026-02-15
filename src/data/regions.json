@@ -60,38 +60,38 @@
         "starting": true
     },
     "Desert Perpetual": {
-        "requires": "|Desert Perpetual Key|",
+        "requires": "|Desert Perpetual Key| AND |Cleared Raid:9| AND |Cleared Dungeon:11|",
         "starting": true
     },
     "Salvation's Edge": {
-        "requires": "|Salvation's Edge Key|"
+        "requires": "|Salvation's Edge Key| AND |Cleared Raid:3| AND ((|Wolfsbane| OR |Praxic Blade|) AND (|Gjallarhorn| OR |@Weapons - Rocket Launcher|))"
     },
     "Crota's End": {
-        "requires": "|Crota's End Key|",
+        "requires": "|Crota's End Key| AND |Cleared Raid:3| AND (|Banner of War| AND |Strand Unlock| AND |Titan Unlock| AND |The Navigator| AND |Grapple Grenade| AND |Peacekeepers| AND |Pulse Grenade| AND |Touch of Thunder| AND |SMG / Balanced (900RPM)| AND |@Weapons - Sword|)",
         "starting": true
     },
     "Root of Nightmares": {
-        "requires": "|Root of Nightmares Key|"
+        "requires": "|Root of Nightmares Key| AND |Cleared Raid:3| AND (|Pulse Rifle / Micro-Missile| AND |Izanagi's Burden| AND |@Weapons - Grenade Launcher - Drum|)"
     },
     "King's Fall": {
-        "requires": "|King's Fall Key|",
+        "requires": "|King's Fall Key| AND |Cleared Raid:3| AND (|@Roam Weapons| AND |Sniper Rifle / Disruption|)",
         "starting": true
     },
     "Vow of the Disciple": {
-        "requires": "|Vow of the Disciple Key|"
+        "requires": "|Vow of the Disciple Key| AND |Cleared Raid:3| AND ((|Shotgun / Pinpoint Slug| OR |Shotgun / Rapid-Fire Slug| OR |Lord of Wolves|) AND (|Divinity| OR |Sniper Rifle / Dynamic (140RPM)| OR |Sniper Rifle / Rapid-Fire| OR |Sniper Rifle / Adaptive| OR |Sniper Rifle / Aggressive|))"
     },
     "Vault of Glass": {
-        "requires": "|Vault of Glass Key|",
+        "requires": "|Vault of Glass Key| AND |Cleared Raid:3| AND (|Legend of Acrius| AND |Titan Unlock| AND |Roaring Flames| AND |Synthoceps| AND |Solar Unlock|)",
         "starting": true
     },
     "Deep Stone Crypt": {
-        "requires": "|Deep Stone Crypt Key|"
+        "requires": "|Deep Stone Crypt Key| AND (|Parasite| AND |Titan Unlock| AND (|Arc Unlock| OR |Prismatic Unlock|) AND |Cuirass of the Falling Star| AND |Crossbow / High-Impact|)"
     },
     "Garden of Salvation": {
-        "requires": "|Garden of Salvation Key|"
+        "requires": "|Garden of Salvation Key| AND ((|Leviathan's Breath| OR |@Weapons - Linear Fusion Rifle|) AND |@Roam Weapons|)"
     },
     "Last Wish": {
-        "requires": "|Last Wish Key|"
+        "requires": "|Last Wish Key| AND (|Thunderlord| AND |Storm's Keep| AND |Titan Unlock| AND |Arc Unlock| AND |Stoicism| AND ((|Prismatic Unlock| AND |Facet of Ruin|) OR (|Stasis Unlock| AND |Whisper of Fissures|)))"
     },
     "Dungeon": {
         "connects_to": [

@@ -6,7 +6,8 @@
             "category": [
                 "Subclass Unlock"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Void Unlock",
@@ -20,35 +21,40 @@
             "category": [
                 "Subclass Unlock"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Stasis Unlock",
             "category": [
                 "Subclass Unlock"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Strand Unlock",
             "category": [
                 "Subclass Unlock"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Prismatic Unlock",
             "category": [
                 "Subclass Unlock"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Titan Unlock",
             "category": [
                 "Class Unlock"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Hunter Unlock",
@@ -433,7 +439,8 @@
                 "Power Weapons",
                 "Weapons - Rank A"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Fusion Rifle / Aggressive",
@@ -512,7 +519,8 @@
                 "Weapons - Rank B",
                 "Power Weapons",
                 "DPS Weapons"
-            ]
+            ],
+            "progression": true
         },
         {
             "name": "Rocket Launcher / Aggressive",
@@ -521,7 +529,8 @@
                 "Weapons - Rank B",
                 "Power Weapons",
                 "DPS Weapons"
-            ]
+            ],
+            "progression": true
         },
         {
             "name": "Shotgun / Heavy Burst",
@@ -550,7 +559,8 @@
                 "Energy Weapons",
                 "Kinetic Weapons",
                 "DPS Weapons"
-            ]
+            ],
+            "progression": true
         },
         {
             "name": "Sword / Caster",
@@ -724,7 +734,8 @@
                 "Weapons - Rank B",
                 "Kinetic Weapons",
                 "Roam Weapons"
-            ]
+            ],
+            "progression": true
         },
         {
             "name": "SMG / Adaptive",
@@ -761,7 +772,8 @@
                 "Weapons - Rank C",
                 "DPS Weapons"
             ],
-            "filler": true
+            "filler": true,
+            "progression": true
         },
         {
             "name": "Grenade Launcher - Drum / Compressed Wave",
@@ -779,7 +791,8 @@
                 "Weapons - Rank C",
                 "DPS Weapons"
             ],
-            "filler": true
+            "filler": true,
+            "progression": true
         },
         {
             "name": "Rocket Launcher / High-Impact",
@@ -806,7 +819,8 @@
                 "Weapons - Rank C",
                 "DPS Weapons"
             ],
-            "filler": true
+            "filler": true,
+            "progression": true
         },
         {
             "name": "Shotgun / Rapid-Fire Slug",
@@ -815,7 +829,8 @@
                 "Weapons - Rank C",
                 "DPS Weapons"
             ],
-            "filler": true
+            "filler": true,
+            "progression": true
         },
         {
             "name": "Sniper Rifle / Adaptive",
@@ -824,7 +839,8 @@
                 "Weapons - Rank C",
                 "DPS Weapons"
             ],
-            "filler": true
+            "filler": true,
+            "progression": true
         },
         {
             "name": "Sniper Rifle / Aggressive",
@@ -833,7 +849,8 @@
                 "Weapons - Rank C",
                 "DPS Weapons"
             ],
-            "filler": true
+            "filler": true,
+            "progression": true
         },
         {
             "name": "Sword / Adaptive",
@@ -842,7 +859,7 @@
                 "Weapons - Rank C",
                 "DPS Weapons"
             ],
-            "filler": true
+            "progression": true
         },
         {
             "name": "Sword / Aggressive",
@@ -1077,7 +1094,7 @@
                 "Weapons - Rank D",
                 "DPS Weapons"
             ],
-            "filler": true
+            "progression": true
         },
         {
             "name": "Linear Fusion Rifle / Precision",
@@ -1086,7 +1103,7 @@
                 "Weapons - Rank D",
                 "DPS Weapons"
             ],
-            "filler": true
+            "progression": true
         },
         {
             "name": "Rocket Launcher / Precision",
@@ -1258,7 +1275,8 @@
                 "Titan",
                 "Aspects - Rank S"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Ascension",
@@ -1348,7 +1366,8 @@
                 "Titan",
                 "Aspects - Rank A"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Into the Fray",
@@ -1384,7 +1403,8 @@
                 "Titan",
                 "Aspects - Rank B"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Touch of Flame",
@@ -1402,7 +1422,8 @@
                 "Titan",
                 "Aspects - Rank B"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Mindspun Invocation",
@@ -1993,7 +2014,8 @@
                 "Fragments - Prismatic",
                 "Fragments - Rank B"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Thread of Continuity",
@@ -2017,7 +2039,8 @@
                 "Fragments - Stasis",
                 "Fragments - Rank B"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Facet of Blessing",
@@ -2513,7 +2536,8 @@
             "category": [
                 "Grenades - Arc"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Lightning Grenade",
@@ -2625,7 +2649,8 @@
             "category": [
                 "Grenades - Strand"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Shackle Grenade",
@@ -2868,7 +2893,8 @@
                 "Exotic Armors",
                 "Exotic Armors - Rank S"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Cyrtarachne's Facade",
@@ -3290,7 +3316,8 @@
                 "Exotic Armors",
                 "Exotic Armors - Rank S"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Peregrine Greaves",
@@ -3508,7 +3535,8 @@
                 "Exotic Armors",
                 "Exotic Armors - Rank S"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Stormdancer's Brace",
@@ -3546,7 +3574,8 @@
                 "Exotic Armors",
                 "Exotic Armors - Rank S"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "The Bombardiers",
@@ -4055,7 +4084,8 @@
                 "DPS Weapons",
                 "Exotic Weapons",
                 "Exotic Weapons - Rank D"
-            ]
+            ],
+            "progression": true
         },
         {
             "name": "Khvostov 7G-0X",
@@ -4145,7 +4175,8 @@
                 "DPS Weapons",
                 "Exotic Weapons",
                 "Exotic Weapons - Rank D"
-            ]
+            ],
+            "progression": true
         },
         {
             "name": "Vexcalibur",
@@ -4249,7 +4280,7 @@
             "name": "Ex Diris",
             "category": [
                 "Ex Diris",
-                "Weapons - Grenade Launcher",
+                "Weapons - Grenade Launcher - Breech",
                 "Energy Weapons",
                 "Roam Weapons",
                 "DPS Weapons",
@@ -4343,7 +4374,8 @@
                 "DPS Weapons",
                 "Exotic Weapons",
                 "Exotic Weapons - Rank E"
-            ]
+            ],
+            "progression": true
         },
         {
             "name": "Malfeasance",
