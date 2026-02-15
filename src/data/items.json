@@ -14,7 +14,8 @@
             "category": [
                 "Subclass Unlock"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Solar Unlock",
@@ -68,7 +69,8 @@
             "category": [
                 "Class Unlock"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "EDZ Key",
@@ -1413,7 +1415,8 @@
                 "Warlock",
                 "Aspects - Rank B"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Touch of Thunder",
@@ -1612,7 +1615,8 @@
                 "Warlock",
                 "Aspects - Rank C"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Trapper's Ambush",
@@ -1918,7 +1922,8 @@
                 "Fragments - Solar",
                 "Fragments - Rank B"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Ember of Char",
@@ -2614,7 +2619,8 @@
             "category": [
                 "Grenades - Void"
             ],
-            "filler": true
+            "filler": true,
+            "progression": true
         },
         {
             "name": "Axion Bolt",
@@ -2871,7 +2877,8 @@
                 "Exotic Armors",
                 "Exotic Armors - Rank S"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Crest of Alpha Lupi",
@@ -3559,7 +3566,8 @@
                 "Exotic Armors",
                 "Exotic Armors - Rank S"
             ],
-            "useful": true
+            "useful": true,
+            "progression": true
         },
         {
             "name": "Swarmers",

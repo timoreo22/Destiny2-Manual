@@ -85,13 +85,13 @@
         "starting": true
     },
     "Deep Stone Crypt": {
-        "requires": "|Deep Stone Crypt Key| AND (|Parasite| AND |Titan Unlock| AND (|Arc Unlock| OR |Prismatic Unlock|) AND |Cuirass of the Falling Star| AND |Crossbow / High-Impact|)"
+        "requires": "|Deep Stone Crypt Key| AND ((|Parasite| AND |Titan Unlock| AND (|Arc Unlock| OR |Prismatic Unlock|) AND |Cuirass of the Falling Star| AND |Crossbow / High-Impact|) OR (|Warlock Unlock| AND |Solar Unlock| AND |Sunbracers| AND |Touch of Flame| AND |Ember of Ashes|))"
     },
     "Garden of Salvation": {
-        "requires": "|Garden of Salvation Key| AND ((|Leviathan's Breath| OR |@Weapons - Linear Fusion Rifle|) AND |@Roam Weapons|)"
+        "requires": "|Garden of Salvation Key| AND ((|Leviathan's Breath| OR |@Weapons - Linear Fusion Rifle|) AND |@Roam Weapons| AND (|Warlock Unlock| OR |Titan Unlock|))"
     },
     "Last Wish": {
-        "requires": "|Last Wish Key| AND (|Thunderlord| AND |Storm's Keep| AND |Titan Unlock| AND |Arc Unlock| AND |Stoicism| AND ((|Prismatic Unlock| AND |Facet of Ruin|) OR (|Stasis Unlock| AND |Whisper of Fissures|)))"
+        "requires": "|Last Wish Key| AND ((|Thunderlord| AND |Storm's Keep| AND |Titan Unlock| AND |Arc Unlock| AND |Stoicism| AND ((|Prismatic Unlock| AND |Facet of Ruin|) OR (|Stasis Unlock| AND |Whisper of Fissures|))) OR (|Thunderlord| AND |Warlock Unlock| AND |Void Unlock| AND |Magnetic Grenade| AND |Contraverse Hold| AND |Chaos Accelerant| AND |Echo of Undermining|))"
     },
     "Dungeon": {
         "connects_to": [
