@@ -295,8 +295,8 @@
             ],
             "region": "Pale Heart"
         },
-        {
-            "name": "Trostland - Chest",
+         {
+            "name": "Trostland - Chest 1",
             "category": [
                 "EDZ - Chest",
                 "Destination Chest"
@@ -304,7 +304,7 @@
             "region": "EDZ"
         },
         {
-            "name": "Outskirts - Chest",
+            "name": "Outskirts - Chest 1",
             "category": [
                 "EDZ - Chest",
                 "Destination Chest"
@@ -312,7 +312,7 @@
             "region": "EDZ"
         },
         {
-            "name": "Winding Cove - Chest",
+            "name": "Winding Cove - Chest 1",
             "category": [
                 "EDZ - Chest",
                 "Destination Chest"
@@ -320,7 +320,7 @@
             "region": "EDZ"
         },
         {
-            "name": "Firebase Hades - Chest",
+            "name": "Firebase Hades - Chest 1",
             "category": [
                 "EDZ - Chest",
                 "Destination Chest"
@@ -328,7 +328,7 @@
             "region": "EDZ"
         },
         {
-            "name": "The Sludge - Chest",
+            "name": "The Sludge - Chest 1",
             "category": [
                 "EDZ - Chest",
                 "Destination Chest"
@@ -336,7 +336,7 @@
             "region": "EDZ"
         },
         {
-            "name": "The Gulch - Chest",
+            "name": "The Gulch - Chest 1",
             "category": [
                 "EDZ - Chest",
                 "Destination Chest"
@@ -344,7 +344,7 @@
             "region": "EDZ"
         },
         {
-            "name": "Sunken Iles - Chest",
+            "name": "Sunken Iles - Chest 1",
             "category": [
                 "EDZ - Chest",
                 "Destination Chest"
@@ -352,7 +352,7 @@
             "region": "EDZ"
         },
         {
-            "name": "The Divide - Chest",
+            "name": "The Divide - Chest 1",
             "category": [
                 "Cosmodrome - Chest",
                 "Destination Chest"
@@ -360,7 +360,7 @@
             "region": "Cosmodrome"
         },
         {
-            "name": "The Steppes - Chest",
+            "name": "The Steppes - Chest 1",
             "category": [
                 "Cosmodrome - Chest",
                 "Destination Chest"
@@ -368,7 +368,7 @@
             "region": "Cosmodrome"
         },
         {
-            "name": "Mothyards - Chest",
+            "name": "Mothyards - Chest 1",
             "category": [
                 "Cosmodrome - Chest",
                 "Destination Chest"
@@ -376,7 +376,7 @@
             "region": "Cosmodrome"
         },
         {
-            "name": "Skywatch - Chest",
+            "name": "Skywatch - Chest 1",
             "category": [
                 "Cosmodrome - Chest",
                 "Destination Chest"
@@ -384,7 +384,7 @@
             "region": "Cosmodrome"
         },
         {
-            "name": "Forgotten Shore - Chest",
+            "name": "Forgotten Shore - Chest 1",
             "category": [
                 "Cosmodrome - Chest",
                 "Destination Chest"
@@ -392,7 +392,7 @@
             "region": "Cosmodrome"
         },
         {
-            "name": "Archer's Line - Chest",
+            "name": "Archer's Line - Chest 1",
             "category": [
                 "Moon - Chest",
                 "Destination Chest"
@@ -400,7 +400,7 @@
             "region": "Moon"
         },
         {
-            "name": "Anchor of Light - Chest",
+            "name": "Anchor of Light - Chest 1",
             "category": [
                 "Moon - Chest",
                 "Destination Chest"
@@ -408,7 +408,7 @@
             "region": "Moon"
         },
         {
-            "name": "Hellmouth - Chest",
+            "name": "Hellmouth - Chest 1",
             "category": [
                 "Moon - Chest",
                 "Destination Chest"
@@ -416,7 +416,7 @@
             "region": "Moon"
         },
         {
-            "name": "Sorrow's Harbor - Chest",
+            "name": "Sorrow's Harbor - Chest 1",
             "category": [
                 "Moon - Chest",
                 "Destination Chest"
@@ -424,7 +424,7 @@
             "region": "Moon"
         },
         {
-            "name": "Cadmus Ridge - Chest",
+            "name": "Cadmus Ridge - Chest 1",
             "category": [
                 "Europa - Chest",
                 "Destination Chest"
@@ -432,7 +432,7 @@
             "region": "Europa"
         },
         {
-            "name": "Eventide Ruins - Chest",
+            "name": "Eventide Ruins - Chest 1",
             "category": [
                 "Europa - Chest",
                 "Destination Chest"
@@ -440,7 +440,7 @@
             "region": "Europa"
         },
         {
-            "name": "Asterion Abyss - Chest",
+            "name": "Asterion Abyss - Chest 1",
             "category": [
                 "Europa - Chest",
                 "Destination Chest"
@@ -448,7 +448,7 @@
             "region": "Europa"
         },
         {
-            "name": "Zephyr Concourse - Chest",
+            "name": "Zephyr Concourse - Chest 1",
             "category": [
                 "Neomuna - Chest",
                 "Destination Chest"
@@ -456,7 +456,7 @@
             "region": "Neomuna"
         },
         {
-            "name": "Liming Harbor - Chest",
+            "name": "Liming Harbor - Chest 1",
             "category": [
                 "Neomuna - Chest",
                 "Destination Chest"
@@ -464,7 +464,7 @@
             "region": "Neomuna"
         },
         {
-            "name": "Ahimsa Park - Chest",
+            "name": "Ahimsa Park - Chest 1",
             "category": [
                 "Neomuna - Chest",
                 "Destination Chest"
@@ -472,7 +472,7 @@
             "region": "Neomuna"
         },
         {
-            "name": "Exodus Black - Chest",
+            "name": "Exodus Black - Chest 1",
             "category": [
                 "Nessus - Chest",
                 "Destination Chest"
@@ -480,7 +480,7 @@
             "region": "Nessus"
         },
         {
-            "name": "Glade of Echoes - Chest",
+            "name": "Glade of Echoes - Chest 1",
             "category": [
                 "Nessus - Chest",
                 "Destination Chest"
@@ -488,7 +488,7 @@
             "region": "Nessus"
         },
         {
-            "name": "Hallows - Chest",
+            "name": "Hallows - Chest 1",
             "category": [
                 "Nessus - Chest",
                 "Destination Chest"
@@ -496,7 +496,7 @@
             "region": "Nessus"
         },
         {
-            "name": "Artifact's Edge - Chest",
+            "name": "Artifact's Edge - Chest 1",
             "category": [
                 "Nessus - Chest",
                 "Destination Chest"
@@ -504,7 +504,7 @@
             "region": "Nessus"
         },
         {
-            "name": "Watcher's Grave - Chest",
+            "name": "Watcher's Grave - Chest 1",
             "category": [
                 "Nessus - Chest",
                 "Destination Chest"
@@ -512,7 +512,7 @@
             "region": "Nessus"
         },
         {
-            "name": "The Tangle - Chest",
+            "name": "The Tangle - Chest 1",
             "category": [
                 "Nessus - Chest",
                 "Destination Chest"
@@ -520,7 +520,7 @@
             "region": "Nessus"
         },
         {
-            "name": "The Cistern - Chest",
+            "name": "The Cistern - Chest 1",
             "category": [
                 "Nessus - Chest",
                 "Destination Chest"
@@ -528,7 +528,7 @@
             "region": "Nessus"
         },
         {
-            "name": "Divalian Mists - Chest",
+            "name": "Divalian Mists - Chest 1",
             "category": [
                 "Dreaming City - Chest",
                 "Destination Chest"
@@ -536,7 +536,7 @@
             "region": "Dreaming City"
         },
         {
-            "name": "The Strand - Chest",
+            "name": "The Strand - Chest 1",
             "category": [
                 "Dreaming City - Chest",
                 "Destination Chest"
@@ -544,7 +544,7 @@
             "region": "Dreaming City"
         },
         {
-            "name": "Rheasilvia - Chest",
+            "name": "Rheasilvia - Chest 1",
             "category": [
                 "Dreaming City - Chest",
                 "Destination Chest"
@@ -552,7 +552,7 @@
             "region": "Dreaming City"
         },
         {
-            "name": "Quagmire - Chest",
+            "name": "Quagmire - Chest 1",
             "category": [
                 "Throne World - Chest",
                 "Destination Chest"
@@ -560,7 +560,7 @@
             "region": "Throne World"
         },
         {
-            "name": "Florescent Canal - Chest",
+            "name": "Florescent Canal - Chest 1",
             "category": [
                 "Throne World - Chest",
                 "Destination Chest"
@@ -568,7 +568,7 @@
             "region": "Throne World"
         },
         {
-            "name": "Miasma - Chest",
+            "name": "Miasma - Chest 1",
             "category": [
                 "Throne World - Chest",
                 "Destination Chest"
@@ -576,245 +576,1295 @@
             "region": "Throne World"
         },
         {
-            "name": "Trostland - Patrol",
+            "name": "Trostland - Patrol 1",
             "category": [
                 "EDZ - Patrol"
             ],
             "region": "EDZ"
         },
         {
-            "name": "Outskirts - Patrol",
+            "name": "Outskirts - Patrol 1",
             "category": [
                 "EDZ - Patrol"
             ],
             "region": "EDZ"
         },
         {
-            "name": "Winding Cove - Patrol",
+            "name": "Winding Cove - Patrol 1",
             "category": [
                 "EDZ - Patrol"
             ],
             "region": "EDZ"
         },
         {
-            "name": "Firebase Hades - Patrol",
+            "name": "Firebase Hades - Patrol 1",
             "category": [
                 "EDZ - Patrol"
             ],
             "region": "EDZ"
         },
         {
-            "name": "The Sludge - Patrol",
+            "name": "The Sludge - Patrol 1",
             "category": [
                 "EDZ - Patrol"
             ],
             "region": "EDZ"
         },
         {
-            "name": "The Gulch - Patrol",
+            "name": "The Gulch - Patrol 1",
             "category": [
                 "EDZ - Patrol"
             ],
             "region": "EDZ"
         },
         {
-            "name": "Sunken Iles - Patrol",
+            "name": "Sunken Iles - Patrol 1",
             "category": [
                 "EDZ - Patrol"
             ],
             "region": "EDZ"
         },
         {
-            "name": "The Divide - Patrol",
+            "name": "The Divide - Patrol 1",
             "category": [
                 "Cosmodrome - Patrol"
             ],
             "region": "Cosmodrome"
         },
         {
-            "name": "The Steppes - Patrol",
+            "name": "The Steppes - Patrol 1",
             "category": [
                 "Cosmodrome - Patrol"
             ],
             "region": "Cosmodrome"
         },
         {
-            "name": "Mothyards - Patrol",
+            "name": "Mothyards - Patrol 1",
             "category": [
                 "Cosmodrome - Patrol"
             ],
             "region": "Cosmodrome"
         },
         {
-            "name": "Skywatch - Patrol",
+            "name": "Skywatch - Patrol 1",
             "category": [
                 "Cosmodrome - Patrol"
             ],
             "region": "Cosmodrome"
         },
         {
-            "name": "Forgotten Shore - Patrol",
+            "name": "Forgotten Shore - Patrol 1",
             "category": [
                 "Cosmodrome - Patrol"
             ],
             "region": "Cosmodrome"
         },
         {
-            "name": "Archer's Line - Patrol",
+            "name": "Archer's Line - Patrol 1",
             "category": [
                 "Moon - Patrol"
             ],
             "region": "Moon"
         },
         {
-            "name": "Anchor of Light - Patrol",
+            "name": "Anchor of Light - Patrol 1",
             "category": [
                 "Moon - Patrol"
             ],
             "region": "Moon"
         },
         {
-            "name": "Hellmouth - Patrol",
+            "name": "Hellmouth - Patrol 1",
             "category": [
                 "Moon - Patrol"
             ],
             "region": "Moon"
         },
         {
-            "name": "Sorrow's Harbor - Patrol",
+            "name": "Sorrow's Harbor - Patrol 1",
             "category": [
                 "Moon - Patrol"
             ],
             "region": "Moon"
         },
         {
-            "name": "Cadmus Ridge - Patrol",
+            "name": "Cadmus Ridge - Patrol 1",
             "category": [
                 "Europa - Patrol"
             ],
             "region": "Europa"
         },
         {
-            "name": "Eventide Ruins - Patrol",
+            "name": "Eventide Ruins - Patrol 1",
             "category": [
                 "Europa - Patrol"
             ],
             "region": "Europa"
         },
         {
-            "name": "Asterion Abyss - Patrol",
+            "name": "Asterion Abyss - Patrol 1",
             "category": [
                 "Europa - Patrol"
             ],
             "region": "Europa"
         },
         {
-            "name": "Zephyr Concourse - Patrol",
+            "name": "Zephyr Concourse - Patrol 1",
             "category": [
                 "Neomuna - Patrol"
             ],
             "region": "Neomuna"
         },
         {
-            "name": "Liming Harbor - Patrol",
+            "name": "Liming Harbor - Patrol 1",
             "category": [
                 "Neomuna - Patrol"
             ],
             "region": "Neomuna"
         },
         {
-            "name": "Ahimsa Park - Patrol",
+            "name": "Ahimsa Park - Patrol 1",
             "category": [
                 "Neomuna - Patrol"
             ],
             "region": "Neomuna"
         },
         {
-            "name": "Exodus Black - Patrol",
+            "name": "Exodus Black - Patrol 1",
             "category": [
                 "Nessus - Patrol"
             ],
             "region": "Nessus"
         },
         {
-            "name": "Glade of Echoes - Patrol",
+            "name": "Glade of Echoes - Patrol 1",
             "category": [
                 "Nessus - Patrol"
             ],
             "region": "Nessus"
         },
         {
-            "name": "Hallows - Patrol",
+            "name": "Hallows - Patrol 1",
             "category": [
                 "Nessus - Patrol"
             ],
             "region": "Nessus"
         },
         {
-            "name": "Artifact's Edge - Patrol",
+            "name": "Artifact's Edge - Patrol 1",
             "category": [
                 "Nessus - Patrol"
             ],
             "region": "Nessus"
         },
         {
-            "name": "Watcher's Grave - Patrol",
+            "name": "Watcher's Grave - Patrol 1",
             "category": [
                 "Nessus - Patrol"
             ],
             "region": "Nessus"
         },
         {
-            "name": "The Tangle - Patrol",
+            "name": "The Tangle - Patrol 1",
             "category": [
                 "Nessus - Patrol"
             ],
             "region": "Nessus"
         },
         {
-            "name": "The Cistern - Patrol",
+            "name": "The Cistern - Patrol 1",
             "category": [
                 "Nessus - Patrol"
             ],
             "region": "Nessus"
         },
         {
-            "name": "Divalian Mists - Patrol",
+            "name": "Divalian Mists - Patrol 1",
             "category": [
                 "Dreaming City - Patrol"
             ],
             "region": "Dreaming City"
         },
         {
-            "name": "The Strand - Patrol",
+            "name": "The Strand - Patrol 1",
             "category": [
                 "Dreaming City - Patrol"
             ],
             "region": "Dreaming City"
         },
         {
-            "name": "Rheasilvia - Patrol",
+            "name": "Rheasilvia - Patrol 1",
             "category": [
                 "Dreaming City - Patrol"
             ],
             "region": "Dreaming City"
         },
         {
-            "name": "Quagmire - Patrol",
+            "name": "Quagmire - Patrol 1",
             "category": [
                 "Throne World - Patrol"
             ],
             "region": "Throne World"
         },
         {
-            "name": "Florescent Canal - Patrol",
+            "name": "Florescent Canal - Patrol 1",
             "category": [
                 "Throne World - Patrol"
             ],
             "region": "Throne World"
         },
         {
-            "name": "Miasma - Patrol",
+            "name": "Miasma - Patrol 1",
+            "category": [
+                "Throne World - Patrol"
+            ],
+            "region": "Throne World"
+        },
+                {
+            "name": "Trostland - Chest 2",
+            "category": [
+                "EDZ - Chest",
+                "Destination Chest"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Outskirts - Chest 2",
+            "category": [
+                "EDZ - Chest",
+                "Destination Chest"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Winding Cove - Chest 2",
+            "category": [
+                "EDZ - Chest",
+                "Destination Chest"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Firebase Hades - Chest 2",
+            "category": [
+                "EDZ - Chest",
+                "Destination Chest"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "The Sludge - Chest 2",
+            "category": [
+                "EDZ - Chest",
+                "Destination Chest"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "The Gulch - Chest 2",
+            "category": [
+                "EDZ - Chest",
+                "Destination Chest"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Sunken Iles - Chest 2",
+            "category": [
+                "EDZ - Chest",
+                "Destination Chest"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "The Divide - Chest 2",
+            "category": [
+                "Cosmodrome - Chest",
+                "Destination Chest"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "The Steppes - Chest 2",
+            "category": [
+                "Cosmodrome - Chest",
+                "Destination Chest"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Mothyards - Chest 2",
+            "category": [
+                "Cosmodrome - Chest",
+                "Destination Chest"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Skywatch - Chest 2",
+            "category": [
+                "Cosmodrome - Chest",
+                "Destination Chest"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Forgotten Shore - Chest 2",
+            "category": [
+                "Cosmodrome - Chest",
+                "Destination Chest"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Archer's Line - Chest 2",
+            "category": [
+                "Moon - Chest",
+                "Destination Chest"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Anchor of Light - Chest 2",
+            "category": [
+                "Moon - Chest",
+                "Destination Chest"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Hellmouth - Chest 2",
+            "category": [
+                "Moon - Chest",
+                "Destination Chest"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Sorrow's Harbor - Chest 2",
+            "category": [
+                "Moon - Chest",
+                "Destination Chest"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Cadmus Ridge - Chest 2",
+            "category": [
+                "Europa - Chest",
+                "Destination Chest"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Eventide Ruins - Chest 2",
+            "category": [
+                "Europa - Chest",
+                "Destination Chest"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Asterion Abyss - Chest 2",
+            "category": [
+                "Europa - Chest",
+                "Destination Chest"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Zephyr Concourse - Chest 2",
+            "category": [
+                "Neomuna - Chest",
+                "Destination Chest"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Liming Harbor - Chest 2",
+            "category": [
+                "Neomuna - Chest",
+                "Destination Chest"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Ahimsa Park - Chest 2",
+            "category": [
+                "Neomuna - Chest",
+                "Destination Chest"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Exodus Black - Chest 2",
+            "category": [
+                "Nessus - Chest",
+                "Destination Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Glade of Echoes - Chest 2",
+            "category": [
+                "Nessus - Chest",
+                "Destination Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Hallows - Chest 2",
+            "category": [
+                "Nessus - Chest",
+                "Destination Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Artifact's Edge - Chest 2",
+            "category": [
+                "Nessus - Chest",
+                "Destination Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Watcher's Grave - Chest 2",
+            "category": [
+                "Nessus - Chest",
+                "Destination Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "The Tangle - Chest 2",
+            "category": [
+                "Nessus - Chest",
+                "Destination Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "The Cistern - Chest 2",
+            "category": [
+                "Nessus - Chest",
+                "Destination Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Divalian Mists - Chest 2",
+            "category": [
+                "Dreaming City - Chest",
+                "Destination Chest"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "The Strand - Chest 2",
+            "category": [
+                "Dreaming City - Chest",
+                "Destination Chest"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "Rheasilvia - Chest 2",
+            "category": [
+                "Dreaming City - Chest",
+                "Destination Chest"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "Quagmire - Chest 2",
+            "category": [
+                "Throne World - Chest",
+                "Destination Chest"
+            ],
+            "region": "Throne World"
+        },
+        {
+            "name": "Florescent Canal - Chest 2",
+            "category": [
+                "Throne World - Chest",
+                "Destination Chest"
+            ],
+            "region": "Throne World"
+        },
+        {
+            "name": "Miasma - Chest 2",
+            "category": [
+                "Throne World - Chest",
+                "Destination Chest"
+            ],
+            "region": "Throne World"
+        },
+        {
+            "name": "Trostland - Patrol 2",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Outskirts - Patrol 2",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Winding Cove - Patrol 2",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Firebase Hades - Patrol 2",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "The Sludge - Patrol 2",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "The Gulch - Patrol 2",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Sunken Iles - Patrol 2",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "The Divide - Patrol 2",
+            "category": [
+                "Cosmodrome - Patrol"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "The Steppes - Patrol 2",
+            "category": [
+                "Cosmodrome - Patrol"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Mothyards - Patrol 2",
+            "category": [
+                "Cosmodrome - Patrol"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Skywatch - Patrol 2",
+            "category": [
+                "Cosmodrome - Patrol"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Forgotten Shore - Patrol 2",
+            "category": [
+                "Cosmodrome - Patrol"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Archer's Line - Patrol 2",
+            "category": [
+                "Moon - Patrol"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Anchor of Light - Patrol 2",
+            "category": [
+                "Moon - Patrol"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Hellmouth - Patrol 2",
+            "category": [
+                "Moon - Patrol"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Sorrow's Harbor - Patrol 2",
+            "category": [
+                "Moon - Patrol"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Cadmus Ridge - Patrol 2",
+            "category": [
+                "Europa - Patrol"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Eventide Ruins - Patrol 2",
+            "category": [
+                "Europa - Patrol"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Asterion Abyss - Patrol 2",
+            "category": [
+                "Europa - Patrol"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Zephyr Concourse - Patrol 2",
+            "category": [
+                "Neomuna - Patrol"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Liming Harbor - Patrol 2",
+            "category": [
+                "Neomuna - Patrol"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Ahimsa Park - Patrol 2",
+            "category": [
+                "Neomuna - Patrol"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Exodus Black - Patrol 2",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Glade of Echoes - Patrol 2",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Hallows - Patrol 2",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Artifact's Edge - Patrol 2",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Watcher's Grave - Patrol 2",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "The Tangle - Patrol 2",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "The Cistern - Patrol 2",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Divalian Mists - Patrol 2",
+            "category": [
+                "Dreaming City - Patrol"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "The Strand - Patrol 2",
+            "category": [
+                "Dreaming City - Patrol"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "Rheasilvia - Patrol 2",
+            "category": [
+                "Dreaming City - Patrol"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "Quagmire - Patrol 2",
+            "category": [
+                "Throne World - Patrol"
+            ],
+            "region": "Throne World"
+        },
+        {
+            "name": "Florescent Canal - Patrol 2",
+            "category": [
+                "Throne World - Patrol"
+            ],
+            "region": "Throne World"
+        },
+        {
+            "name": "Miasma - Patrol 2",
+            "category": [
+                "Throne World - Patrol"
+            ],
+            "region": "Throne World"
+        },
+                {
+            "name": "Trostland - Chest 3",
+            "category": [
+                "EDZ - Chest",
+                "Destination Chest"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Outskirts - Chest 3",
+            "category": [
+                "EDZ - Chest",
+                "Destination Chest"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Winding Cove - Chest 3",
+            "category": [
+                "EDZ - Chest",
+                "Destination Chest"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Firebase Hades - Chest 3",
+            "category": [
+                "EDZ - Chest",
+                "Destination Chest"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "The Sludge - Chest 3",
+            "category": [
+                "EDZ - Chest",
+                "Destination Chest"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "The Gulch - Chest 3",
+            "category": [
+                "EDZ - Chest",
+                "Destination Chest"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Sunken Iles - Chest 3",
+            "category": [
+                "EDZ - Chest",
+                "Destination Chest"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "The Divide - Chest 3",
+            "category": [
+                "Cosmodrome - Chest",
+                "Destination Chest"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "The Steppes - Chest 3",
+            "category": [
+                "Cosmodrome - Chest",
+                "Destination Chest"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Mothyards - Chest 3",
+            "category": [
+                "Cosmodrome - Chest",
+                "Destination Chest"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Skywatch - Chest 3",
+            "category": [
+                "Cosmodrome - Chest",
+                "Destination Chest"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Forgotten Shore - Chest 3",
+            "category": [
+                "Cosmodrome - Chest",
+                "Destination Chest"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Archer's Line - Chest 3",
+            "category": [
+                "Moon - Chest",
+                "Destination Chest"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Anchor of Light - Chest 3",
+            "category": [
+                "Moon - Chest",
+                "Destination Chest"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Hellmouth - Chest 3",
+            "category": [
+                "Moon - Chest",
+                "Destination Chest"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Sorrow's Harbor - Chest 3",
+            "category": [
+                "Moon - Chest",
+                "Destination Chest"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Cadmus Ridge - Chest 3",
+            "category": [
+                "Europa - Chest",
+                "Destination Chest"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Eventide Ruins - Chest 3",
+            "category": [
+                "Europa - Chest",
+                "Destination Chest"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Asterion Abyss - Chest 3",
+            "category": [
+                "Europa - Chest",
+                "Destination Chest"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Zephyr Concourse - Chest 3",
+            "category": [
+                "Neomuna - Chest",
+                "Destination Chest"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Liming Harbor - Chest 3",
+            "category": [
+                "Neomuna - Chest",
+                "Destination Chest"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Ahimsa Park - Chest 3",
+            "category": [
+                "Neomuna - Chest",
+                "Destination Chest"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Exodus Black - Chest 3",
+            "category": [
+                "Nessus - Chest",
+                "Destination Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Glade of Echoes - Chest 3",
+            "category": [
+                "Nessus - Chest",
+                "Destination Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Hallows - Chest 3",
+            "category": [
+                "Nessus - Chest",
+                "Destination Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Artifact's Edge - Chest 3",
+            "category": [
+                "Nessus - Chest",
+                "Destination Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Watcher's Grave - Chest 3",
+            "category": [
+                "Nessus - Chest",
+                "Destination Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "The Tangle - Chest 3",
+            "category": [
+                "Nessus - Chest",
+                "Destination Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "The Cistern - Chest 3",
+            "category": [
+                "Nessus - Chest",
+                "Destination Chest"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Divalian Mists - Chest 3",
+            "category": [
+                "Dreaming City - Chest",
+                "Destination Chest"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "The Strand - Chest 3",
+            "category": [
+                "Dreaming City - Chest",
+                "Destination Chest"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "Rheasilvia - Chest 3",
+            "category": [
+                "Dreaming City - Chest",
+                "Destination Chest"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "Quagmire - Chest 3",
+            "category": [
+                "Throne World - Chest",
+                "Destination Chest"
+            ],
+            "region": "Throne World"
+        },
+        {
+            "name": "Florescent Canal - Chest 3",
+            "category": [
+                "Throne World - Chest",
+                "Destination Chest"
+            ],
+            "region": "Throne World"
+        },
+        {
+            "name": "Miasma - Chest 3",
+            "category": [
+                "Throne World - Chest",
+                "Destination Chest"
+            ],
+            "region": "Throne World"
+        },
+        {
+            "name": "Trostland - Patrol 3",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Outskirts - Patrol 3",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Winding Cove - Patrol 3",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Firebase Hades - Patrol 3",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "The Sludge - Patrol 3",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "The Gulch - Patrol 3",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "Sunken Iles - Patrol 3",
+            "category": [
+                "EDZ - Patrol"
+            ],
+            "region": "EDZ"
+        },
+        {
+            "name": "The Divide - Patrol 3",
+            "category": [
+                "Cosmodrome - Patrol"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "The Steppes - Patrol 3",
+            "category": [
+                "Cosmodrome - Patrol"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Mothyards - Patrol 3",
+            "category": [
+                "Cosmodrome - Patrol"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Skywatch - Patrol 3",
+            "category": [
+                "Cosmodrome - Patrol"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Forgotten Shore - Patrol 3",
+            "category": [
+                "Cosmodrome - Patrol"
+            ],
+            "region": "Cosmodrome"
+        },
+        {
+            "name": "Archer's Line - Patrol 3",
+            "category": [
+                "Moon - Patrol"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Anchor of Light - Patrol 3",
+            "category": [
+                "Moon - Patrol"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Hellmouth - Patrol 3",
+            "category": [
+                "Moon - Patrol"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Sorrow's Harbor - Patrol 3",
+            "category": [
+                "Moon - Patrol"
+            ],
+            "region": "Moon"
+        },
+        {
+            "name": "Cadmus Ridge - Patrol 3",
+            "category": [
+                "Europa - Patrol"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Eventide Ruins - Patrol 3",
+            "category": [
+                "Europa - Patrol"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Asterion Abyss - Patrol 3",
+            "category": [
+                "Europa - Patrol"
+            ],
+            "region": "Europa"
+        },
+        {
+            "name": "Zephyr Concourse - Patrol 3",
+            "category": [
+                "Neomuna - Patrol"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Liming Harbor - Patrol 3",
+            "category": [
+                "Neomuna - Patrol"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Ahimsa Park - Patrol 3",
+            "category": [
+                "Neomuna - Patrol"
+            ],
+            "region": "Neomuna"
+        },
+        {
+            "name": "Exodus Black - Patrol 3",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Glade of Echoes - Patrol 3",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Hallows - Patrol 3",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Artifact's Edge - Patrol 3",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Watcher's Grave - Patrol 3",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "The Tangle - Patrol 3",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "The Cistern - Patrol 3",
+            "category": [
+                "Nessus - Patrol"
+            ],
+            "region": "Nessus"
+        },
+        {
+            "name": "Divalian Mists - Patrol 3",
+            "category": [
+                "Dreaming City - Patrol"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "The Strand - Patrol 3",
+            "category": [
+                "Dreaming City - Patrol"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "Rheasilvia - Patrol 3",
+            "category": [
+                "Dreaming City - Patrol"
+            ],
+            "region": "Dreaming City"
+        },
+        {
+            "name": "Quagmire - Patrol 3",
+            "category": [
+                "Throne World - Patrol"
+            ],
+            "region": "Throne World"
+        },
+        {
+            "name": "Florescent Canal - Patrol 3",
+            "category": [
+                "Throne World - Patrol"
+            ],
+            "region": "Throne World"
+        },
+        {
+            "name": "Miasma - Patrol 3",
             "category": [
                 "Throne World - Patrol"
             ],
